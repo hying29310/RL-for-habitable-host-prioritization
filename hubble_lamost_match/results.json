@@ -1,0 +1,102 @@
+{
+  "status": "PASS",
+  "checks": {
+    "image_is_HST": true,
+    "in_LAMOST_declination_region": true,
+    "detected_source_match_under_0p3_arcsec": true,
+    "one_detection_within_0p3_arcsec": true,
+    "no_additional_detections_within_1p65_arcsec": true,
+    "zero_LAMOST_fibermask": true,
+    "catalog_spectrum_obsid_agree": true,
+    "catalog_spectrum_position_agree": true,
+    "spectrum_has_over_3000_good_bins": true,
+    "finite_stellar_parameters": true,
+    "WCS_roundtrip_under_1e_minus_4_pixel": true
+  },
+  "run_utc": "2026-10-25T18:13:42.497477+00:00",
+  "hst_file": "icmp09011_drz.fits",
+  "hst_target": "M-67",
+  "hst_filter": "F621M",
+  "hst_date": "2014-11-09",
+  "hst_exposure_seconds": 10.0,
+  "image_shape_yx": [
+    2192,
+    2063
+  ],
+  "detection_count": 526,
+  "lamost_catalog_rows": 22,
+  "quality_filtered_catalog_rows": 4,
+  "catalog_query_url": "https://www.lamost.org/dr11/v2.0/voservice/conesearch?RA=132.825&DEC=11.8&SR=0.05",
+  "hst_url": "https://mast.stsci.edu/api/v0.1/Download/file?uri=mast:HST/product/icmp09011_drz.fits",
+  "gaia_query": "select source_id,ra,dec,ref_epoch,pmra,pmdec,parallax,ruwe from gaiadr3.gaia_source where source_id in (604917526275831040,604917285757663872,604917491916095872)",
+  "match": {
+    "hst_source_id": "HST_DET_0235",
+    "lamost_designation": "J085119.17+114754.6",
+    "lamost_obsid": 420808077,
+    "lamost_release": "DR11 v2.0 LRS",
+    "gaia_dr3_source_id": "604917526275831040",
+    "hst_centroid_xy_zero_based": [
+      1160.1448223671262,
+      1050.3969037870938
+    ],
+    "hst_ra_deg": 132.82988714025112,
+    "hst_dec_deg": 11.79851527488178,
+    "gaia_at_hst_ra_deg": 132.82987620348513,
+    "gaia_at_hst_dec_deg": 11.798512419684723,
+    "hst_gaia_epoch_corrected_separation_arcsec": 0.03988764208675049,
+    "hst_lamost_catalog_separation_arcsec": 0.06829238091128839,
+    "second_nearest_detection_to_gaia_arcsec": 6.8837650486779385,
+    "other_detections_within_1p65_arcsec": 0,
+    "gaia_ruwe": 1.0432919,
+    "temperature_K": 6105.19,
+    "temperature_catalog_error_K": 16.18,
+    "Fe_H_dex": -0.145,
+    "Fe_H_catalog_error_dex": 0.01,
+    "logg_dex": 4.241,
+    "logg_catalog_error_dex": 0.02,
+    "spectral_subclass": "F6",
+    "snrg": 217.48,
+    "fibermask": 0,
+    "lamost_observation_date": "2016-02-06",
+    "aperture_flux_electrons_per_second": 23215.11794401816,
+    "spectrum_url": "https://www.lamost.org/dr11/v2.0/spectrum/fits/420808077",
+    "stellar_parameter_origin": "LAMOST catalog; not estimated from Hubble pixels",
+    "uncertainty_note": "Quoted catalog fit errors do not include all systematic uncertainty."
+  },
+  "spectrum_range_angstrom": [
+    3699.986328125,
+    9099.134765625
+  ],
+  "usable_spectrum_bins": 3909,
+  "settings": {
+    "background_box_pixels": 64,
+    "DAO_fwhm_pixels": 2.5,
+    "threshold_local_rms": 5
+  },
+  "limitations": [
+    "One validated association, not a complete field catalog.",
+    "LAMOST empty-primary-HDU NAXIS1/NAXIS2 metadata fixed in memory; downloaded bytes preserved.",
+    "Image detections can include artifacts; absence of detected neighbors does not prove no unresolved companion.",
+    "No HST saturation/DQ audit or precision photometric calibration performed.",
+    "Only zero-fibermask, SNRg>20 spectra with finite plausible parameters are used for this demonstration.",
+    "No stellar parameter fitting, habitability inference, transit search, or RL training."
+  ],
+  "files": [
+    {
+      "name": "icmp09011_drz.fits",
+      "sha256": "a120588e124f1622d83f1f0aa58880fa58828b5c885923467ee6fec04247d70d"
+    },
+    {
+      "name": "lamost_cone.xml",
+      "sha256": "c866fdde87b944188f70648a163e4b8b212d198f8c39591389144e0bebeb107c"
+    },
+    {
+      "name": "gaia.json",
+      "sha256": "936bc8788dbab017b4f956289d3c381eb9a342f898e3fe0183646aa13c0dd828"
+    },
+    {
+      "name": "lamost_420808077.fits.gz",
+      "sha256": "424ec16dd536ef687a9d10c3e9faea76e80fbbb0174afc0ce15452d8b2f6bb04"
+    }
+  ]
+}

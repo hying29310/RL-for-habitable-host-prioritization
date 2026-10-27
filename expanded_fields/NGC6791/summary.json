@@ -1,0 +1,40 @@
+{
+  "field": "NGC6791",
+  "observation": {
+    "TELESCOP": "HST",
+    "INSTRUME": "WFC3",
+    "DETECTOR": "UVIS",
+    "TARGNAME": "NGC6791",
+    "FILTER": "F606W",
+    "DATE-OBS": "2010-09-02",
+    "EXPTIME": 30.0,
+    "EXPSTART": 55441.3419144
+  },
+  "image": "ibc603zoq_drc.fits",
+  "eligible_unique_stars_in_cone": 10,
+  "positionally_matched_stars": 1,
+  "retrieval": {
+    "run_utc": "2026-10-25T23:38:00.399452+00:00",
+    "input_file": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/expanded_fields/NGC6791/matches.json",
+    "catalog_file": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/expanded_fields/data/NGC6791/lamost.xml",
+    "catalog_sha256": "d8f72343b977d768bcffa81cfdf0fa89a9466aa2fa17985088fefa95eae11100",
+    "input_records": 1,
+    "unique_associations_requested": 1,
+    "records_without_lamost_obsid": 0,
+    "retrieved": 1,
+    "failed": [],
+    "status": "PASS",
+    "notes": [
+      "Parameters are catalog estimates, not newly fitted from spectra.",
+      "Catalog parameter errors omit some systematic uncertainty.",
+      "Spectrum flux-error array is derived as 1/sqrt(inverse variance).",
+      "Repeated observations remain distinct; no averaging or coaddition performed."
+    ]
+  },
+  "audit_status_counts": {
+    "accepted": 1,
+    "no_image_coverage": 1,
+    "outside_image": 8
+  },
+  "sha256_image": "90f2c4027a07c4c7465c618aad70a564d8cdf5504a94c2aa9f2a2c9124a73523"
+}

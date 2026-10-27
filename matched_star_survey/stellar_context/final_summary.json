@@ -1,0 +1,11 @@
+{
+  "stars_checked": 31,
+  "radius_estimates": 25,
+  "luminosity_estimates": 24,
+  "downloaded_lightcurves": 23,
+  "all_three_available": 21,
+  "lightcurve_missions": {
+    "HLSP": 2,
+    "Kepler": 21
+  }
+}

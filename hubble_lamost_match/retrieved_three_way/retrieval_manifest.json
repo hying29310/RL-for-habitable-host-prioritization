@@ -1,0 +1,18 @@
+{
+  "run_utc": "2026-10-25T19:03:29.158123+00:00",
+  "input_file": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/hubble_lamost_match/all_three_way_matches.json",
+  "catalog_file": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/hubble_lamost_match/data/lamost_cone.xml",
+  "catalog_sha256": "c866fdde87b944188f70648a163e4b8b212d198f8c39591389144e0bebeb107c",
+  "input_records": 3,
+  "unique_associations_requested": 3,
+  "records_without_lamost_obsid": 0,
+  "retrieved": 3,
+  "failed": [],
+  "status": "PASS",
+  "notes": [
+    "Parameters are catalog estimates, not newly fitted from spectra.",
+    "Catalog parameter errors omit some systematic uncertainty.",
+    "Spectrum flux-error array is derived as 1/sqrt(inverse variance).",
+    "Repeated observations remain distinct; no averaging or coaddition performed."
+  ]
+}

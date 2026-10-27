@@ -1,0 +1,23 @@
+{
+  "new_unique_stars": 70,
+  "overlap_with_previous_34": 0,
+  "spectra_downloaded_and_checked": 70,
+  "radius_luminosity_source": "Gaia DR3 FLAME for all 70",
+  "field_counts": {
+    "M31_PHAT1": 21,
+    "M35": 9,
+    "M33": 3,
+    "M31": 12,
+    "NGC2168": 17,
+    "Pal4": 1,
+    "NGC1960": 2,
+    "Orion": 2,
+    "IC348": 1,
+    "NGC4147": 1,
+    "NGC6535": 1
+  },
+  "hst_without_zero_flag_detection": 10,
+  "nonzero_fiber_mask": 0,
+  "large_T_R_L_disagreement_over_0p3_dex": 2,
+  "checks": "PASS"
+}

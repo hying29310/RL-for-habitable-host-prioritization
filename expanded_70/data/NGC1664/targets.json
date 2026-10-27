@@ -1,0 +1,184 @@
+[
+  {
+    "gaia_dr3_source_id": "204606576925196544",
+    "lamost_obsid": 39103032,
+    "ra": 72.233075,
+    "dec": 43.682379,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204610906251725440",
+    "lamost_obsid": 39103045,
+    "ra": 72.205362,
+    "dec": 43.776049,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204561325149732608",
+    "lamost_obsid": 39103046,
+    "ra": 72.343851,
+    "dec": 43.726949,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204558915670646912",
+    "lamost_obsid": 39103230,
+    "ra": 72.159813,
+    "dec": 43.593831,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "204601113726370816",
+    "lamost_obsid": 39103243,
+    "ra": 72.101156,
+    "dec": 43.64799,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204606061529154304",
+    "lamost_obsid": 39103247,
+    "ra": 72.184342,
+    "dec": 43.633151,
+    "fibermask": 192
+  },
+  {
+    "gaia_dr3_source_id": "204560122558904448",
+    "lamost_obsid": 39203046,
+    "ra": 72.343326,
+    "dec": 43.67671,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204553113172360192",
+    "lamost_obsid": 39203230,
+    "ra": 72.140104,
+    "dec": 43.594086,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204604309183989248",
+    "lamost_obsid": 39203236,
+    "ra": 72.066713,
+    "dec": 43.690339,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204600082934231680",
+    "lamost_obsid": 39203243,
+    "ra": 72.109354,
+    "dec": 43.610599,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "204559538443384704",
+    "lamost_obsid": 39203247,
+    "ra": 72.22878,
+    "dec": 43.650857,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "204561222070522112",
+    "lamost_obsid": 39303046,
+    "ra": 72.322804,
+    "dec": 43.720989,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204559332284946816",
+    "lamost_obsid": 309102029,
+    "ra": 72.2781906,
+    "dec": 43.6403492,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204601251165334400",
+    "lamost_obsid": 309102049,
+    "ra": 72.0618483,
+    "dec": 43.6429,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204559538443386368",
+    "lamost_obsid": 363110098,
+    "ra": 72.226223,
+    "dec": 43.647353,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "204561222072337152",
+    "lamost_obsid": 364903046,
+    "ra": 72.313458,
+    "dec": 43.719534,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "204600044278726016",
+    "lamost_obsid": 422309090,
+    "ra": 72.139271,
+    "dec": 43.605521,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "204559568507141504",
+    "lamost_obsid": 870509082,
+    "ra": 72.2464,
+    "dec": 43.670445,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204600254732927232",
+    "lamost_obsid": 870509090,
+    "ra": 72.080985,
+    "dec": 43.620366,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204607122383909760",
+    "lamost_obsid": 880503233,
+    "ra": 72.151162,
+    "dec": 43.698763,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204606366469607552",
+    "lamost_obsid": 880503247,
+    "ra": 72.197083,
+    "dec": 43.67916,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "204600048574964992",
+    "lamost_obsid": 1067309090,
+    "ra": 72.134031,
+    "dec": 43.607869,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204559126126541056",
+    "lamost_obsid": 1071009081,
+    "ra": 72.191535,
+    "dec": 43.632874,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204560947192619776",
+    "lamost_obsid": 1071009087,
+    "ra": 72.341439,
+    "dec": 43.694723,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204600220373194368",
+    "lamost_obsid": 1071009090,
+    "ra": 72.075048,
+    "dec": 43.612087,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "204604755858611584",
+    "lamost_obsid": 1071009093,
+    "ra": 72.074728,
+    "dec": 43.728717,
+    "fibermask": 64
+  }
+]

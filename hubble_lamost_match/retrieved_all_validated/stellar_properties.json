@@ -1,0 +1,54 @@
+[
+  {
+    "source_id": "HST_DET_0235",
+    "lamost_obsid": 420808077,
+    "release": "DR11 v2.0 LRS",
+    "original_match_record": {
+      "source_id": "HST_DET_0235",
+      "x": 1160.1448223671262,
+      "y": 1050.3969037870938,
+      "ra_deg": 132.82988714025112,
+      "dec_deg": 11.79851527488178,
+      "temperature_K": 6105.19,
+      "Fe_H_dex": -0.145,
+      "lamost_obsid": 420808077,
+      "match_status": "validated_example"
+    },
+    "designation": "J085119.17+114754.6",
+    "observation_date": "2016-02-06",
+    "gaia_dr3_source_id": "604917526275831040",
+    "temperature_K": 6105.19,
+    "temperature_catalog_error_K": 16.18,
+    "Fe_H_dex": -0.145,
+    "Fe_H_catalog_error_dex": 0.01,
+    "logg_dex": 4.241,
+    "logg_catalog_error_dex": 0.02,
+    "radial_velocity_km_s": 47.89,
+    "radial_velocity_catalog_error_km_s": 2.94,
+    "spectral_class": "STAR",
+    "spectral_subclass": "F6",
+    "snrg": 217.48,
+    "snrr": 279.84,
+    "fibermask": 0,
+    "catalog_ra_deg": 132.8299056,
+    "catalog_dec_deg": 11.7985095,
+    "spectrum": {
+      "arrays_file": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/hubble_lamost_match/retrieved_all_validated/spectrum_420808077.npz",
+      "original_fits": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/hubble_lamost_match/data/lamost_420808077.fits.gz",
+      "sha256": "424ec16dd536ef687a9d10c3e9faea76e80fbbb0174afc0ce15452d8b2f6bb04",
+      "sample_count": 3909,
+      "usable_sample_count": 3909,
+      "wavelength_min_angstrom": 3699.986328125,
+      "wavelength_max_angstrom": 9099.134765625,
+      "spectrum_fibermask": 0,
+      "flux_description": "Original LAMOST catalog flux scale; no absolute calibration assumed.",
+      "download_url": "https://www.lamost.org/dr11/v2.0/spectrum/fits/420808077"
+    },
+    "quality": {
+      "fiber_mask_zero": true,
+      "snrg_above_20": true,
+      "stellar_parameters_available": true,
+      "note": "Preserved supplied association; no new position match or scientific quality certification."
+    }
+  }
+]

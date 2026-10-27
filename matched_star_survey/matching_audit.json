@@ -1,0 +1,969 @@
+[
+  {
+    "gaia_dr3_source_id": "2051105067218785280",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2051105891852617856",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2051097813013102208",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2051294728671479424",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2051105307736986496",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 121,
+    "evaluations": [
+      {
+        "hsc_match_id": "18543517",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.09109488585858445
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "18543517"
+  },
+  {
+    "gaia_dr3_source_id": "2051293904037696256",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 7,
+    "evaluations": [
+      {
+        "hsc_match_id": "34630649",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.0726416058429827
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "34630649"
+  },
+  {
+    "gaia_dr3_source_id": "2051105788773383424",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 85,
+    "evaluations": [
+      {
+        "hsc_match_id": "1925401",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.09436032979500691
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "1925401"
+  },
+  {
+    "gaia_dr3_source_id": "2051293083704792960",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 116,
+    "evaluations": [
+      {
+        "hsc_match_id": "12807826",
+        "images_within_0p3_arcsec": 23,
+        "distinct_white_light_detections": 12,
+        "median_separation_arcsec": 0.024224494147719988
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "12807826"
+  },
+  {
+    "gaia_dr3_source_id": "2051105376456445824",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 81,
+    "evaluations": [
+      {
+        "hsc_match_id": "67579827",
+        "images_within_0p3_arcsec": 13,
+        "distinct_white_light_detections": 6,
+        "median_separation_arcsec": 0.030834832964282344
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "67579827"
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914036608",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 4,
+    "evaluations": [
+      {
+        "hsc_match_id": "54368010",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.05271706114561912
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "54368010"
+  },
+  {
+    "gaia_dr3_source_id": "2076491485036663296",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076393937742523904",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "101540506",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.16140854205274724
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "101540506"
+  },
+  {
+    "gaia_dr3_source_id": "2076299963859446016",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "43115749",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.04053232724713805
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "43115749"
+  },
+  {
+    "gaia_dr3_source_id": "2076487976036241536",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 5,
+    "evaluations": [
+      {
+        "hsc_match_id": "1444940",
+        "images_within_0p3_arcsec": 6,
+        "distinct_white_light_detections": 6,
+        "median_separation_arcsec": 0.23974388220610476
+      },
+      {
+        "hsc_match_id": "52581685",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.26976019067291573
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "2076393624194561152",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "31097870",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.04875496553520287
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "31097870"
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914035456",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 6,
+    "evaluations": [
+      {
+        "hsc_match_id": "65933256",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.17631111811142547
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "65933256"
+  },
+  {
+    "gaia_dr3_source_id": "2076299993911496320",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "25976995",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.0333329024817955
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "25976995"
+  },
+  {
+    "gaia_dr3_source_id": "2076488083422693888",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "5785121",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.415494271608874
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076487838597288320",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "24842733",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.02422590197091553
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "24842733"
+  },
+  {
+    "gaia_dr3_source_id": "2076491515089601408",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "72590761",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.21724166136049575
+      },
+      {
+        "hsc_match_id": "72143368",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.18717140422246856
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "2076299998219216256",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 11,
+    "evaluations": [
+      {
+        "hsc_match_id": "50914152",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.03585813938475665
+      },
+      {
+        "hsc_match_id": "15388359",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4155927464378204
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "50914152"
+  },
+  {
+    "gaia_dr3_source_id": "2076488049062938240",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "54379864",
+        "images_within_0p3_arcsec": 1,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.37440500994755427
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076488323940775680",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076300066938728832",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 7,
+    "evaluations": [
+      {
+        "hsc_match_id": "32970048",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.13553083489996265
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "32970048"
+  },
+  {
+    "gaia_dr3_source_id": "2076487327508376832",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076488427020146176",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 4,
+    "evaluations": [
+      {
+        "hsc_match_id": "96928281",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.3786742773005296
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076488289581010816",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076300032578973952",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 9,
+    "evaluations": [
+      {
+        "hsc_match_id": "23329878",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.035626664783953245
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "23329878"
+  },
+  {
+    "gaia_dr3_source_id": "2076487430587543168",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "41621349",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.2548464063186658
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "41621349"
+  },
+  {
+    "gaia_dr3_source_id": "2076487739825262976",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "77566481",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.026870222863052445
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "77566481"
+  },
+  {
+    "gaia_dr3_source_id": "2076489217294043904",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "26521345",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.2718087351049082
+      },
+      {
+        "hsc_match_id": "58328189",
+        "images_within_0p3_arcsec": 1,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.3241678005794726
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "26521345"
+  },
+  {
+    "gaia_dr3_source_id": "2076299895139969536",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "12280584",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.036225012880170986
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "12280584"
+  },
+  {
+    "gaia_dr3_source_id": "2076487636746036736",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "18903234",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.03378197524460585
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "18903234"
+  },
+  {
+    "gaia_dr3_source_id": "2076393731584089856",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 6,
+    "evaluations": [
+      {
+        "hsc_match_id": "91479196",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.04904118054116816
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "91479196"
+  },
+  {
+    "gaia_dr3_source_id": "2076488804977135488",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 4,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076487980343426944",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "106397212",
+        "images_within_0p3_arcsec": 1,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.3050393536306892
+      },
+      {
+        "hsc_match_id": "71143724",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.43751047535953896
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076489217294033536",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 4,
+    "evaluations": [
+      {
+        "hsc_match_id": "36688561",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.25989361738948175
+      },
+      {
+        "hsc_match_id": "12716086",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.24312392760593093
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "1454784484916761856",
+    "field": "M3",
+    "candidate_hsc_matches": 70,
+    "evaluations": [
+      {
+        "hsc_match_id": "90819072",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.05640201079950784
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "90819072"
+  },
+  {
+    "gaia_dr3_source_id": "1454784626653819008",
+    "field": "M3",
+    "candidate_hsc_matches": 102,
+    "evaluations": [
+      {
+        "hsc_match_id": "30001008",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.02664864365796879
+      },
+      {
+        "hsc_match_id": "76694262",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4553975095618847
+      },
+      {
+        "hsc_match_id": "91816325",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.3328489890858235
+      },
+      {
+        "hsc_match_id": "9727840",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4567459017276352
+      },
+      {
+        "hsc_match_id": "102297493",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5805121905480528
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "30001008"
+  },
+  {
+    "gaia_dr3_source_id": "1454878458800893440",
+    "field": "M3",
+    "candidate_hsc_matches": 31,
+    "evaluations": [
+      {
+        "hsc_match_id": "98851891",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.045340662956077665
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "98851891"
+  },
+  {
+    "gaia_dr3_source_id": "1454875233277333632",
+    "field": "M3",
+    "candidate_hsc_matches": 70,
+    "evaluations": [
+      {
+        "hsc_match_id": "29122822",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.029989888603390157
+      },
+      {
+        "hsc_match_id": "56643893",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5664869953039968
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "29122822"
+  },
+  {
+    "gaia_dr3_source_id": "3937271394411123968",
+    "field": "M53",
+    "candidate_hsc_matches": 113,
+    "evaluations": [
+      {
+        "hsc_match_id": "65567658",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.21996706874880428
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "65567658"
+  },
+  {
+    "gaia_dr3_source_id": "3938022085973127040",
+    "field": "M53",
+    "candidate_hsc_matches": 94,
+    "evaluations": [
+      {
+        "hsc_match_id": "85515697",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5140178171878759
+      },
+      {
+        "hsc_match_id": "53224529",
+        "images_within_0p3_arcsec": 7,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.034757447380954
+      },
+      {
+        "hsc_match_id": "57281117",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.46474538030678547
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "53224529"
+  },
+  {
+    "gaia_dr3_source_id": "3937271321396679936",
+    "field": "M53",
+    "candidate_hsc_matches": 90,
+    "evaluations": [
+      {
+        "hsc_match_id": "92105130",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.07050643977378993
+      },
+      {
+        "hsc_match_id": "52799415",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5625005744456885
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "92105130"
+  },
+  {
+    "gaia_dr3_source_id": "3938022395210875648",
+    "field": "M53",
+    "candidate_hsc_matches": 98,
+    "evaluations": [
+      {
+        "hsc_match_id": "74590446",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.016118160469602967
+      },
+      {
+        "hsc_match_id": "3174354",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4782128072079876
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "74590446"
+  },
+  {
+    "gaia_dr3_source_id": "3937271360051374208",
+    "field": "M53",
+    "candidate_hsc_matches": 91,
+    "evaluations": [
+      {
+        "hsc_match_id": "77852630",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5869260978248333
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "1408588710034274560",
+    "field": "NGC6229",
+    "candidate_hsc_matches": 9,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426165991221226880",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 34,
+    "evaluations": [
+      {
+        "hsc_match_id": "65133308",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.1811089660510382
+      },
+      {
+        "hsc_match_id": "73325187",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.1649903574469347
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3426177845330947200",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 58,
+    "evaluations": [
+      {
+        "hsc_match_id": "60410379",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.1770513470666707
+      },
+      {
+        "hsc_match_id": "98051247",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.20938810294896165
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3426177394363645312",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 63,
+    "evaluations": [
+      {
+        "hsc_match_id": "92973110",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.29257971101165203
+      },
+      {
+        "hsc_match_id": "103302794",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.30902017554624583
+      },
+      {
+        "hsc_match_id": "59362885",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5929073794132105
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "92973110"
+  },
+  {
+    "gaia_dr3_source_id": "3426165578904396800",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 53,
+    "evaluations": [
+      {
+        "hsc_match_id": "60620494",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.36297564162383655
+      },
+      {
+        "hsc_match_id": "5746618",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.33035515913738156
+      },
+      {
+        "hsc_match_id": "83201930",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.40817447535091056
+      },
+      {
+        "hsc_match_id": "33525976",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4527041456064455
+      },
+      {
+        "hsc_match_id": "54481276",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 2.102857208395256
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426165578904396672",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 54,
+    "evaluations": [
+      {
+        "hsc_match_id": "83201930",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 2.31243499020753
+      },
+      {
+        "hsc_match_id": "5746618",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 1.8005475754722355
+      },
+      {
+        "hsc_match_id": "60620494",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 1.9730292764038198
+      },
+      {
+        "hsc_match_id": "33525976",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 1.9288030561107958
+      },
+      {
+        "hsc_match_id": "54481276",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.02670726877265711
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "54481276"
+  },
+  {
+    "gaia_dr3_source_id": "3426165922501751936",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 68,
+    "evaluations": [
+      {
+        "hsc_match_id": "70177474",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.033306796545242684
+      },
+      {
+        "hsc_match_id": "55378195",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.23977923665256073
+      },
+      {
+        "hsc_match_id": "61444685",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.2190591040102976
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3426177810971217536",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 87,
+    "evaluations": [
+      {
+        "hsc_match_id": "34939497",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.21871081329303116
+      },
+      {
+        "hsc_match_id": "44344064",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.21836267385591038
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "865400180313163392",
+    "field": "NGC2420",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "865400867507937280",
+    "field": "NGC2420",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "51767165",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.023403932175215775
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "51767165"
+  },
+  {
+    "gaia_dr3_source_id": "865401795220837120",
+    "field": "NGC2420",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "70700076",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.05396851580904885
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "70700076"
+  },
+  {
+    "gaia_dr3_source_id": "1745948323734109312",
+    "field": "M15",
+    "candidate_hsc_matches": 149,
+    "evaluations": [
+      {
+        "hsc_match_id": "59429124",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.464758762195011
+      },
+      {
+        "hsc_match_id": "71521949",
+        "images_within_0p3_arcsec": 11,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.01087440586722812
+      },
+      {
+        "hsc_match_id": "89245237",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5937460118290506
+      },
+      {
+        "hsc_match_id": "63480210",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5132288564666957
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "71521949"
+  }
+]

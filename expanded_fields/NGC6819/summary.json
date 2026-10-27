@@ -1,0 +1,23 @@
+{
+  "field": "NGC6819",
+  "observation": {
+    "TELESCOP": "HST",
+    "INSTRUME": "WFC3",
+    "DETECTOR": "UVIS",
+    "TARGNAME": "NGC-6819",
+    "FILTER": "F814W",
+    "DATE-OBS": "2009-10-22",
+    "EXPTIME": 10.0,
+    "EXPSTART": 55126.50438456
+  },
+  "image": "ib2o06020_drc.fits",
+  "eligible_unique_stars_in_cone": 32,
+  "positionally_matched_stars": 0,
+  "retrieval": null,
+  "audit_status_counts": {
+    "no_image_coverage": 3,
+    "outside_image": 26,
+    "rejected_offset_or_ambiguous": 3
+  },
+  "sha256_image": "def6f6dec1b01780d4667f560baeb28df4ef17de42bd8c49e1a75e6569583bda"
+}

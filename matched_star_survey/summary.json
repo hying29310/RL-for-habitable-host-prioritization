@@ -1,0 +1,22 @@
+{
+  "outside_M67": 31,
+  "M67_previous": 3,
+  "total_distinct_stars": 34,
+  "outside_M67_fields": {
+    "M15": 1,
+    "M3": 4,
+    "M53": 2,
+    "NGC2158": 1,
+    "NGC2420": 2,
+    "NGC6791": 5,
+    "NGC6819": 16
+  },
+  "spectra_downloaded": 31,
+  "hst_cutouts_downloaded": 31,
+  "lamost_zero_fiber_mask": 17,
+  "lamost_flagged": 14,
+  "has_HSC_zero_flag_detection": 6,
+  "both_lamost_and_at_least_one_HSC_detection_zero_flag": 3,
+  "multiple_independent_white_light_detections": 27,
+  "method": "HSC v3 image detections crossmatched to Gaia DR3 with epoch correction, then checked against LAMOST DR11 v2.0 positions and observation IDs."
+}

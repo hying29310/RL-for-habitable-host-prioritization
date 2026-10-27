@@ -1,0 +1,238 @@
+[
+  {
+    "gaia_dr3_source_id": "2076487945983698432",
+    "available_parameter_observations": 2,
+    "predicted_x": 3489.081538676147,
+    "predicted_y": 6910.563533330587,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914036608",
+    "available_parameter_observations": 1,
+    "predicted_x": 2256.3610333735023,
+    "predicted_y": 192.17099348296983,
+    "nearest_separation_arcsec": 0.16627109212392635,
+    "detections_within_0p3_arcsec": 2,
+    "second_nearest_arcsec": 0.23418348010007198,
+    "status": "rejected_offset_or_ambiguous"
+  },
+  {
+    "gaia_dr3_source_id": "2076581713708054656",
+    "available_parameter_observations": 2,
+    "predicted_x": 23.741077695942522,
+    "predicted_y": 4760.659665246227,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076394448828275584",
+    "available_parameter_observations": 1,
+    "predicted_x": -3257.7147465933613,
+    "predicted_y": 1026.7713246184148,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076298761268676352",
+    "available_parameter_observations": 1,
+    "predicted_x": 4707.137414478301,
+    "predicted_y": -4367.493953248039,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076392528993233024",
+    "available_parameter_observations": 2,
+    "predicted_x": 4339.575495380139,
+    "predicted_y": -5562.105409403291,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393937742523904",
+    "available_parameter_observations": 1,
+    "predicted_x": -71.070590170365,
+    "predicted_y": 1943.05441684391,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076299963859446016",
+    "available_parameter_observations": 1,
+    "predicted_x": 6892.779472100088,
+    "predicted_y": 2439.7482611447817,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393010029609984",
+    "available_parameter_observations": 2,
+    "predicted_x": -260.6276084897386,
+    "predicted_y": -2056.4755851751033,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393624194561152",
+    "available_parameter_observations": 1,
+    "predicted_x": 1937.1718308563782,
+    "predicted_y": -1196.4262123947015,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914035456",
+    "available_parameter_observations": 1,
+    "predicted_x": 1281.6887134758572,
+    "predicted_y": 256.39004187531964,
+    "nearest_separation_arcsec": 0.09591052669606286,
+    "detections_within_0p3_arcsec": 5,
+    "second_nearest_arcsec": 0.1653857029640229,
+    "status": "rejected_offset_or_ambiguous"
+  },
+  {
+    "gaia_dr3_source_id": "2076299993911496320",
+    "available_parameter_observations": 1,
+    "predicted_x": 5084.401111609894,
+    "predicted_y": 2109.2415891246137,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393353627026944",
+    "available_parameter_observations": 1,
+    "predicted_x": -2569.0279987908834,
+    "predicted_y": -3167.344946706605,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076488083422693888",
+    "available_parameter_observations": 1,
+    "predicted_x": 583.9580652829982,
+    "predicted_y": 6129.172022393961,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076487838597288320",
+    "available_parameter_observations": 2,
+    "predicted_x": 2585.269638441998,
+    "predicted_y": 4644.111781070851,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076392528993243008",
+    "available_parameter_observations": 2,
+    "predicted_x": 3597.424618242324,
+    "predicted_y": -5896.351367584531,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393765943846656",
+    "available_parameter_observations": 1,
+    "predicted_x": -198.29958173458135,
+    "predicted_y": -646.4242876846301,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076299998219216256",
+    "available_parameter_observations": 1,
+    "predicted_x": 4422.710270073041,
+    "predicted_y": 2510.420445828635,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076488049062938240",
+    "available_parameter_observations": 1,
+    "predicted_x": 1511.2167321437407,
+    "predicted_y": 6726.989847953653,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076392700791972992",
+    "available_parameter_observations": 1,
+    "predicted_x": 677.9106508572745,
+    "predicted_y": -6025.287867355546,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076300066938728832",
+    "available_parameter_observations": 1,
+    "predicted_x": 2932.4613961280015,
+    "predicted_y": 863.0314923147364,
+    "nearest_separation_arcsec": 0.029291272210730024,
+    "detections_within_0p3_arcsec": 2,
+    "second_nearest_arcsec": 0.12133074615008009,
+    "status": "rejected_offset_or_ambiguous"
+  },
+  {
+    "gaia_dr3_source_id": "2076487327508376832",
+    "available_parameter_observations": 1,
+    "predicted_x": 6642.2995306825105,
+    "predicted_y": 4615.017586355161,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076581748067804288",
+    "available_parameter_observations": 1,
+    "predicted_x": -1221.4879040673468,
+    "predicted_y": 5325.319475556309,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076392769511450368",
+    "available_parameter_observations": 2,
+    "predicted_x": 233.3740845251807,
+    "predicted_y": -5047.702915066189,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076300032578973952",
+    "available_parameter_observations": 1,
+    "predicted_x": 3812.514244433164,
+    "predicted_y": 1319.9886986008655,
+    "nearest_separation_arcsec": 0.024785110329405315,
+    "detections_within_0p3_arcsec": 2,
+    "second_nearest_arcsec": 0.1210014097733582,
+    "status": "rejected_offset_or_ambiguous"
+  },
+  {
+    "gaia_dr3_source_id": "2076299207945186048",
+    "available_parameter_observations": 1,
+    "predicted_x": 9929.729938724326,
+    "predicted_y": -786.5166980053582,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076487739825262976",
+    "available_parameter_observations": 1,
+    "predicted_x": 4380.483130904966,
+    "predicted_y": 5572.391425329846,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076299895139969536",
+    "available_parameter_observations": 1,
+    "predicted_x": 7160.487499172332,
+    "predicted_y": 1606.7968294750435,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076487636746036736",
+    "available_parameter_observations": 1,
+    "predicted_x": 5647.388206024485,
+    "predicted_y": 4410.051427664244,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393731584089856",
+    "available_parameter_observations": 1,
+    "predicted_x": 1010.9189837463168,
+    "predicted_y": -264.3594644246655,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393834663321344",
+    "available_parameter_observations": 1,
+    "predicted_x": -135.21984837477794,
+    "predicted_y": -194.4021323416846,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076394109541228672",
+    "available_parameter_observations": 1,
+    "predicted_x": -1548.1454662098217,
+    "predicted_y": 3217.730208614142,
+    "status": "outside_image"
+  }
+]

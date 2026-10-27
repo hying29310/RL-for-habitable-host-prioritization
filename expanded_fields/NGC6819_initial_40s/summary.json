@@ -1,0 +1,22 @@
+{
+  "field": "NGC6819",
+  "observation": {
+    "TELESCOP": "HST",
+    "INSTRUME": "WFC3",
+    "DETECTOR": "UVIS",
+    "TARGNAME": "NGC-6819",
+    "FILTER": "F350LP",
+    "DATE-OBS": "2022-10-13",
+    "EXPTIME": 40.0,
+    "EXPSTART": 59865.41234469
+  },
+  "image": "iexu17quq_drc.fits",
+  "eligible_unique_stars_in_cone": 32,
+  "positionally_matched_stars": 0,
+  "retrieval": null,
+  "audit_status_counts": {
+    "outside_image": 28,
+    "rejected_offset_or_ambiguous": 4
+  },
+  "sha256_image": "5ed47afe773fd53977e28cfcbc8050a3f55af77ffbd645cec6034b1230209c5a"
+}

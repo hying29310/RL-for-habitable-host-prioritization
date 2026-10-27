@@ -1,0 +1,382 @@
+{
+  "status": "COMPLETE",
+  "msg": "",
+  "data": [
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Preview-Full",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/previews/0050/005024150/kplr005024150-2011177032512_llc_bw_large.png",
+      "productType": "PREVIEW",
+      "productGroupDescription": null,
+      "productSubGroupDescription": null,
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2011177032512_llc_bw_large.png",
+      "size": 30861,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "tar file for Target Pixel Long Cadence (TPL) - all quarters",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/target_pixel_files/0050/005024150/kplr005024150_tpf_lc_Q011000011100000000.tar",
+      "productType": "SCIENCE",
+      "productGroupDescription": null,
+      "productSubGroupDescription": null,
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150_tpf_lc_Q011000011100000000.tar",
+      "size": 27330560,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "tar file for Lightcurves Long Cadence (CLC) - all quarters",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/lightcurves/0050/005024150/kplr005024150_lc_Q011000011100000000.tar",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": null,
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150_lc_Q011000011100000000.tar",
+      "size": 1996800,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Lightcurve Long Cadence (CLC) - Q1",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/lightcurves/0050/005024150/kplr005024150-2009166043257_llc.fits",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LLC",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2009166043257_llc.fits",
+      "size": 192960,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Lightcurve Long Cadence (CLC) - Q2",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/lightcurves/0050/005024150/kplr005024150-2009259160929_llc.fits",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LLC",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2009259160929_llc.fits",
+      "size": 466560,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Lightcurve Long Cadence (CLC) - Q7",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/lightcurves/0050/005024150/kplr005024150-2010355172524_llc.fits",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LLC",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2010355172524_llc.fits",
+      "size": 466560,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Lightcurve Long Cadence (CLC) - Q8",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/lightcurves/0050/005024150/kplr005024150-2011073133259_llc.fits",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LLC",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2011073133259_llc.fits",
+      "size": 357120,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Lightcurve Long Cadence (CLC) - Q9",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/lightcurves/0050/005024150/kplr005024150-2011177032512_llc.fits",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LLC",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2011177032512_llc.fits",
+      "size": 506880,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Target Pixel Long Cadence (TPL) - Q1",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/target_pixel_files/0050/005024150/kplr005024150-2009166043257_lpd-targ.fits.gz",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LPD-TARG",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2009166043257_lpd-targ.fits.gz",
+      "size": 4215351,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Target Pixel Long Cadence (TPL) - Q2",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/target_pixel_files/0050/005024150/kplr005024150-2009259160929_lpd-targ.fits.gz",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LPD-TARG",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2009259160929_lpd-targ.fits.gz",
+      "size": 2525341,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Target Pixel Long Cadence (TPL) - Q7",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/target_pixel_files/0050/005024150/kplr005024150-2010355172524_lpd-targ.fits.gz",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LPD-TARG",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2010355172524_lpd-targ.fits.gz",
+      "size": 7298402,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Target Pixel Long Cadence (TPL) - Q8",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/target_pixel_files/0050/005024150/kplr005024150-2011073133259_lpd-targ.fits.gz",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LPD-TARG",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2011073133259_lpd-targ.fits.gz",
+      "size": 5307210,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    },
+    {
+      "obsID": 593096,
+      "obs_collection": "Kepler",
+      "dataproduct_type": "timeseries",
+      "obs_id": "kplr005024150_lc_Q011000011100000000",
+      "description": "Target Pixel Long Cadence (TPL) - Q9",
+      "type": "C",
+      "dataURI": "mast:KEPLER/url/missions/kepler/target_pixel_files/0050/005024150/kplr005024150-2011177032512_lpd-targ.fits.gz",
+      "productType": "SCIENCE",
+      "productGroupDescription": "Minimum Recommended Products",
+      "productSubGroupDescription": "LPD-TARG",
+      "productDocumentationURL": null,
+      "project": "Kepler",
+      "prvversion": null,
+      "proposal_id": "EX_STKS",
+      "productFilename": "kplr005024150-2011177032512_lpd-targ.fits.gz",
+      "size": 7973976,
+      "parent_obsid": 593096,
+      "dataRights": "PUBLIC",
+      "calib_level": 2,
+      "filters": "KEPLER"
+    }
+  ],
+  "fields": [
+    {
+      "name": "obsID",
+      "type": "string"
+    },
+    {
+      "name": "obs_collection",
+      "type": "string"
+    },
+    {
+      "name": "dataproduct_type",
+      "type": "string"
+    },
+    {
+      "name": "obs_id",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "type",
+      "type": "string"
+    },
+    {
+      "name": "dataURI",
+      "type": "string"
+    },
+    {
+      "name": "productType",
+      "type": "string"
+    },
+    {
+      "name": "productGroupDescription",
+      "type": "string"
+    },
+    {
+      "name": "productSubGroupDescription",
+      "type": "string"
+    },
+    {
+      "name": "productDocumentationURL",
+      "type": "string"
+    },
+    {
+      "name": "project",
+      "type": "string"
+    },
+    {
+      "name": "prvversion",
+      "type": "string"
+    },
+    {
+      "name": "proposal_id",
+      "type": "string"
+    },
+    {
+      "name": "productFilename",
+      "type": "string"
+    },
+    {
+      "name": "size",
+      "type": "int"
+    },
+    {
+      "name": "parent_obsid",
+      "type": "string"
+    },
+    {
+      "name": "dataRights",
+      "type": "string"
+    },
+    {
+      "name": "calib_level",
+      "type": "int"
+    },
+    {
+      "name": "filters",
+      "type": "string"
+    }
+  ],
+  "paging": {
+    "page": 1,
+    "pageSize": 13,
+    "pagesFiltered": 1,
+    "rows": 13,
+    "rowsFiltered": 13,
+    "rowsTotal": 13
+  }
+}

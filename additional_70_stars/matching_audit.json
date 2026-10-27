@@ -1,0 +1,3027 @@
+[
+  {
+    "gaia_dr3_source_id": "4365623493752316672",
+    "field": "M10",
+    "candidate_hsc_matches": 56,
+    "evaluations": [
+      {
+        "hsc_match_id": "25866472",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.050054082293778585
+      },
+      {
+        "hsc_match_id": "68391721",
+        "images_within_0p3_arcsec": 6,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.01245568451823277
+      },
+      {
+        "hsc_match_id": "97605901",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.18184609241369623
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "1745973170119875456",
+    "field": "M15",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "1745952996652941184",
+    "field": "M15",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2686846946706463744",
+    "field": "M2",
+    "candidate_hsc_matches": 83,
+    "evaluations": [
+      {
+        "hsc_match_id": "62530953",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.0051461049359237555
+      },
+      {
+        "hsc_match_id": "79495192",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5013971200835332
+      },
+      {
+        "hsc_match_id": "30870797",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5153141400711438
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "62530953"
+  },
+  {
+    "gaia_dr3_source_id": "1454878875413134080",
+    "field": "M3",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "1454777750405945472",
+    "field": "M3",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "1454874099408643328",
+    "field": "M3",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "369254869770321920",
+    "field": "M31",
+    "candidate_hsc_matches": 139,
+    "evaluations": [
+      {
+        "hsc_match_id": "31380254",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.010925062808484567
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "31380254"
+  },
+  {
+    "gaia_dr3_source_id": "381267515340330880",
+    "field": "M31",
+    "candidate_hsc_matches": 217,
+    "evaluations": [
+      {
+        "hsc_match_id": "38646003",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.52606763582092
+      },
+      {
+        "hsc_match_id": "41911059",
+        "images_within_0p3_arcsec": 13,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.04855810134887585
+      },
+      {
+        "hsc_match_id": "33564133",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.323021211007772
+      },
+      {
+        "hsc_match_id": "85594208",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5775464743371881
+      },
+      {
+        "hsc_match_id": "3615761",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.305558046951435
+      },
+      {
+        "hsc_match_id": "27654583",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5319315211900674
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "41911059"
+  },
+  {
+    "gaia_dr3_source_id": "381261639832013312",
+    "field": "M31",
+    "candidate_hsc_matches": 202,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "369259027298137856",
+    "field": "M31",
+    "candidate_hsc_matches": 161,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381267584064157696",
+    "field": "M31",
+    "candidate_hsc_matches": 203,
+    "evaluations": [
+      {
+        "hsc_match_id": "76878382",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.014537819215514763
+      },
+      {
+        "hsc_match_id": "41102241",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4694234077939393
+      },
+      {
+        "hsc_match_id": "85688701",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4317498420165924
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "76878382"
+  },
+  {
+    "gaia_dr3_source_id": "381270710800313216",
+    "field": "M31",
+    "candidate_hsc_matches": 163,
+    "evaluations": [
+      {
+        "hsc_match_id": "64222237",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.030912460792117707
+      },
+      {
+        "hsc_match_id": "101518710",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5940087321967187
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "64222237"
+  },
+  {
+    "gaia_dr3_source_id": "381271020037944704",
+    "field": "M31",
+    "candidate_hsc_matches": 136,
+    "evaluations": [
+      {
+        "hsc_match_id": "69748816",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.02274455746177868
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "69748816"
+  },
+  {
+    "gaia_dr3_source_id": "369258133944947584",
+    "field": "M31",
+    "candidate_hsc_matches": 194,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381266725073308800",
+    "field": "M31",
+    "candidate_hsc_matches": 190,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381267343548568064",
+    "field": "M31",
+    "candidate_hsc_matches": 204,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381267304887543040",
+    "field": "M31",
+    "candidate_hsc_matches": 213,
+    "evaluations": [
+      {
+        "hsc_match_id": "65926930",
+        "images_within_0p3_arcsec": 18,
+        "distinct_white_light_detections": 12,
+        "median_separation_arcsec": 0.02647960155094697
+      },
+      {
+        "hsc_match_id": "34227750",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.448560366754785
+      },
+      {
+        "hsc_match_id": "106000945",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.42569747279383036
+      },
+      {
+        "hsc_match_id": "52181573",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5702437024978825
+      },
+      {
+        "hsc_match_id": "39918106",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.619628303064345
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "65926930"
+  },
+  {
+    "gaia_dr3_source_id": "381270470282147200",
+    "field": "M31",
+    "candidate_hsc_matches": 124,
+    "evaluations": [
+      {
+        "hsc_match_id": "30871745",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.016792613144127184
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "30871745"
+  },
+  {
+    "gaia_dr3_source_id": "381270813879529344",
+    "field": "M31",
+    "candidate_hsc_matches": 153,
+    "evaluations": [
+      {
+        "hsc_match_id": "89417788",
+        "images_within_0p3_arcsec": 11,
+        "distinct_white_light_detections": 6,
+        "median_separation_arcsec": 0.019076063339090066
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "89417788"
+  },
+  {
+    "gaia_dr3_source_id": "381266381473295232",
+    "field": "M31",
+    "candidate_hsc_matches": 71,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381261055716023424",
+    "field": "M31",
+    "candidate_hsc_matches": 130,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381262155228067200",
+    "field": "M31",
+    "candidate_hsc_matches": 205,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381284317256701440",
+    "field": "M31",
+    "candidate_hsc_matches": 108,
+    "evaluations": [
+      {
+        "hsc_match_id": "3769387",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.505706801280156
+      },
+      {
+        "hsc_match_id": "9777670",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.484977212561679
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381277720186957184",
+    "field": "M31",
+    "candidate_hsc_matches": 81,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381262223947966208",
+    "field": "M31",
+    "candidate_hsc_matches": 215,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "369255247726927488",
+    "field": "M31",
+    "candidate_hsc_matches": 142,
+    "evaluations": [
+      {
+        "hsc_match_id": "29737756",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.016478653469829876
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "29737756"
+  },
+  {
+    "gaia_dr3_source_id": "369249956327243904",
+    "field": "M31",
+    "candidate_hsc_matches": 143,
+    "evaluations": [
+      {
+        "hsc_match_id": "74919433",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.01185473169775404
+      },
+      {
+        "hsc_match_id": "4484514",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.16219567445015054
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "369255591324339456",
+    "field": "M31",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "369250712241484288",
+    "field": "M31",
+    "candidate_hsc_matches": 113,
+    "evaluations": [
+      {
+        "hsc_match_id": "8871928",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.2223917574572324
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "8871928"
+  },
+  {
+    "gaia_dr3_source_id": "381273734457275648",
+    "field": "M31",
+    "candidate_hsc_matches": 75,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381262223944975360",
+    "field": "M31",
+    "candidate_hsc_matches": 205,
+    "evaluations": [
+      {
+        "hsc_match_id": "23478135",
+        "images_within_0p3_arcsec": 14,
+        "distinct_white_light_detections": 8,
+        "median_separation_arcsec": 0.015593068629968782
+      },
+      {
+        "hsc_match_id": "528458",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.587886078872058
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "23478135"
+  },
+  {
+    "gaia_dr3_source_id": "369258511902063616",
+    "field": "M31",
+    "candidate_hsc_matches": 142,
+    "evaluations": [
+      {
+        "hsc_match_id": "55057021",
+        "images_within_0p3_arcsec": 11,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.006505065187308617
+      },
+      {
+        "hsc_match_id": "23079319",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.11313950779991129
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "381267137387732096",
+    "field": "M31",
+    "candidate_hsc_matches": 10,
+    "evaluations": [
+      {
+        "hsc_match_id": "102388688",
+        "images_within_0p3_arcsec": 6,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.029361815815717535
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "102388688"
+  },
+  {
+    "gaia_dr3_source_id": "369256793915161088",
+    "field": "M31",
+    "candidate_hsc_matches": 162,
+    "evaluations": [
+      {
+        "hsc_match_id": "29747334",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.01627652622866181
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "29747334"
+  },
+  {
+    "gaia_dr3_source_id": "369256690835952384",
+    "field": "M31",
+    "candidate_hsc_matches": 160,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381263873214983680",
+    "field": "M31",
+    "candidate_hsc_matches": 112,
+    "evaluations": [
+      {
+        "hsc_match_id": "81780273",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4916918008541129
+      },
+      {
+        "hsc_match_id": "100554277",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.36493888737589747
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381271088763580928",
+    "field": "M31",
+    "candidate_hsc_matches": 154,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381269229029122816",
+    "field": "M31",
+    "candidate_hsc_matches": 234,
+    "evaluations": [
+      {
+        "hsc_match_id": "81302584",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.3615946540130961
+      },
+      {
+        "hsc_match_id": "104382336",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.015740386011408564
+      },
+      {
+        "hsc_match_id": "67469258",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.36316699836882615
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "104382336"
+  },
+  {
+    "gaia_dr3_source_id": "381269027173161088",
+    "field": "M31",
+    "candidate_hsc_matches": 109,
+    "evaluations": [
+      {
+        "hsc_match_id": "22593925",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.03712276561473094
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "22593925"
+  },
+  {
+    "gaia_dr3_source_id": "381261021356740992",
+    "field": "M31",
+    "candidate_hsc_matches": 134,
+    "evaluations": [
+      {
+        "hsc_match_id": "76642001",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.021739869931439674
+      },
+      {
+        "hsc_match_id": "1211615",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.14339642246930967
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "369256759555427072",
+    "field": "M31",
+    "candidate_hsc_matches": 159,
+    "evaluations": [
+      {
+        "hsc_match_id": "58719303",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.025187214537782623
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "58719303"
+  },
+  {
+    "gaia_dr3_source_id": "369249234772749824",
+    "field": "M31",
+    "candidate_hsc_matches": 119,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "369248685016931840",
+    "field": "M31",
+    "candidate_hsc_matches": 95,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381284351616435328",
+    "field": "M31",
+    "candidate_hsc_matches": 108,
+    "evaluations": [
+      {
+        "hsc_match_id": "36085013",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4674130286934041
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381272841104086912",
+    "field": "M31",
+    "candidate_hsc_matches": 145,
+    "evaluations": [
+      {
+        "hsc_match_id": "9763895",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.0334191485768507
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "9763895"
+  },
+  {
+    "gaia_dr3_source_id": "369252327151678336",
+    "field": "M31",
+    "candidate_hsc_matches": 116,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381271599849933440",
+    "field": "M31",
+    "candidate_hsc_matches": 186,
+    "evaluations": [
+      {
+        "hsc_match_id": "36425562",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.01934624528361359
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "36425562"
+  },
+  {
+    "gaia_dr3_source_id": "381270504641893504",
+    "field": "M31",
+    "candidate_hsc_matches": 161,
+    "evaluations": [
+      {
+        "hsc_match_id": "63553205",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.27156660446593567
+      },
+      {
+        "hsc_match_id": "39059353",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.11854670875087123
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "381268919795252224",
+    "field": "M31",
+    "candidate_hsc_matches": 125,
+    "evaluations": [
+      {
+        "hsc_match_id": "96351112",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.01549859879461118
+      },
+      {
+        "hsc_match_id": "37911206",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.17322344444883514
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "369250677881745536",
+    "field": "M31",
+    "candidate_hsc_matches": 129,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381263250433507584",
+    "field": "M31",
+    "candidate_hsc_matches": 41,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "369246142396306816",
+    "field": "M31",
+    "candidate_hsc_matches": 180,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "369249574071575552",
+    "field": "M31",
+    "candidate_hsc_matches": 85,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "369252670746579072",
+    "field": "M31",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "369249131693540864",
+    "field": "M31",
+    "candidate_hsc_matches": 153,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "369255007208760192",
+    "field": "M31",
+    "candidate_hsc_matches": 135,
+    "evaluations": [
+      {
+        "hsc_match_id": "20454254",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.1855138560138714
+      },
+      {
+        "hsc_match_id": "103833381",
+        "images_within_0p3_arcsec": 6,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.010849943592771662
+      },
+      {
+        "hsc_match_id": "86333402",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.1874497276310745
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "381261910408440576",
+    "field": "M31",
+    "candidate_hsc_matches": 145,
+    "evaluations": [
+      {
+        "hsc_match_id": "104185207",
+        "images_within_0p3_arcsec": 12,
+        "distinct_white_light_detections": 8,
+        "median_separation_arcsec": 0.02689579754349136
+      },
+      {
+        "hsc_match_id": "10792519",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.24943301006110352
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "369257412392885248",
+    "field": "M31",
+    "candidate_hsc_matches": 208,
+    "evaluations": [
+      {
+        "hsc_match_id": "39223057",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.1952883125800629
+      },
+      {
+        "hsc_match_id": "74334678",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.04523580919277202
+      },
+      {
+        "hsc_match_id": "103270818",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.20510558757329078
+      },
+      {
+        "hsc_match_id": "51415335",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.3082737771706271
+      },
+      {
+        "hsc_match_id": "98188294",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.18826818331480144
+      },
+      {
+        "hsc_match_id": "98658359",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5876073342543358
+      },
+      {
+        "hsc_match_id": "83953077",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5851023878106674
+      },
+      {
+        "hsc_match_id": "52530088",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5250324497107424
+      },
+      {
+        "hsc_match_id": "17891636",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5735761895504884
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "369253701535312512",
+    "field": "M31",
+    "candidate_hsc_matches": 152,
+    "evaluations": [
+      {
+        "hsc_match_id": "72385931",
+        "images_within_0p3_arcsec": 6,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.03064402500480473
+      },
+      {
+        "hsc_match_id": "51741061",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.1367641845895882
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "369252739466052352",
+    "field": "M31",
+    "candidate_hsc_matches": 153,
+    "evaluations": [
+      {
+        "hsc_match_id": "38770334",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.1636753795439068
+      },
+      {
+        "hsc_match_id": "81296341",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.2261736700147154
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "381258032059518336",
+    "field": "M31",
+    "candidate_hsc_matches": 153,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381269606985107328",
+    "field": "M31",
+    "candidate_hsc_matches": 131,
+    "evaluations": [
+      {
+        "hsc_match_id": "11903809",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.014923657511867939
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "11903809"
+  },
+  {
+    "gaia_dr3_source_id": "381270057965295104",
+    "field": "M31",
+    "candidate_hsc_matches": 179,
+    "evaluations": [
+      {
+        "hsc_match_id": "11756280",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.016563392250934967
+      },
+      {
+        "hsc_match_id": "23112682",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.31946647793369076
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "11756280"
+  },
+  {
+    "gaia_dr3_source_id": "381273871896232448",
+    "field": "M31",
+    "candidate_hsc_matches": 86,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381278540518411008",
+    "field": "M31",
+    "candidate_hsc_matches": 105,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381263770135784576",
+    "field": "M31",
+    "candidate_hsc_matches": 131,
+    "evaluations": [
+      {
+        "hsc_match_id": "97633422",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.2645562900021614
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "97633422"
+  },
+  {
+    "gaia_dr3_source_id": "381267682844663424",
+    "field": "M31",
+    "candidate_hsc_matches": 195,
+    "evaluations": [
+      {
+        "hsc_match_id": "102621338",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.02656451994762048
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "102621338"
+  },
+  {
+    "gaia_dr3_source_id": "381274490371516672",
+    "field": "M31",
+    "candidate_hsc_matches": 71,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "381263250433640832",
+    "field": "M31",
+    "candidate_hsc_matches": 72,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "369256759551979520",
+    "field": "M31",
+    "candidate_hsc_matches": 198,
+    "evaluations": [
+      {
+        "hsc_match_id": "90256602",
+        "images_within_0p3_arcsec": 11,
+        "distinct_white_light_detections": 7,
+        "median_separation_arcsec": 0.024769615510766993
+      },
+      {
+        "hsc_match_id": "10855371",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5341286765754878
+      },
+      {
+        "hsc_match_id": "15927513",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.577960524978638
+      },
+      {
+        "hsc_match_id": "12592596",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.49478217312810924
+      },
+      {
+        "hsc_match_id": "77661320",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5766286565492043
+      },
+      {
+        "hsc_match_id": "47219299",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.49019226792038295
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "90256602"
+  },
+  {
+    "gaia_dr3_source_id": "369257549829914880",
+    "field": "M31",
+    "candidate_hsc_matches": 169,
+    "evaluations": [
+      {
+        "hsc_match_id": "34633810",
+        "images_within_0p3_arcsec": 7,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.01126191155348116
+      },
+      {
+        "hsc_match_id": "59173674",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.3462134651983684
+      },
+      {
+        "hsc_match_id": "73036883",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.6089402225148401
+      },
+      {
+        "hsc_match_id": "88455310",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.48608260243970125
+      },
+      {
+        "hsc_match_id": "41084497",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.3268247031275331
+      },
+      {
+        "hsc_match_id": "94908302",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5536752709890029
+      },
+      {
+        "hsc_match_id": "7497456",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.47622686263856695
+      },
+      {
+        "hsc_match_id": "86955527",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4852997566114643
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "34633810"
+  },
+  {
+    "gaia_dr3_source_id": "381266931229705728",
+    "field": "M31",
+    "candidate_hsc_matches": 140,
+    "evaluations": [],
+    "status": "missing_gaia_astrometry"
+  },
+  {
+    "gaia_dr3_source_id": "381269400827019008",
+    "field": "M31",
+    "candidate_hsc_matches": 152,
+    "evaluations": [
+      {
+        "hsc_match_id": "51359054",
+        "images_within_0p3_arcsec": 10,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.007829893358013588
+      },
+      {
+        "hsc_match_id": "91731656",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5600565031443772
+      },
+      {
+        "hsc_match_id": "5022427",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5358198846709255
+      },
+      {
+        "hsc_match_id": "93911855",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5723251519966344
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "51359054"
+  },
+  {
+    "gaia_dr3_source_id": "369253250564340224",
+    "field": "M31",
+    "candidate_hsc_matches": 159,
+    "evaluations": [
+      {
+        "hsc_match_id": "82307726",
+        "images_within_0p3_arcsec": 16,
+        "distinct_white_light_detections": 8,
+        "median_separation_arcsec": 0.015374270151443537
+      },
+      {
+        "hsc_match_id": "40246338",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5472795988574028
+      },
+      {
+        "hsc_match_id": "83270256",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.522115651233084
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "82307726"
+  },
+  {
+    "gaia_dr3_source_id": "381262258298959360",
+    "field": "M31",
+    "candidate_hsc_matches": 25,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426308893372738560",
+    "field": "M35",
+    "candidate_hsc_matches": 3,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426266145559743488",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "105965043",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.04226243516607956
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "105965043"
+  },
+  {
+    "gaia_dr3_source_id": "3426263362420622208",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "81617431",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.10465333427689469
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "81617431"
+  },
+  {
+    "gaia_dr3_source_id": "3426270406169408512",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426270925862316800",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426267519949284352",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "100028632",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.2145936436515186
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "100028632"
+  },
+  {
+    "gaia_dr3_source_id": "3426307896940735872",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426267073279987200",
+    "field": "M35",
+    "candidate_hsc_matches": 12,
+    "evaluations": [
+      {
+        "hsc_match_id": "62184829",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.017667453644031137
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "62184829"
+  },
+  {
+    "gaia_dr3_source_id": "3426266149858654336",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "84510280",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.043845531365835556
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "84510280"
+  },
+  {
+    "gaia_dr3_source_id": "3426269822051746944",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426263362420621952",
+    "field": "M35",
+    "candidate_hsc_matches": 4,
+    "evaluations": [
+      {
+        "hsc_match_id": "72927093",
+        "images_within_0p3_arcsec": 12,
+        "distinct_white_light_detections": 12,
+        "median_separation_arcsec": 0.051133362695782114
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "72927093"
+  },
+  {
+    "gaia_dr3_source_id": "3426270410463254400",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426264530652048128",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "4636962",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 8,
+        "median_separation_arcsec": 0.2220148311600005
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "4636962"
+  },
+  {
+    "gaia_dr3_source_id": "3426282947478314752",
+    "field": "M35",
+    "candidate_hsc_matches": 5,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3425514530579988736",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426258208460100736",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426265905043577088",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "88195209",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.055279567953841306
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "88195209"
+  },
+  {
+    "gaia_dr3_source_id": "3426269826350694016",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "63566066",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.03805541652494341
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "63566066"
+  },
+  {
+    "gaia_dr3_source_id": "3426264668092927616",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426263194921214592",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "80933474",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 8,
+        "median_separation_arcsec": 0.02355626623222222
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "80933474"
+  },
+  {
+    "gaia_dr3_source_id": "3426267107634475008",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "14239305",
+        "images_within_0p3_arcsec": 13,
+        "distinct_white_light_detections": 13,
+        "median_separation_arcsec": 0.052702383921033366
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "14239305"
+  },
+  {
+    "gaia_dr3_source_id": "3426270337449943936",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "107070018",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.03955885068630584
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "107070018"
+  },
+  {
+    "gaia_dr3_source_id": "3426271063301262464",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "95241569",
+        "images_within_0p3_arcsec": 21,
+        "distinct_white_light_detections": 21,
+        "median_separation_arcsec": 0.09598598457186455
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "95241569"
+  },
+  {
+    "gaia_dr3_source_id": "3426267386809309952",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426308614198830080",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426295699233620864",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "22236290",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.14673226321347135
+      },
+      {
+        "hsc_match_id": "73293694",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.21204462522417583
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3426283329727846912",
+    "field": "M35",
+    "candidate_hsc_matches": 9,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426290437896838912",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "12767118",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.05832875805278962
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "12767118"
+  },
+  {
+    "gaia_dr3_source_id": "3426269787694076416",
+    "field": "M35",
+    "candidate_hsc_matches": 4,
+    "evaluations": [
+      {
+        "hsc_match_id": "103263006",
+        "images_within_0p3_arcsec": 17,
+        "distinct_white_light_detections": 17,
+        "median_separation_arcsec": 0.01156247277442425
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "103263006"
+  },
+  {
+    "gaia_dr3_source_id": "3426270887205761152",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "28899875",
+        "images_within_0p3_arcsec": 13,
+        "distinct_white_light_detections": 13,
+        "median_separation_arcsec": 0.09846628644039164
+      },
+      {
+        "hsc_match_id": "99327093",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.04205151370990237
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3426308515415634432",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3425513018751511552",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426268623759879808",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "38623337",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.015596026779389044
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "38623337"
+  },
+  {
+    "gaia_dr3_source_id": "3426270582264905728",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "45845048",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.033480904837771414
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "45845048"
+  },
+  {
+    "gaia_dr3_source_id": "3426264942970858240",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426270169948055936",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "76601200",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 8,
+        "median_separation_arcsec": 0.05012004591710589
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "76601200"
+  },
+  {
+    "gaia_dr3_source_id": "3426268378944770176",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "23293222",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.39395942350123336
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426271063301261056",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "34906478",
+        "images_within_0p3_arcsec": 23,
+        "distinct_white_light_detections": 23,
+        "median_separation_arcsec": 0.05234048701885615
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "34906478"
+  },
+  {
+    "gaia_dr3_source_id": "3426294874599917568",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "30058837",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.04318888784399575
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "30058837"
+  },
+  {
+    "gaia_dr3_source_id": "3426266832756550016",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "97260385",
+        "images_within_0p3_arcsec": 13,
+        "distinct_white_light_detections": 13,
+        "median_separation_arcsec": 0.09173573593278424
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "97260385"
+  },
+  {
+    "gaia_dr3_source_id": "3426295905392040320",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "5335257",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.16206912587702266
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "5335257"
+  },
+  {
+    "gaia_dr3_source_id": "3426271338180113536",
+    "field": "M35",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "108128501",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.03888831453257465
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "108128501"
+  },
+  {
+    "gaia_dr3_source_id": "3426266214279218816",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "3095802",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.021797964701905162
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "3095802"
+  },
+  {
+    "gaia_dr3_source_id": "3426267146292036480",
+    "field": "M35",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "68274468",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.00875799341851731
+      },
+      {
+        "hsc_match_id": "52378063",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.38211370199872857
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "68274468"
+  },
+  {
+    "gaia_dr3_source_id": "3426267833485899648",
+    "field": "M35",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "80752018",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 6,
+        "median_separation_arcsec": 0.1604939412878959
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "80752018"
+  },
+  {
+    "gaia_dr3_source_id": "3426264221414080384",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "853608",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.011258648998759552
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "853608"
+  },
+  {
+    "gaia_dr3_source_id": "3425512743873602176",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426268589400145920",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "54339509",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.01930726393732992
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "54339509"
+  },
+  {
+    "gaia_dr3_source_id": "3426271269459685120",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "51748526",
+        "images_within_0p3_arcsec": 20,
+        "distinct_white_light_detections": 20,
+        "median_separation_arcsec": 0.05476523436661859
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "51748526"
+  },
+  {
+    "gaia_dr3_source_id": "3426288140090809728",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426270543608387584",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "6985550",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.04147089151284653
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "6985550"
+  },
+  {
+    "gaia_dr3_source_id": "3426267799126155264",
+    "field": "M35",
+    "candidate_hsc_matches": 12,
+    "evaluations": [
+      {
+        "hsc_match_id": "22785518",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.017517996612080648
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "22785518"
+  },
+  {
+    "gaia_dr3_source_id": "3426267863546664192",
+    "field": "M35",
+    "candidate_hsc_matches": 9,
+    "evaluations": [
+      {
+        "hsc_match_id": "49762070",
+        "images_within_0p3_arcsec": 16,
+        "distinct_white_light_detections": 16,
+        "median_separation_arcsec": 0.017193171239749505
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "49762070"
+  },
+  {
+    "gaia_dr3_source_id": "3426281023326814464",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "4529421",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.03159270113896469
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "4529421"
+  },
+  {
+    "gaia_dr3_source_id": "3426268486321130368",
+    "field": "M35",
+    "candidate_hsc_matches": 8,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426270543606295168",
+    "field": "M35",
+    "candidate_hsc_matches": 30,
+    "evaluations": [
+      {
+        "hsc_match_id": "57280788",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.030742066001471113
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "57280788"
+  },
+  {
+    "gaia_dr3_source_id": "3426263396780601344",
+    "field": "M35",
+    "candidate_hsc_matches": 5,
+    "evaluations": [
+      {
+        "hsc_match_id": "81621943",
+        "images_within_0p3_arcsec": 12,
+        "distinct_white_light_detections": 12,
+        "median_separation_arcsec": 0.0598594997646713
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "81621943"
+  },
+  {
+    "gaia_dr3_source_id": "3425514457563014400",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426270857142833664",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "6641232",
+        "images_within_0p3_arcsec": 20,
+        "distinct_white_light_detections": 20,
+        "median_separation_arcsec": 0.09113230479929879
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "6641232"
+  },
+  {
+    "gaia_dr3_source_id": "3426269585832518656",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "45380600",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.05184967714430161
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "45380600"
+  },
+  {
+    "gaia_dr3_source_id": "3426308687214305664",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426308717278038784",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "85990075",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.060796652947320194
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "85990075"
+  },
+  {
+    "gaia_dr3_source_id": "3426297344204592640",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426293809448034048",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "103198826",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.06432823949274909
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "103198826"
+  },
+  {
+    "gaia_dr3_source_id": "3426271269459921536",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "77439062",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.03682715699049956
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "77439062"
+  },
+  {
+    "gaia_dr3_source_id": "3426269895070170624",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426267077571603584",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "64366016",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.018452917531214245
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "64366016"
+  },
+  {
+    "gaia_dr3_source_id": "3426289613263090304",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "14138241",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 9,
+        "median_separation_arcsec": 0.012255967354380308
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "14138241"
+  },
+  {
+    "gaia_dr3_source_id": "3426271200740207104",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "74294780",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.028167438518641542
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "74294780"
+  },
+  {
+    "gaia_dr3_source_id": "3426282779972048896",
+    "field": "M35",
+    "candidate_hsc_matches": 4,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426265149127277696",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426263396780604800",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "80868847",
+        "images_within_0p3_arcsec": 19,
+        "distinct_white_light_detections": 19,
+        "median_separation_arcsec": 0.056342332562348815
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "80868847"
+  },
+  {
+    "gaia_dr3_source_id": "3426282539453546752",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426268108363782784",
+    "field": "M35",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426266768333963392",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "53507077",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.024505964712280788
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "53507077"
+  },
+  {
+    "gaia_dr3_source_id": "3426269276594901248",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426282127136707968",
+    "field": "M35",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3938023456066508160",
+    "field": "M53",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3938026277862640512",
+    "field": "M53",
+    "candidate_hsc_matches": 3,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3938022085973127040",
+    "field": "M53",
+    "candidate_hsc_matches": 94,
+    "evaluations": [
+      {
+        "hsc_match_id": "85515697",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5140178171878759
+      },
+      {
+        "hsc_match_id": "53224529",
+        "images_within_0p3_arcsec": 7,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.034757447380954
+      },
+      {
+        "hsc_match_id": "57281117",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.46474538030678547
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "53224529"
+  },
+  {
+    "gaia_dr3_source_id": "3937268611271573120",
+    "field": "M53",
+    "candidate_hsc_matches": 8,
+    "evaluations": [
+      {
+        "hsc_match_id": "100186881",
+        "images_within_0p3_arcsec": 19,
+        "distinct_white_light_detections": 7,
+        "median_separation_arcsec": 0.00792850614945107
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "100186881"
+  },
+  {
+    "gaia_dr3_source_id": "3938022395210875648",
+    "field": "M53",
+    "candidate_hsc_matches": 98,
+    "evaluations": [
+      {
+        "hsc_match_id": "74590446",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.016118160469602967
+      },
+      {
+        "hsc_match_id": "3174354",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4782128072079876
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "74590446"
+  },
+  {
+    "gaia_dr3_source_id": "3938772055982315648",
+    "field": "M53",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "22043610",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.01875585344812113
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "22043610"
+  },
+  {
+    "gaia_dr3_source_id": "3937271360051374208",
+    "field": "M53",
+    "candidate_hsc_matches": 91,
+    "evaluations": [
+      {
+        "hsc_match_id": "77852630",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5869260978248333
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426165991221226880",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 34,
+    "evaluations": [
+      {
+        "hsc_match_id": "65133308",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.1811089660510382
+      },
+      {
+        "hsc_match_id": "73325187",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.1649903574469347
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3426177845330947200",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 58,
+    "evaluations": [
+      {
+        "hsc_match_id": "60410379",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.1770513470666707
+      },
+      {
+        "hsc_match_id": "98051247",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.20938810294896165
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3426165578904396800",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 53,
+    "evaluations": [
+      {
+        "hsc_match_id": "60620494",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.36297564162383655
+      },
+      {
+        "hsc_match_id": "5746618",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.33035515913738156
+      },
+      {
+        "hsc_match_id": "83201930",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.40817447535091056
+      },
+      {
+        "hsc_match_id": "33525976",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4527041456064455
+      },
+      {
+        "hsc_match_id": "54481276",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 2.102857208395256
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3426165578904396672",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 54,
+    "evaluations": [
+      {
+        "hsc_match_id": "83201930",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 2.31243499020753
+      },
+      {
+        "hsc_match_id": "5746618",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 1.8005475754722355
+      },
+      {
+        "hsc_match_id": "60620494",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 1.9730292764038198
+      },
+      {
+        "hsc_match_id": "33525976",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 1.9288030561107958
+      },
+      {
+        "hsc_match_id": "54481276",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.02670726877265711
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "54481276"
+  },
+  {
+    "gaia_dr3_source_id": "3426165922501751936",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 68,
+    "evaluations": [
+      {
+        "hsc_match_id": "70177474",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.033306796545242684
+      },
+      {
+        "hsc_match_id": "55378195",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.23977923665256073
+      },
+      {
+        "hsc_match_id": "61444685",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.2190591040102976
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3426177810971217536",
+    "field": "NGC2158",
+    "candidate_hsc_matches": 87,
+    "evaluations": [
+      {
+        "hsc_match_id": "34939497",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.21871081329303116
+      },
+      {
+        "hsc_match_id": "44344064",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.21836267385591038
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "899282283959139840",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 36,
+    "evaluations": [
+      {
+        "hsc_match_id": "77739660",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.13407922310812215
+      },
+      {
+        "hsc_match_id": "28225067",
+        "images_within_0p3_arcsec": 30,
+        "distinct_white_light_detections": 7,
+        "median_separation_arcsec": 0.03576205781942077
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "899282833714864128",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "83162726",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.02961549400717561
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "83162726"
+  },
+  {
+    "gaia_dr3_source_id": "899283795787550976",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "45567691",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.03702672645340968
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "45567691"
+  },
+  {
+    "gaia_dr3_source_id": "899283039873383040",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 67,
+    "evaluations": [
+      {
+        "hsc_match_id": "99092022",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.07992711142889627
+      },
+      {
+        "hsc_match_id": "48337481",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5925265892139816
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "99092022"
+  },
+  {
+    "gaia_dr3_source_id": "899295787336313216",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "16079077",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.25586303672672234
+      },
+      {
+        "hsc_match_id": "50667745",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.269887927499515
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "899295065781821952",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "13846252",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.21581961018141071
+      },
+      {
+        "hsc_match_id": "95398719",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.16333376833878666
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "899278710546343296",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 4,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "899295478098674816",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "83114517",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.19102350757483705
+      },
+      {
+        "hsc_match_id": "81605008",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.16207000613746783
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "899282009081231872",
+    "field": "NGC2419",
+    "candidate_hsc_matches": 41,
+    "evaluations": [
+      {
+        "hsc_match_id": "32569021",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.15737160663377045
+      },
+      {
+        "hsc_match_id": "18511364",
+        "images_within_0p3_arcsec": 7,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.2635399010439359
+      },
+      {
+        "hsc_match_id": "14297561",
+        "images_within_0p3_arcsec": 7,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.21755244661151318
+      },
+      {
+        "hsc_match_id": "35525238",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4501508870400234
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "865400180313163392",
+    "field": "NGC2420",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3950102420226514560",
+    "field": "NGC4147",
+    "candidate_hsc_matches": 62,
+    "evaluations": [
+      {
+        "hsc_match_id": "78885319",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.13688084186930533
+      },
+      {
+        "hsc_match_id": "59244187",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.16809803997587325
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3950102317148387456",
+    "field": "NGC4147",
+    "candidate_hsc_matches": 26,
+    "evaluations": [
+      {
+        "hsc_match_id": "94649314",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.03102530568903525
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "94649314"
+  },
+  {
+    "gaia_dr3_source_id": "3950055725342702720",
+    "field": "NGC4147",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3950102798184795520",
+    "field": "NGC4147",
+    "candidate_hsc_matches": 61,
+    "evaluations": [
+      {
+        "hsc_match_id": "38609111",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.04997000845148847
+      },
+      {
+        "hsc_match_id": "42193777",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.5965808842969529
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "38609111"
+  },
+  {
+    "gaia_dr3_source_id": "3950102798184798336",
+    "field": "NGC4147",
+    "candidate_hsc_matches": 65,
+    "evaluations": [
+      {
+        "hsc_match_id": "37287774",
+        "images_within_0p3_arcsec": 5,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.0625982999969218
+      },
+      {
+        "hsc_match_id": "78026786",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.4711838270678978
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "37287774"
+  },
+  {
+    "gaia_dr3_source_id": "3938494012684246016",
+    "field": "NGC5053",
+    "candidate_hsc_matches": 51,
+    "evaluations": [
+      {
+        "hsc_match_id": "4093177",
+        "images_within_0p3_arcsec": 16,
+        "distinct_white_light_detections": 6,
+        "median_separation_arcsec": 0.006130607725353343
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "4093177"
+  },
+  {
+    "gaia_dr3_source_id": "3938494463656185856",
+    "field": "NGC5053",
+    "candidate_hsc_matches": 34,
+    "evaluations": [
+      {
+        "hsc_match_id": "78899641",
+        "images_within_0p3_arcsec": 10,
+        "distinct_white_light_detections": 5,
+        "median_separation_arcsec": 0.004072884749215787
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "78899641"
+  },
+  {
+    "gaia_dr3_source_id": "3938682170906829312",
+    "field": "NGC5053",
+    "candidate_hsc_matches": 40,
+    "evaluations": [
+      {
+        "hsc_match_id": "64233555",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.002260698532047423
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "64233555"
+  },
+  {
+    "gaia_dr3_source_id": "1408588710034274560",
+    "field": "NGC6229",
+    "candidate_hsc_matches": 9,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "4275336138666632064",
+    "field": "NGC6535",
+    "candidate_hsc_matches": 7,
+    "evaluations": [
+      {
+        "hsc_match_id": "25562499",
+        "images_within_0p3_arcsec": 12,
+        "distinct_white_light_detections": 7,
+        "median_separation_arcsec": 0.023148318528932142
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "25562499"
+  },
+  {
+    "gaia_dr3_source_id": "2051105067218785280",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2051105891852617856",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2051097813013102208",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2051294728671479424",
+    "field": "NGC6791",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076491485036663296",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076487976036241536",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 5,
+    "evaluations": [
+      {
+        "hsc_match_id": "1444940",
+        "images_within_0p3_arcsec": 6,
+        "distinct_white_light_detections": 6,
+        "median_separation_arcsec": 0.23974388220610476
+      },
+      {
+        "hsc_match_id": "52581685",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.26976019067291573
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "2076488083422693888",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "5785121",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.415494271608874
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076491515089601408",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "72590761",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.21724166136049575
+      },
+      {
+        "hsc_match_id": "72143368",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.18717140422246856
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "2076488049062938240",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "54379864",
+        "images_within_0p3_arcsec": 1,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.37440500994755427
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076488323940775680",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076487327508376832",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 2,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076488427020146176",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 4,
+    "evaluations": [
+      {
+        "hsc_match_id": "96928281",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.3786742773005296
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076488289581010816",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076488804977135488",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 4,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076487980343426944",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "106397212",
+        "images_within_0p3_arcsec": 1,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.3050393536306892
+      },
+      {
+        "hsc_match_id": "71143724",
+        "images_within_0p3_arcsec": 0,
+        "distinct_white_light_detections": 0,
+        "median_separation_arcsec": 0.43751047535953896
+      }
+    ],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "2076489217294033536",
+    "field": "NGC6819",
+    "candidate_hsc_matches": 4,
+    "evaluations": [
+      {
+        "hsc_match_id": "36688561",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.25989361738948175
+      },
+      {
+        "hsc_match_id": "12716086",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.24312392760593093
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3209519319595376512",
+    "field": "Orion",
+    "candidate_hsc_matches": 3,
+    "evaluations": [
+      {
+        "hsc_match_id": "49028579",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 3,
+        "median_separation_arcsec": 0.01829178424960025
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "49028579"
+  },
+  {
+    "gaia_dr3_source_id": "3017346295038911104",
+    "field": "Orion",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "8450708",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.06221504035076596
+      },
+      {
+        "hsc_match_id": "69126570",
+        "images_within_0p3_arcsec": 2,
+        "distinct_white_light_detections": 1,
+        "median_separation_arcsec": 0.0295537302250643
+      }
+    ],
+    "status": "ambiguous_hsc_association"
+  },
+  {
+    "gaia_dr3_source_id": "3017265760107995904",
+    "field": "Orion",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "65625041",
+        "images_within_0p3_arcsec": 9,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.040892674817928604
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "65625041"
+  },
+  {
+    "gaia_dr3_source_id": "3017346952181228416",
+    "field": "Orion",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "23251739",
+        "images_within_0p3_arcsec": 8,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.056410857443546306
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "23251739"
+  },
+  {
+    "gaia_dr3_source_id": "3017267306296233216",
+    "field": "Orion",
+    "candidate_hsc_matches": 1,
+    "evaluations": [],
+    "status": "insufficient_consistent_hst_detections"
+  },
+  {
+    "gaia_dr3_source_id": "3017270463094089600",
+    "field": "Orion",
+    "candidate_hsc_matches": 2,
+    "evaluations": [
+      {
+        "hsc_match_id": "66321384",
+        "images_within_0p3_arcsec": 6,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.009609200567902904
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "66321384"
+  },
+  {
+    "gaia_dr3_source_id": "3209528046968906112",
+    "field": "Orion",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "74848507",
+        "images_within_0p3_arcsec": 3,
+        "distinct_white_light_detections": 2,
+        "median_separation_arcsec": 0.026902254960557863
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "74848507"
+  },
+  {
+    "gaia_dr3_source_id": "66729021390315776",
+    "field": "Pleiades",
+    "candidate_hsc_matches": 1,
+    "evaluations": [
+      {
+        "hsc_match_id": "63530793",
+        "images_within_0p3_arcsec": 4,
+        "distinct_white_light_detections": 4,
+        "median_separation_arcsec": 0.1509275376147089
+      }
+    ],
+    "status": "accepted_pre_neighbor_check",
+    "hsc_match_id": "63530793"
+  }
+]

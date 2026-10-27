@@ -1,0 +1,93 @@
+[
+  {
+    "gaia_dr3_source_id": "3163623951903549312",
+    "lamost_obsid": 397602068,
+    "ra": 111.68633,
+    "dec": 13.56055,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163633744428970624",
+    "lamost_obsid": 397605078,
+    "ra": 111.73242,
+    "dec": 13.665334,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163630033577223936",
+    "lamost_obsid": 397605097,
+    "ra": 111.81805,
+    "dec": 13.626901,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163630583333044480",
+    "lamost_obsid": 397605225,
+    "ra": 111.7296,
+    "dec": 13.62654,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163610963922624000",
+    "lamost_obsid": 418401069,
+    "ra": 111.76761,
+    "dec": 13.490997,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "3163623230349040896",
+    "lamost_obsid": 418402056,
+    "ra": 111.74463,
+    "dec": 13.539798,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163622749312708736",
+    "lamost_obsid": 418402071,
+    "ra": 111.72727,
+    "dec": 13.507793,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "3163634225465305344",
+    "lamost_obsid": 418405078,
+    "ra": 111.73828,
+    "dec": 13.686058,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163632610557593088",
+    "lamost_obsid": 418405081,
+    "ra": 111.84402,
+    "dec": 13.702956,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163630274095387904",
+    "lamost_obsid": 418405095,
+    "ra": 111.83838,
+    "dec": 13.663354,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163633950587405056",
+    "lamost_obsid": 418405225,
+    "ra": 111.67875,
+    "dec": 13.668444,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "3163634225465304320",
+    "lamost_obsid": 699715091,
+    "ra": 111.74665,
+    "dec": 13.692941,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "3163632576197857792",
+    "lamost_obsid": 966305011,
+    "ra": 111.82969,
+    "dec": 13.689922,
+    "fibermask": 0
+  }
+]

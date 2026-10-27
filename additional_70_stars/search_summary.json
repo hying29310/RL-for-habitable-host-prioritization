@@ -1,0 +1,240 @@
+[
+  {
+    "field": "NGC2420",
+    "lamost_observations": 390,
+    "eligible_stars": 131,
+    "hsc_candidate_records": 3,
+    "stars_with_hsc_candidates": 3
+  },
+  {
+    "field": "NGC6819",
+    "lamost_observations": 373,
+    "eligible_stars": 190,
+    "hsc_candidate_records": 102,
+    "stars_with_hsc_candidates": 28
+  },
+  {
+    "field": "NGC6791",
+    "lamost_observations": 229,
+    "eligible_stars": 119,
+    "hsc_candidate_records": 414,
+    "stars_with_hsc_candidates": 9
+  },
+  {
+    "field": "M92_core",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M13_core",
+    "lamost_observations": 8,
+    "eligible_stars": 1,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M3_core",
+    "lamost_observations": 24,
+    "eligible_stars": 12,
+    "hsc_candidate_records": 273,
+    "stars_with_hsc_candidates": 4
+  },
+  {
+    "field": "NGC2264_core",
+    "lamost_observations": 16,
+    "eligible_stars": 1,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2158_core",
+    "lamost_observations": 117,
+    "eligible_stars": 20,
+    "hsc_candidate_records": 417,
+    "stars_with_hsc_candidates": 7
+  },
+  {
+    "field": "M15_core",
+    "lamost_observations": 18,
+    "eligible_stars": 7,
+    "hsc_candidate_records": 149,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "Orion_core",
+    "lamost_observations": 5,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC5466_core",
+    "lamost_observations": 9,
+    "eligible_stars": 2,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M53_core",
+    "lamost_observations": 37,
+    "eligible_stars": 14,
+    "hsc_candidate_records": 486,
+    "stars_with_hsc_candidates": 5
+  },
+  {
+    "field": "NGC6229_core",
+    "lamost_observations": 6,
+    "eligible_stars": 3,
+    "hsc_candidate_records": 9,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "NGC7789",
+    "lamost_observations": 99,
+    "eligible_stars": 62,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6633",
+    "lamost_observations": 72,
+    "eligible_stars": 34,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2158",
+    "lamost_observations": 940,
+    "eligible_stars": 172,
+    "hsc_candidate_records": 417,
+    "stars_with_hsc_candidates": 7
+  },
+  {
+    "field": "M35",
+    "lamost_observations": 1472,
+    "eligible_stars": 296,
+    "hsc_candidate_records": 197,
+    "stars_with_hsc_candidates": 77
+  },
+  {
+    "field": "NGC752",
+    "lamost_observations": 214,
+    "eligible_stars": 94,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M13",
+    "lamost_observations": 40,
+    "eligible_stars": 4,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M92",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M3",
+    "lamost_observations": 85,
+    "eligible_stars": 33,
+    "hsc_candidate_records": 277,
+    "stars_with_hsc_candidates": 7
+  },
+  {
+    "field": "M2",
+    "lamost_observations": 55,
+    "eligible_stars": 25,
+    "hsc_candidate_records": 83,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "M15",
+    "lamost_observations": 86,
+    "eligible_stars": 46,
+    "hsc_candidate_records": 152,
+    "stars_with_hsc_candidates": 3
+  },
+  {
+    "field": "NGC5466",
+    "lamost_observations": 101,
+    "eligible_stars": 32,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M53",
+    "lamost_observations": 169,
+    "eligible_stars": 65,
+    "hsc_candidate_records": 500,
+    "stars_with_hsc_candidates": 9
+  },
+  {
+    "field": "NGC5053",
+    "lamost_observations": 220,
+    "eligible_stars": 57,
+    "hsc_candidate_records": 125,
+    "stars_with_hsc_candidates": 3
+  },
+  {
+    "field": "NGC4147",
+    "lamost_observations": 180,
+    "eligible_stars": 44,
+    "hsc_candidate_records": 215,
+    "stars_with_hsc_candidates": 5
+  },
+  {
+    "field": "NGC7006",
+    "lamost_observations": 51,
+    "eligible_stars": 43,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2419",
+    "lamost_observations": 318,
+    "eligible_stars": 93,
+    "hsc_candidate_records": 157,
+    "stars_with_hsc_candidates": 9
+  },
+  {
+    "field": "NGC2264",
+    "lamost_observations": 123,
+    "eligible_stars": 18,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6229",
+    "lamost_observations": 70,
+    "eligible_stars": 37,
+    "hsc_candidate_records": 9,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "Orion",
+    "lamost_observations": 57,
+    "eligible_stars": 10,
+    "hsc_candidate_records": 11,
+    "stars_with_hsc_candidates": 7
+  },
+  {
+    "field": "Pleiades",
+    "lamost_observations": 731,
+    "eligible_stars": 84,
+    "hsc_candidate_records": 1,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "M31",
+    "lamost_observations": 361,
+    "eligible_stars": 83,
+    "hsc_candidate_records": 9567,
+    "stars_with_hsc_candidates": 69
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "query": "select pl_name,hostname,ra,dec,st_teff,st_tefferr1,st_tefferr2,st_met,st_meterr1,st_meterr2,st_metratio,st_rad,st_mass,pl_orbper,pl_tranmid,pl_rade,pl_orbsmax,st_refname,pl_refname from ps where pl_name='Kepler-8 b' and default_flag=1",
+  "request_url": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+pl_name%2Chostname%2Cra%2Cdec%2Cst_teff%2Cst_tefferr1%2Cst_tefferr2%2Cst_met%2Cst_meterr1%2Cst_meterr2%2Cst_metratio%2Cst_rad%2Cst_mass%2Cpl_orbper%2Cpl_tranmid%2Cpl_rade%2Cpl_orbsmax%2Cst_refname%2Cpl_refname+from+ps+where+pl_name%3D%27Kepler-8+b%27+and+default_flag%3D1&format=json",
+  "rows": [
+    {
+      "pl_name": "Kepler-8 b",
+      "hostname": "Kepler-8",
+      "ra": 281.2881335,
+      "dec": 42.4510975,
+      "st_teff": 6213.0,
+      "st_tefferr1": 150.0,
+      "st_tefferr2": -150.0,
+      "st_met": -0.055,
+      "st_meterr1": 0.03,
+      "st_meterr2": -0.03,
+      "st_metratio": "[Fe/H]",
+      "st_rad": 1.486,
+      "st_mass": 1.213,
+      "pl_orbper": 3.5224991,
+      "pl_tranmid": 2454954.11931,
+      "pl_rade": 15.871944,
+      "pl_orbsmax": 0.0474,
+      "st_refname": "<a refstr=ESTEVES_ET_AL__2015 href=https://ui.adsabs.harvard.edu/abs/2015ApJ...804..150E/abstract target=ref>Esteves et al. 2015</a>",
+      "pl_refname": "<a refstr=ESTEVES_ET_AL__2015 href=https://ui.adsabs.harvard.edu/abs/2015ApJ...804..150E/abstract target=ref>Esteves et al. 2015</a>"
+    }
+  ]
+}

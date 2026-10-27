@@ -1,0 +1,76 @@
+[
+  {
+    "gaia_dr3_source_id": "2051105067218785280",
+    "available_parameter_observations": 1,
+    "predicted_x": 92.22996746644571,
+    "predicted_y": -2441.863507181629,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2051105891852617856",
+    "available_parameter_observations": 5,
+    "predicted_x": -2541.325857018621,
+    "predicted_y": 4259.070658661183,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2051104895420069248",
+    "available_parameter_observations": 2,
+    "predicted_x": 308.5755079396117,
+    "predicted_y": -4756.2435802903365,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2051105307736986496",
+    "available_parameter_observations": 1,
+    "predicted_x": -415.86508162909513,
+    "predicted_y": 80.37190593940886,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2051293904037696256",
+    "available_parameter_observations": 1,
+    "predicted_x": -203.89776143899553,
+    "predicted_y": 7894.984353000411,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2051105788773383424",
+    "available_parameter_observations": 1,
+    "predicted_x": -1965.9914276310787,
+    "predicted_y": 3122.80637462312,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2051293083704792960",
+    "available_parameter_observations": 1,
+    "predicted_x": 2528.360467376695,
+    "predicted_y": 2013.1210652840687,
+    "status": "no_image_coverage"
+  },
+  {
+    "gaia_dr3_source_id": "2051288170262450816",
+    "available_parameter_observations": 1,
+    "predicted_x": 7759.359933290508,
+    "predicted_y": 3765.8747365306435,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2051105376456445824",
+    "available_parameter_observations": 1,
+    "predicted_x": 979.9724804153925,
+    "predicted_y": 1022.5408660291675,
+    "nearest_separation_arcsec": 0.008364516388711244,
+    "detections_within_0p3_arcsec": 1,
+    "second_nearest_arcsec": 0.343801676349556,
+    "status": "accepted",
+    "selected_lamost_obsid": 664016211
+  },
+  {
+    "gaia_dr3_source_id": "2051105891852606464",
+    "available_parameter_observations": 1,
+    "predicted_x": -2614.7308128721543,
+    "predicted_y": 2800.017864303836,
+    "status": "outside_image"
+  }
+]

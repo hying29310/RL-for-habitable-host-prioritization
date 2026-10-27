@@ -1,0 +1,81 @@
+RADIUS, LUMINOSITY AND LIGHT-CURVE AVAILABILITY
+
+31 Hubble--LAMOST--Gaia matched stars checked.
+24 have Gaia DR3 FLAME radius AND luminosity estimates.
+One additional star has a Gaia GSP-Phot radius estimate (25 radii total).
+23 have a downloaded, readable light-curve segment: 21 Kepler + 2 TESS QLP.
+21 stars have both FLAME properties and a downloaded light curve.
+
+FIELD       GAIA DR3 SOURCE ID    RADIUS(Rsun)  LUMINOSITY(Lsun)  LIGHT CURVE
+M15         1745948323734109312      missing           missing  not obtained
+M3          1454784484916761856        4.859           373.308  not obtained
+M3          1454784626653819008      missing           missing  not obtained
+M3          1454875233277333632      missing           missing  not obtained
+M3          1454878458800893440      missing           missing  not obtained
+M53         3937271321396679936        0.678           missing  not obtained
+M53         3937271394411123968       56.251          2004.072  QLP
+NGC2158     3426177394363645312       22.458           247.764  QLP
+NGC2420     865400867507937280         1.302             1.990  not obtained
+NGC2420     865401795220837120         1.545             4.798  not obtained
+NGC6791     2051105307736986496        0.930             0.781  Kepler
+NGC6791     2051105376456445824        3.109            26.356  Kepler
+NGC6791     2051105788773383424      missing           missing  Kepler
+NGC6791     2051293083704792960       15.089            72.014  Kepler
+NGC6791     2051293904037696256        1.596             3.801  Kepler
+NGC6819     2076299895139969536        2.085             5.732  Kepler
+NGC6819     2076299963859446016        4.001            10.727  Kepler
+NGC6819     2076299993911496320       23.911           201.602  Kepler
+NGC6819     2076299998219216256       27.277           258.444  Kepler
+NGC6819     2076300032578973952        7.318            24.167  Kepler
+NGC6819     2076300066938728832        8.299            33.107  Kepler
+NGC6819     2076393624194561152       20.324           173.492  Kepler
+NGC6819     2076393692914035456       28.070           271.785  Kepler
+NGC6819     2076393692914036608       12.948            98.345  Kepler
+NGC6819     2076393731584089856        1.808             5.081  Kepler
+NGC6819     2076393937742523904       12.684            59.972  Kepler
+NGC6819     2076487430587543168      missing           missing  Kepler
+NGC6819     2076487636746036736        0.748             0.253  Kepler
+NGC6819     2076487739825262976        0.885             0.650  Kepler
+NGC6819     2076487838597288320       11.286            61.048  Kepler
+NGC6819     2076489217294043904        2.641             8.311  Kepler
+
+HOW TO READ THIS
+Rsun and Lsun mean times the Sun's radius and luminosity.
+Gaia values are model-dependent catalog estimates. Lower/upper entries are
+16th/84th percentiles; systematic uncertainty is not fully represented.
+GSP-Phot and FLAME are distinct estimates; do not mix their errors.
+No luminosity was invented for the star with only a GSP-Phot radius.
+
+LIGHT-CURVE LIMITS
+The initial MAST search found nearby time-series records for 24 stars.
+23 passed the selection for a standard downloadable Kepler/QLP product.
+Selection required a target coordinate within 1 arcsec of Gaia, with our
+Gaia star the nearest of the cached neighboring Gaia sources. The FITS
+Kepler/TIC target ID was checked against the selected archive record.
+This is a positional association, not a complete cross-catalog identity audit.
+Positions were compared at the Gaia reference epoch; proper-motion differences
+between archive input catalogs were not fully corrected in this extra step.
+Only one segment per star was downloaded. Kepler segments are individual
+quarters; TESS segments are individual sectors. This is not the full baseline.
+Time, flux, errors where available, and quality flags are saved in NPZ files.
+Usable preview samples require finite time/flux and quality==0.
+One QLP file uses SAP_FLUX with no corresponding error column; its exported
+errors are NaN. No uncertainty was substituted from a different flux column.
+No transit search, aperture-blending assessment or planet validation was done.
+No nearby result does not prove no telescope coverage. A broader catalog
+search or custom full-frame-image extraction may recover more light curves.
+
+FILES AND RUNNING
+check_availability.py: queries Gaia AP and MAST time-series observations.
+download_lightcurves.py: selects and downloads one light-curve segment per star.
+make_context_report.py: creates this report, unified JSON and preview.
+Run these scripts sequentially with the project work/venv/bin/python.
+lightcurve_manifest.json: file paths, target IDs, data columns, times and warnings.
+gaia_properties.json: unmodified mapped Gaia parameters, including FLAME flags.
+data/: cached archive responses and original FITS light curves.
+lightcurves/: exported NPZ arrays.
+
+REFERENCES
+Gaia DR3 stellar-parameter methods: https://www.aanda.org/articles/aa/pdf/2023/06/aa43919-22.pdf
+MAST API: https://mast.stsci.edu/api/v0/MastApiTutorial.html
+Gaia TAP schema descriptions are saved in data/gaia_schema.json.

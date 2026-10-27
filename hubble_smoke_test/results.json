@@ -1,0 +1,59 @@
+{
+  "status": "PASS",
+  "run_utc": "2026-10-04T22:15:03.358042+00:00",
+  "observation": {
+    "TELESCOP": "HST",
+    "INSTRUME": "WFC3",
+    "DETECTOR": "UVIS",
+    "TARGNAME": "NGC1512-2",
+    "FILTER": "F814W",
+    "DATE-OBS": "2013-09-02",
+    "EXPTIME": 977.0
+  },
+  "source_url": "https://mast.stsci.edu/api/v0.1/Download/file?uri=mast:HST/product/icdm0a070_drc.fits",
+  "sha256": "64daae6e07f735424308efd86cf611f688d8f05ae20ef740cf130fd3cb05f7c9",
+  "source_bytes": 224023680,
+  "original_shape_yx": [
+    4462,
+    4181
+  ],
+  "cutout_shape_yx": [
+    1024,
+    1024
+  ],
+  "cutout_origin_xy": [
+    1578,
+    1719
+  ],
+  "candidate_source_count": 183,
+  "checks": {
+    "verified_HST_header": true,
+    "celestial_WCS": true,
+    "finite_valid_pixels": true,
+    "sources_detected": true,
+    "finite_source_coordinates": true,
+    "WCS_roundtrip_under_1e_minus_4_pixel": true,
+    "finite_aperture_fluxes": true,
+    "saved_cutout_WCS_preserved": true
+  },
+  "max_WCS_roundtrip_error_pixels": 2.7142792303163332e-09,
+  "settings": {
+    "background_box_pixels": 64,
+    "DAO_fwhm_pixels": 2.5,
+    "DAO_threshold_on_local_RMS_normalized_image": 5.0,
+    "aperture_radius_pixels": 3
+  },
+  "limitations": [
+    "Candidate point sources may include clusters, compact galaxies, blends, and artifacts.",
+    "Threshold is a detection setting, not calibrated statistical significance.",
+    "Fluxes lack aperture corrections, uncertainty estimates, and crowding corrections.",
+    "WCS roundtrip checks numerical consistency, not absolute astrometric accuracy.",
+    "No Gaia/LAMOST match attempted; temperature and metallicity deliberately null.",
+    "No transit search, habitability inference, or RL training performed."
+  ],
+  "versions": {
+    "numpy": "2.5.3",
+    "astropy": "8.0.1",
+    "photutils": "2.3.0"
+  }
+}

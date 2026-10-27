@@ -1,0 +1,167 @@
+{
+  "run_utc": "2026-09-30T14:03:55.444605+00:00",
+  "target": "Kepler-8 / KIC 6922244",
+  "quarter": 1,
+  "status": "PASS",
+  "checks": {
+    "usable_cadences_over_1000": true,
+    "identity_separation_under_1_arcsec": true,
+    "aperture_matches_official_SAP_within_1e_minus_5": true,
+    "period_and_epoch_recovered": true,
+    "budget_exhausted_exactly": true,
+    "reject_post_terminal_action": true,
+    "reject_unaffordable_action": true
+  },
+  "image_shape": [
+    6,
+    6
+  ],
+  "total_cadences": 1639,
+  "retained_cadences": 1452,
+  "aperture_pixels": 6,
+  "baseline_days": 33.47117828905175,
+  "coordinate_separation_arcsec": 0.07249081103290167,
+  "max_aperture_SAP_relative_difference": 1.0259655028793262e-07,
+  "stellar_parameters": {
+    "temperature_K": 6213.0,
+    "temperature_error_K": 150.0,
+    "metallicity_dex": -0.055,
+    "metallicity_error_dex": 0.03,
+    "metallicity_definition": "[Fe/H]",
+    "radius_solar": 1.486,
+    "source": "NASA Exoplanet Archive ps default row; not a LAMOST retrieval",
+    "reference_html": "<a refstr=ESTEVES_ET_AL__2015 href=https://ui.adsabs.harvard.edu/abs/2015ApJ...804..150E/abstract target=ref>Esteves et al. 2015</a>"
+  },
+  "candidate": {
+    "period": 3.5218200598846114,
+    "duration": 0.111,
+    "transit_time": 131.68854557276308,
+    "depth": 0.007918888907074133,
+    "depth_err": 2.7734006365684332e-05,
+    "depth_snr": 285.52993039160344,
+    "power": 42046.79048202072
+  },
+  "evaluation": {
+    "relative_period_error": 0.0001927722608612342,
+    "epoch_error_days": 0.001738272783043282,
+    "period_tolerance_fraction": 0.001,
+    "epoch_tolerance_days": 0.1,
+    "period_and_epoch_match": true
+  },
+  "catalog_period_days": 3.5224991,
+  "catalog_radius_earth": 15.871944,
+  "initial_agent_observation": {
+    "stellar_features": {
+      "temperature_K": 6213.0,
+      "temperature_error_K": 150.0,
+      "metallicity_dex": -0.055,
+      "metallicity_error_dex": 0.03,
+      "metallicity_definition": "[Fe/H]",
+      "radius_solar": 1.486,
+      "source": "NASA Exoplanet Archive ps default row; not a LAMOST retrieval",
+      "reference_html": "<a refstr=ESTEVES_ET_AL__2015 href=https://ui.adsabs.harvard.edu/abs/2015ApJ...804..150E/abstract target=ref>Esteves et al. 2015</a>"
+    },
+    "budget_remaining": 6,
+    "candidate": null,
+    "valid_actions": [
+      "stop",
+      "coarse"
+    ]
+  },
+  "episode": [
+    {
+      "action": "coarse",
+      "abstract_cost": 2,
+      "wall_seconds": 0.06348895793780684,
+      "reward": -0.1,
+      "budget_remaining": 4,
+      "candidate": {
+        "period": 3.5221370522193114,
+        "duration": 0.12,
+        "transit_time": 131.68504557276307,
+        "depth": 0.007668950072747216,
+        "depth_err": 2.7142095505201775e-05,
+        "depth_snr": 282.5481942349464,
+        "power": 41232.37450090806
+      },
+      "evaluation": null
+    },
+    {
+      "action": "refine",
+      "abstract_cost": 3,
+      "wall_seconds": 0.08349741692654788,
+      "reward": -0.15000000000000002,
+      "budget_remaining": 1,
+      "candidate": {
+        "period": 3.5218200598846114,
+        "duration": 0.111,
+        "transit_time": 131.68854557276308,
+        "depth": 0.007918888907074133,
+        "depth_err": 2.7734006365684332e-05,
+        "depth_snr": 285.52993039160344,
+        "power": 42046.79048202072
+      },
+      "evaluation": null
+    },
+    {
+      "action": "submit",
+      "abstract_cost": 1,
+      "wall_seconds": 5.291076377034187e-06,
+      "reward": 0.95,
+      "budget_remaining": 0,
+      "candidate": {
+        "period": 3.5218200598846114,
+        "duration": 0.111,
+        "transit_time": 131.68854557276308,
+        "depth": 0.007918888907074133,
+        "depth_err": 2.7734006365684332e-05,
+        "depth_snr": 285.52993039160344,
+        "power": 42046.79048202072
+      },
+      "evaluation": {
+        "relative_period_error": 0.0001927722608612342,
+        "epoch_error_days": 0.001738272783043282,
+        "period_tolerance_fraction": 0.001,
+        "epoch_tolerance_days": 0.1,
+        "period_and_epoch_match": true
+      }
+    }
+  ],
+  "total_reward": 0.7,
+  "rl_training_performed": false,
+  "habitable_zone_assessment_performed": false,
+  "limitations": [
+    "Single known giant planet selected as a positive control.",
+    "Scripted actions, abstract cost units, and period/epoch-only reward.",
+    "No LAMOST/Gaia cross-match, Hubble ingestion, or TESS validation.",
+    "No false-positive vetting, injection recovery, learned ranking, or GRPO training.",
+    "Box depth and formal SNR are not physical planet fits or detection significance."
+  ],
+  "software": {
+    "python": "3.12.14",
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "astropy": "8.0.1",
+    "matplotlib": "3.11.2"
+  },
+  "data_manifest": [
+    {
+      "file": "catalog.json",
+      "bytes": 1428,
+      "sha256": "7385cfb7f6be5ac7b2b4b7b8047f4ecb93a58f4f643974708e67b3d985324d56",
+      "url": "https://exoplanetarchive.ipac.caltech.edu/TAP/sync?query=select+pl_name%2Chostname%2Cra%2Cdec%2Cst_teff%2Cst_tefferr1%2Cst_tefferr2%2Cst_met%2Cst_meterr1%2Cst_meterr2%2Cst_metratio%2Cst_rad%2Cst_mass%2Cpl_orbper%2Cpl_tranmid%2Cpl_rade%2Cpl_orbsmax%2Cst_refname%2Cpl_refname+from+ps+where+pl_name%3D%27Kepler-8+b%27+and+default_flag%3D1&format=json"
+    },
+    {
+      "file": "pipeline_lightcurve.fits",
+      "bytes": 192960,
+      "sha256": "5bc32df02be34ddacb6d95d5e2d0689623bae753f0d989639deeb4c1e5db61ed",
+      "url": "https://archive.stsci.edu/missions/kepler/lightcurves/0069/006922244/kplr006922244-2009166043257_llc.fits"
+    },
+    {
+      "file": "target_pixels.fits.gz",
+      "bytes": 908109,
+      "sha256": "af5fa25d10e1c73e9a9971e3a0c7395f3a6d06a7cd246b90098e8ee7483d505b",
+      "url": "https://archive.stsci.edu/missions/kepler/target_pixel_files/0069/006922244/kplr006922244-2009166043257_lpd-targ.fits.gz"
+    }
+  ]
+}

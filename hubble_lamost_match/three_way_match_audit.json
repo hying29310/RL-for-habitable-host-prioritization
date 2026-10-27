@@ -1,0 +1,26 @@
+[
+  {
+    "gaia_source_id": "604917285757663872",
+    "lamost_observation_count": 20,
+    "closest_hst_source_id": "HST_DET_0360",
+    "separation_arcsec": 0.04851679321859567,
+    "second_nearest_arcsec": 0.6182529967493897,
+    "positional_match_accepted": true
+  },
+  {
+    "gaia_source_id": "604917491916095872",
+    "lamost_observation_count": 1,
+    "closest_hst_source_id": "HST_DET_0327",
+    "separation_arcsec": 0.02356612007973588,
+    "second_nearest_arcsec": 0.9136142544297388,
+    "positional_match_accepted": true
+  },
+  {
+    "gaia_source_id": "604917526275831040",
+    "lamost_observation_count": 1,
+    "closest_hst_source_id": "HST_DET_0235",
+    "separation_arcsec": 0.03988764208675049,
+    "second_nearest_arcsec": 6.8837650486779385,
+    "positional_match_accepted": true
+  }
+]

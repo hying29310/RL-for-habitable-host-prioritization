@@ -1,0 +1,80 @@
+[
+  {
+    "field": "NGC6791",
+    "ra": 290.22,
+    "dec": 37.77,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC6819",
+    "ra": 295.33,
+    "dec": 40.187,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC2420",
+    "ra": 114.535,
+    "dec": 21.575,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M13_core",
+    "ra": 250.423,
+    "dec": 36.461,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "M3_core",
+    "ra": 205.548,
+    "dec": 28.377,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "M92_core",
+    "ra": 259.281,
+    "dec": 43.136,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "M15_core",
+    "ra": 322.493,
+    "dec": 12.167,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "NGC2158_core",
+    "ra": 91.86,
+    "dec": 24.1,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "NGC2264_core",
+    "ra": 100.27,
+    "dec": 9.88,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "Orion_core",
+    "ra": 83.82,
+    "dec": -5.39,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "NGC5466_core",
+    "ra": 211.364,
+    "dec": 28.534,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "M53_core",
+    "ra": 198.23,
+    "dec": 18.169,
+    "radius_deg": 0.08
+  },
+  {
+    "field": "NGC6229_core",
+    "ra": 251.745,
+    "dec": 47.527,
+    "radius_deg": 0.08
+  }
+]

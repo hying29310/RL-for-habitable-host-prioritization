@@ -1,0 +1,23 @@
+[
+  {
+    "gaia_dr3_source_id": "121403886346958848",
+    "lamost_obsid": 292910151,
+    "ra": 52.218405,
+    "dec": 31.25734,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "121392238395650688",
+    "lamost_obsid": 292910163,
+    "ra": 52.301725,
+    "dec": 31.248978,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "121404917139108992",
+    "lamost_obsid": 679615112,
+    "ra": 52.180332,
+    "dec": 31.292479,
+    "fibermask": 128
+  }
+]

@@ -1,0 +1,408 @@
+{
+  "status": "COMPLETE",
+  "msg": "",
+  "data": [
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "CDIPS",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "Optical",
+      "target_name": "70432241",
+      "target_classification": null,
+      "obs_id": "hlsp_cdips_tess_ffi_gaiatwo0000865400863211012992-s0044-cam3-ccd3_tess_v01_llc",
+      "s_ra": 114.524975712,
+      "s_dec": 21.5519597221,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Luke Bouma",
+      "calib_level": 4,
+      "t_min": 59499.69024599995,
+      "t_max": 59523.9332909002,
+      "t_exptime": 1800,
+      "wavelength_region": "Optical",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 60286.49581019,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 44,
+      "s_region": "CIRCLE 114.524975712 21.5519597221 0.005833333333333334",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/cdips/s0044/cam3_ccd3/hlsp_cdips_tess_ffi_gaiatwo0000865400863211012992-s0044-cam3-ccd3_tess_v01_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 198373622,
+      "objID": 360527915,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 360527915,
+      "distance": 0.9856980850223611
+    },
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "CDIPS",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "Optical",
+      "target_name": "70432239",
+      "target_classification": null,
+      "obs_id": "hlsp_cdips_tess_ffi_gaiatwo0000865400867507938432-s0044-cam3-ccd3_tess_v01_llc",
+      "s_ra": 114.5175386917,
+      "s_dec": 21.5534205611,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Luke Bouma",
+      "calib_level": 4,
+      "t_min": 59499.69024599995,
+      "t_max": 59523.9332909002,
+      "t_exptime": 1800,
+      "wavelength_region": "Optical",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 60286.49581019,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 44,
+      "s_region": "CIRCLE 114.5175386917 21.5534205611 0.005833333333333334",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/cdips/s0044/cam3_ccd3/hlsp_cdips_tess_ffi_gaiatwo0000865400867507938432-s0044-cam3-ccd3_tess_v01_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 198373623,
+      "objID": 360527917,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 360527917,
+      "distance": 0
+    },
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "CDIPS",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "Optical",
+      "target_name": "70432241",
+      "target_classification": null,
+      "obs_id": "hlsp_cdips_tess_ffi_gaiatwo0000865400863211012992-s0045-cam2-ccd4_tess_v01_llc",
+      "s_ra": 114.524975712,
+      "s_dec": 21.5519597221,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Luke Bouma",
+      "calib_level": 4,
+      "t_min": 59525.20413539978,
+      "t_max": 59550.12079099985,
+      "t_exptime": 1800,
+      "wavelength_region": "Optical",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 60287.06959486,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 45,
+      "s_region": "CIRCLE 114.524975712 21.5519597221 0.005833333333333334",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/cdips/s0045/cam2_ccd4/hlsp_cdips_tess_ffi_gaiatwo0000865400863211012992-s0045-cam2-ccd4_tess_v01_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 198501136,
+      "objID": 360727108,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 360727108,
+      "distance": 0.9856980850223611
+    },
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "CDIPS",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "Optical",
+      "target_name": "70432239",
+      "target_classification": null,
+      "obs_id": "hlsp_cdips_tess_ffi_gaiatwo0000865400867507938432-s0045-cam2-ccd4_tess_v01_llc",
+      "s_ra": 114.5175386917,
+      "s_dec": 21.5534205611,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Luke Bouma",
+      "calib_level": 4,
+      "t_min": 59525.20413539978,
+      "t_max": 59550.12079099985,
+      "t_exptime": 1800,
+      "wavelength_region": "Optical",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 60287.06959486,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 45,
+      "s_region": "CIRCLE 114.5175386917 21.5534205611 0.005833333333333334",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/cdips/s0045/cam2_ccd4/hlsp_cdips_tess_ffi_gaiatwo0000865400867507938432-s0045-cam2-ccd4_tess_v01_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 198501137,
+      "objID": 360727109,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 360727109,
+      "distance": 0
+    },
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "CDIPS",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "Optical",
+      "target_name": "70432241",
+      "target_classification": null,
+      "obs_id": "hlsp_cdips_tess_ffi_gaiatwo0000865400863211012992-s0046-cam1-ccd4_tess_v01_llc",
+      "s_ra": 114.524975712,
+      "s_dec": 21.5519597221,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Luke Bouma",
+      "calib_level": 4,
+      "t_min": 59551.48188399989,
+      "t_max": 59578.19714980014,
+      "t_exptime": 1800,
+      "wavelength_region": "Optical",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 60287.21761572,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 46,
+      "s_region": "CIRCLE 114.524975712 21.5519597221 0.005833333333333334",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/cdips/s0046/cam1_ccd4/hlsp_cdips_tess_ffi_gaiatwo0000865400863211012992-s0046-cam1-ccd4_tess_v01_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 198523496,
+      "objID": 360754451,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 360754451,
+      "distance": 0.9856980850223611
+    },
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "CDIPS",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "Optical",
+      "target_name": "70432239",
+      "target_classification": null,
+      "obs_id": "hlsp_cdips_tess_ffi_gaiatwo0000865400867507938432-s0046-cam1-ccd4_tess_v01_llc",
+      "s_ra": 114.5175386917,
+      "s_dec": 21.5534205611,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Luke Bouma",
+      "calib_level": 4,
+      "t_min": 59551.48188399989,
+      "t_max": 59578.19714980014,
+      "t_exptime": 1800,
+      "wavelength_region": "Optical",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 60287.21761572,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 46,
+      "s_region": "CIRCLE 114.5175386917 21.5534205611 0.005833333333333334",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/cdips/s0046/cam1_ccd4/hlsp_cdips_tess_ffi_gaiatwo0000865400867507938432-s0046-cam1-ccd4_tess_v01_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 198523497,
+      "objID": 360754452,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 360754452,
+      "distance": 0
+    }
+  ],
+  "fields": [
+    {
+      "name": "intentType",
+      "type": "string"
+    },
+    {
+      "name": "obs_collection",
+      "type": "string"
+    },
+    {
+      "name": "provenance_name",
+      "type": "string"
+    },
+    {
+      "name": "instrument_name",
+      "type": "string"
+    },
+    {
+      "name": "project",
+      "type": "string"
+    },
+    {
+      "name": "filters",
+      "type": "string"
+    },
+    {
+      "name": "wave_region",
+      "type": "string"
+    },
+    {
+      "name": "target_name",
+      "type": "string"
+    },
+    {
+      "name": "target_classification",
+      "type": "string"
+    },
+    {
+      "name": "obs_id",
+      "type": "string"
+    },
+    {
+      "name": "s_ra",
+      "type": "float"
+    },
+    {
+      "name": "s_dec",
+      "type": "float"
+    },
+    {
+      "name": "dataproduct_type",
+      "type": "string"
+    },
+    {
+      "name": "proposal_pi",
+      "type": "string"
+    },
+    {
+      "name": "calib_level",
+      "type": "int"
+    },
+    {
+      "name": "t_min",
+      "type": "float"
+    },
+    {
+      "name": "t_max",
+      "type": "float"
+    },
+    {
+      "name": "t_exptime",
+      "type": "float"
+    },
+    {
+      "name": "wavelength_region",
+      "type": "string"
+    },
+    {
+      "name": "em_min",
+      "type": "float"
+    },
+    {
+      "name": "em_max",
+      "type": "float"
+    },
+    {
+      "name": "obs_title",
+      "type": "string"
+    },
+    {
+      "name": "t_obs_release",
+      "type": "float"
+    },
+    {
+      "name": "proposal_id",
+      "type": "string"
+    },
+    {
+      "name": "proposal_type",
+      "type": "string"
+    },
+    {
+      "name": "sequence_number",
+      "type": "int"
+    },
+    {
+      "name": "s_region",
+      "type": "string"
+    },
+    {
+      "name": "jpegURL",
+      "type": "string"
+    },
+    {
+      "name": "dataURL",
+      "type": "string"
+    },
+    {
+      "name": "dataRights",
+      "type": "string"
+    },
+    {
+      "name": "mtFlag",
+      "type": "boolean"
+    },
+    {
+      "name": "srcDen",
+      "type": "float"
+    },
+    {
+      "name": "obsid",
+      "type": "string"
+    },
+    {
+      "name": "objID",
+      "type": "string"
+    },
+    {
+      "name": "wave_min",
+      "type": "float"
+    },
+    {
+      "name": "wave_max",
+      "type": "float"
+    },
+    {
+      "name": "objID1",
+      "type": "string"
+    },
+    {
+      "name": "distance",
+      "type": "float"
+    }
+  ],
+  "paging": {
+    "page": 1,
+    "pageSize": 6,
+    "pagesFiltered": 1,
+    "rows": 6,
+    "rowsFiltered": 6,
+    "rowsTotal": 6
+  }
+}

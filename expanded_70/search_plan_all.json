@@ -1,0 +1,530 @@
+[
+  {
+    "field": "NGC6791",
+    "ra": 290.22,
+    "dec": 37.77,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC6819",
+    "ra": 295.33,
+    "dec": 40.187,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC2420",
+    "ra": 114.535,
+    "dec": 21.575,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC2158",
+    "ra": 91.86,
+    "dec": 24.1,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M35",
+    "ra": 92.28,
+    "dec": 24.33,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC7789",
+    "ra": 359.34,
+    "dec": 56.72,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC6633",
+    "ra": 276.85,
+    "dec": 6.61,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC752",
+    "ra": 29.42,
+    "dec": 37.78,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M13",
+    "ra": 250.423,
+    "dec": 36.461,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M3",
+    "ra": 205.548,
+    "dec": 28.377,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M92",
+    "ra": 259.281,
+    "dec": 43.136,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M15",
+    "ra": 322.493,
+    "dec": 12.167,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M2",
+    "ra": 323.363,
+    "dec": -0.823,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M53",
+    "ra": 198.23,
+    "dec": 18.169,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC5466",
+    "ra": 211.364,
+    "dec": 28.534,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC5053",
+    "ra": 199.113,
+    "dec": 17.698,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC4147",
+    "ra": 182.526,
+    "dec": 18.543,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC2419",
+    "ra": 114.535,
+    "dec": 38.882,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC7006",
+    "ra": 315.372,
+    "dec": 16.187,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC6229",
+    "ra": 251.745,
+    "dec": 47.527,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "NGC2264",
+    "ra": 100.27,
+    "dec": 9.88,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "Orion",
+    "ra": 83.82,
+    "dec": -5.39,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M31",
+    "ra": 10.684,
+    "dec": 41.269,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "Pleiades",
+    "ra": 56.75,
+    "dec": 24.117,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M67",
+    "ra": 132.825,
+    "dec": 11.8,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "M11",
+    "ra": 282.77,
+    "dec": -6.27,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "M71",
+    "ra": 298.444,
+    "dec": 18.779,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "M56",
+    "ra": 289.148,
+    "dec": 30.184,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "M29",
+    "ra": 305.98,
+    "dec": 38.52,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6811",
+    "ra": 294.34,
+    "dec": 46.38,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6866",
+    "ra": 300.98,
+    "dec": 44.16,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC663",
+    "ra": 26.5,
+    "dec": 61.25,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC654",
+    "ra": 26.0,
+    "dec": 61.88,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC457",
+    "ra": 19.9,
+    "dec": 58.28,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC869",
+    "ra": 34.75,
+    "dec": 57.13,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC884",
+    "ra": 35.6,
+    "dec": 57.15,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC1501",
+    "ra": 61.75,
+    "dec": 60.92,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC1502",
+    "ra": 61.93,
+    "dec": 62.32,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC1907",
+    "ra": 82.0,
+    "dec": 35.33,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC1912",
+    "ra": 82.18,
+    "dec": 35.85,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2099",
+    "ra": 88.08,
+    "dec": 32.55,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2168",
+    "ra": 92.28,
+    "dec": 24.33,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2323",
+    "ra": 105.68,
+    "dec": -8.36,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2345",
+    "ra": 107.08,
+    "dec": -13.2,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2506",
+    "ra": 120.01,
+    "dec": -10.77,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2539",
+    "ra": 122.67,
+    "dec": -12.83,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2682_east",
+    "ra": 132.95,
+    "dec": 11.8,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6709",
+    "ra": 282.83,
+    "dec": 10.32,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6793",
+    "ra": 290.62,
+    "dec": 22.14,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6940",
+    "ra": 308.62,
+    "dec": 28.28,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6939",
+    "ra": 307.9,
+    "dec": 60.66,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7142",
+    "ra": 326.29,
+    "dec": 65.77,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7160",
+    "ra": 327.71,
+    "dec": 62.6,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7243",
+    "ra": 333.78,
+    "dec": 49.88,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7380",
+    "ra": 341.75,
+    "dec": 58.1,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7510",
+    "ra": 347.79,
+    "dec": 60.57,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7654",
+    "ra": 351.2,
+    "dec": 61.6,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7788",
+    "ra": 359.42,
+    "dec": 61.4,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7790",
+    "ra": 359.6,
+    "dec": 61.2,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC225",
+    "ra": 10.85,
+    "dec": 61.77,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC559",
+    "ra": 22.4,
+    "dec": 63.3,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC1664",
+    "ra": 72.2,
+    "dec": 43.68,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC1778",
+    "ra": 77.0,
+    "dec": 37.03,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC1960",
+    "ra": 84.07,
+    "dec": 34.14,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2281",
+    "ra": 102.26,
+    "dec": 41.08,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2437",
+    "ra": 115.44,
+    "dec": -14.81,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2395",
+    "ra": 111.78,
+    "dec": 13.61,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2244",
+    "ra": 98.0,
+    "dec": 4.95,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2232",
+    "ra": 96.99,
+    "dec": -4.75,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2169",
+    "ra": 92.12,
+    "dec": 13.97,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2024",
+    "ra": 85.42,
+    "dec": -1.9,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC2068",
+    "ra": 86.67,
+    "dec": 0.05,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "IC348",
+    "ra": 56.13,
+    "dec": 32.16,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC1333",
+    "ra": 52.3,
+    "dec": 31.3,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7129",
+    "ra": 325.76,
+    "dec": 66.1,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7023",
+    "ra": 315.4,
+    "dec": 68.15,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6535",
+    "ra": 270.96,
+    "dec": -0.3,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6712",
+    "ra": 283.27,
+    "dec": -8.71,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "Pal5",
+    "ra": 229.02,
+    "dec": -0.11,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "Pal4",
+    "ra": 172.32,
+    "dec": 28.97,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "Pal3",
+    "ra": 151.38,
+    "dec": 0.07,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6934",
+    "ra": 308.55,
+    "dec": 7.4,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC7492",
+    "ra": 347.11,
+    "dec": -15.61,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "M31_NE",
+    "ra": 11.1,
+    "dec": 41.6,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M31_NE2",
+    "ra": 11.5,
+    "dec": 41.9,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M31_SW",
+    "ra": 10.3,
+    "dec": 40.9,
+    "radius_deg": 0.25
+  },
+  {
+    "field": "M33",
+    "ra": 23.46,
+    "dec": 30.66,
+    "radius_deg": 0.12
+  },
+  {
+    "field": "NGC6791_outer",
+    "ra": 290.35,
+    "dec": 37.9,
+    "radius_deg": 0.12
+  }
+]

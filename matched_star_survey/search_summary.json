@@ -1,0 +1,93 @@
+[
+  {
+    "field": "NGC2420",
+    "lamost_observations": 390,
+    "eligible_stars": 131,
+    "hsc_candidate_records": 3,
+    "stars_with_hsc_candidates": 3
+  },
+  {
+    "field": "NGC6819",
+    "lamost_observations": 373,
+    "eligible_stars": 190,
+    "hsc_candidate_records": 102,
+    "stars_with_hsc_candidates": 28
+  },
+  {
+    "field": "NGC6791",
+    "lamost_observations": 229,
+    "eligible_stars": 119,
+    "hsc_candidate_records": 414,
+    "stars_with_hsc_candidates": 9
+  },
+  {
+    "field": "M92_core",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M13_core",
+    "lamost_observations": 8,
+    "eligible_stars": 1,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M3_core",
+    "lamost_observations": 24,
+    "eligible_stars": 12,
+    "hsc_candidate_records": 273,
+    "stars_with_hsc_candidates": 4
+  },
+  {
+    "field": "M15_core",
+    "lamost_observations": 18,
+    "eligible_stars": 7,
+    "hsc_candidate_records": 149,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "NGC2158_core",
+    "lamost_observations": 117,
+    "eligible_stars": 20,
+    "hsc_candidate_records": 417,
+    "stars_with_hsc_candidates": 7
+  },
+  {
+    "field": "NGC2264_core",
+    "lamost_observations": 16,
+    "eligible_stars": 1,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "Orion_core",
+    "lamost_observations": 5,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC5466_core",
+    "lamost_observations": 9,
+    "eligible_stars": 2,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6229_core",
+    "lamost_observations": 6,
+    "eligible_stars": 3,
+    "hsc_candidate_records": 9,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "M53_core",
+    "lamost_observations": 37,
+    "eligible_stars": 14,
+    "hsc_candidate_records": 486,
+    "stars_with_hsc_candidates": 5
+  }
+]

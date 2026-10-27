@@ -1,0 +1,184 @@
+[
+  {
+    "gaia_dr3_source_id": "951477578397853440",
+    "lamost_obsid": 194002175,
+    "ra": 102.1848,
+    "dec": 41.053352,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951484072388376192",
+    "lamost_obsid": 194002199,
+    "ra": 102.32763,
+    "dec": 41.173773,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951480567695088000",
+    "lamost_obsid": 427211085,
+    "ra": 102.1827681,
+    "dec": 41.0863278,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "951470500291732864",
+    "lamost_obsid": 194002167,
+    "ra": 102.34687,
+    "dec": 41.031679,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951472561876020864",
+    "lamost_obsid": 194002190,
+    "ra": 102.41267,
+    "dec": 41.102634,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951481048731419520",
+    "lamost_obsid": 194002163,
+    "ra": 102.16782,
+    "dec": 41.147381,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951480872635206272",
+    "lamost_obsid": 45307186,
+    "ra": 102.13367,
+    "dec": 41.108555,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "951480121018497024",
+    "lamost_obsid": 224316248,
+    "ra": 102.15141,
+    "dec": 41.057018,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951483690133751680",
+    "lamost_obsid": 137116237,
+    "ra": 102.25803,
+    "dec": 41.119415,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951471114469716096",
+    "lamost_obsid": 137111174,
+    "ra": 102.37569,
+    "dec": 41.090324,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951476204008320128",
+    "lamost_obsid": 90502175,
+    "ra": 102.24055,
+    "dec": 40.987977,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951476238368590976",
+    "lamost_obsid": 427211079,
+    "ra": 102.26879,
+    "dec": 41.00193444,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "951476719404403840",
+    "lamost_obsid": 224316140,
+    "ra": 102.17944,
+    "dec": 40.987133,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951481254889860992",
+    "lamost_obsid": 137016246,
+    "ra": 102.11263,
+    "dec": 41.110278,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951480941354780032",
+    "lamost_obsid": 137116232,
+    "ra": 102.16985,
+    "dec": 41.124432,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951477440958893184",
+    "lamost_obsid": 194102153,
+    "ra": 102.23069,
+    "dec": 41.063691,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951476547605917568",
+    "lamost_obsid": 194002169,
+    "ra": 102.25423,
+    "dec": 41.022475,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951480292817192064",
+    "lamost_obsid": 286816248,
+    "ra": 102.12349,
+    "dec": 41.05824,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951464521697267968",
+    "lamost_obsid": 434002169,
+    "ra": 102.29754,
+    "dec": 40.989841,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951483625711795456",
+    "lamost_obsid": 296116237,
+    "ra": 102.22749,
+    "dec": 41.106067,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951482423120942848",
+    "lamost_obsid": 296211174,
+    "ra": 102.33058,
+    "dec": 41.082438,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951483694431266560",
+    "lamost_obsid": 296216237,
+    "ra": 102.25445,
+    "dec": 41.123218,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951481254889861504",
+    "lamost_obsid": 317913080,
+    "ra": 102.11257,
+    "dec": 41.108204,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951482972876747520",
+    "lamost_obsid": 434002199,
+    "ra": 102.37018,
+    "dec": 41.136992,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951482491840425984",
+    "lamost_obsid": 427211076,
+    "ra": 102.2994044,
+    "dec": 41.062635,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "951470259773561344",
+    "lamost_obsid": 434002167,
+    "ra": 102.39094,
+    "dec": 41.015383,
+    "fibermask": 0
+  }
+]

@@ -1,0 +1,36 @@
+{"metadata":
+[
+{"name": "source_id", "datatype": "long", "xtype": null, "arraysize": null, "description": "Unique source identifier (unique within a particular Data Release)", "unit": null, "ucd": "meta.id", "utype": null},
+{"name": "ra", "datatype": "double", "xtype": null, "arraysize": null, "description": "Right ascension", "unit": "deg", "ucd": "pos.eq.ra;meta.main", "utype": "stc:AstroCoords.Position3D.Value3.C1"},
+{"name": "dec", "datatype": "double", "xtype": null, "arraysize": null, "description": "Declination", "unit": "deg", "ucd": "pos.eq.dec;meta.main", "utype": "stc:AstroCoords.Position3D.Value3.C2"},
+{"name": "ref_epoch", "datatype": "double", "xtype": null, "arraysize": null, "description": "Reference epoch", "unit": "yr", "ucd": "meta.ref;time.epoch", "utype": "stc:AstroCoords.Time.TimeInstant"},
+{"name": "pmra", "datatype": "double", "xtype": null, "arraysize": null, "description": "Proper motion in right ascension direction", "unit": "mas.yr**-1", "ucd": "pos.pm;pos.eq.ra", "utype": "stc:AstroCoords.Velocity3D.Value3.C1"},
+{"name": "pmdec", "datatype": "double", "xtype": null, "arraysize": null, "description": "Proper motion in declination direction", "unit": "mas.yr**-1", "ucd": "pos.pm;pos.eq.dec", "utype": "stc:AstroCoords.Velocity3D.Value3.C2"},
+{"name": "parallax", "datatype": "double", "xtype": null, "arraysize": null, "description": "Parallax", "unit": "mas", "ucd": "pos.parallax.trig", "utype": null},
+{"name": "ruwe", "datatype": "float", "xtype": null, "arraysize": null, "description": "Renormalised unit weight error", "unit": null, "ucd": "stat.error", "utype": null},
+{"name": "phot_g_mean_mag", "datatype": "float", "xtype": null, "arraysize": null, "description": "G-band mean magnitude", "unit": "mag", "ucd": "phot.mag;em.opt", "utype": null}
+],
+"data":
+[
+[1745948323734109312,322.4997484648431,12.169919975100255,2016.0,-0.6671553000798537,-4.362631849478329,0.10036414696074036,2.103564,14.4085],
+[1745948328025666432,322.4989362035685,12.170058348619087,2016.0,null,null,null,null,16.933546],
+[1745948328025665024,322.498779223307,12.169336214989013,2016.0,-0.3719285563064537,-4.204109900046574,-0.19226533859841785,2.8339527,15.108915],
+[1745948328025667072,322.49873822003684,12.169911306724158,2016.0,null,null,null,null,17.546732],
+[1745948328031342464,322.4999556874283,12.17082389634123,2016.0,1.3105419145955362,-2.238948801544624,0.5491218089403032,2.7393718,17.476402],
+[1745948328031321216,322.49914762435117,12.169531068130711,2016.0,null,null,null,null,18.287607],
+[1745948323734109056,322.4996352827048,12.168729184296438,2016.0,-0.07395732869269081,-2.658545200288734,-0.09391077289948921,4.777883,15.048522],
+[1745948328025666816,322.4986928190093,12.169669371927803,2016.0,null,null,null,null,18.3739],
+[1745948328025674752,322.5003514698118,12.169201217960477,2016.0,-0.3333832136913073,-3.2999527432765334,0.11218244928757569,1.364531,15.906535],
+[1745948328025689728,322.4993658484057,12.170890822184925,2016.0,null,null,null,null,16.86822],
+[1745948328025658880,322.5009621323269,12.169775131732319,2016.0,null,null,null,null,18.522469],
+[1745948328029127296,322.49971459845307,12.168543038363932,2016.0,null,null,null,null,15.670197],
+[1745948328031342336,322.4994356762391,12.170510608194009,2016.0,null,null,null,null,18.519562],
+[1745948328025666048,322.4988570300823,12.17043504008172,2016.0,1.5339630634607728,-9.450295536670414,-1.5991658415743686,3.694088,16.905712],
+[1745948328028854144,322.4993764802669,12.169705847029354,2016.0,-0.791595059271133,-2.546862378616674,0.4565584276232963,2.6255941,17.437685],
+[1745948328025689344,322.49944944486714,12.171066287095057,2016.0,null,null,null,null,17.319466],
+[1745948328027256064,322.4997332747274,12.169467473230094,2016.0,null,null,null,null,17.994251],
+[1745948328025689472,322.49980830335613,12.17117565801758,2016.0,null,null,null,null,17.671621],
+[1745948358093849216,322.5007490766938,12.17032607153395,2016.0,null,null,null,null,15.104559],
+[1745948328031325952,322.5008151618399,12.169303703890677,2016.0,null,null,null,null,17.346962]
+]
+}

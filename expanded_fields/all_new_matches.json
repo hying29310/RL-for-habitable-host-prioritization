@@ -1,0 +1,22 @@
+[
+  {
+    "source_id": "NGC6791_Gaia_2051105376456445824",
+    "field": "NGC6791",
+    "gaia_dr3_source_id": "2051105376456445824",
+    "lamost_obsid": 664016211,
+    "lamost_release": "DR11 v2.0 LRS",
+    "match_status": "positionally_validated",
+    "hst_product": "ibc603zoq_drc.fits",
+    "hst_date": "2010-09-02",
+    "ra_deg": 290.24976935756104,
+    "dec_deg": 37.767571901419494,
+    "hst_x": 980.1595771642499,
+    "hst_y": 1022.4430608931634,
+    "epoch_corrected_match_arcsec": 0.008364516388711244,
+    "second_nearest_arcsec": 0.343801676349556,
+    "other_detections_within_1p65_arcsec": 4,
+    "fibermask": 192,
+    "gaia_ruwe": 0.9738069,
+    "caution": "Crowding/artifacts and HST saturation not fully audited; cluster membership not established."
+  }
+]

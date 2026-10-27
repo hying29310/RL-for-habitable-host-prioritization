@@ -1,0 +1,13 @@
+[
+  {
+    "source_id": "HST_DET_0235",
+    "x": 1160.1448223671262,
+    "y": 1050.3969037870938,
+    "ra_deg": 132.82988714025112,
+    "dec_deg": 11.79851527488178,
+    "temperature_K": 6105.19,
+    "Fe_H_dex": -0.145,
+    "lamost_obsid": 420808077,
+    "match_status": "validated_example"
+  }
+]

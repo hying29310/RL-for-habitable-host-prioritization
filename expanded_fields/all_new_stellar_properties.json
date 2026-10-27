@@ -1,0 +1,63 @@
+[
+  {
+    "source_id": "NGC6791_Gaia_2051105376456445824",
+    "lamost_obsid": 664016211,
+    "release": "DR11 v2.0 LRS",
+    "original_match_record": {
+      "source_id": "NGC6791_Gaia_2051105376456445824",
+      "field": "NGC6791",
+      "gaia_dr3_source_id": "2051105376456445824",
+      "lamost_obsid": 664016211,
+      "lamost_release": "DR11 v2.0 LRS",
+      "match_status": "positionally_validated",
+      "hst_product": "ibc603zoq_drc.fits",
+      "hst_date": "2010-09-02",
+      "ra_deg": 290.24976935756104,
+      "dec_deg": 37.767571901419494,
+      "hst_x": 980.1595771642499,
+      "hst_y": 1022.4430608931634,
+      "epoch_corrected_match_arcsec": 0.008364516388711244,
+      "second_nearest_arcsec": 0.343801676349556,
+      "other_detections_within_1p65_arcsec": 4,
+      "fibermask": 192,
+      "gaia_ruwe": 0.9738069,
+      "caution": "Crowding/artifacts and HST saturation not fully audited; cluster membership not established."
+    },
+    "designation": "J192059.97+374603.2",
+    "observation_date": "2018-05-17",
+    "gaia_dr3_source_id": "2051105376456445824",
+    "temperature_K": 7150.92,
+    "temperature_catalog_error_K": 47.77,
+    "Fe_H_dex": 0.43,
+    "Fe_H_catalog_error_dex": 0.041,
+    "logg_dex": 3.889,
+    "logg_catalog_error_dex": 0.068,
+    "radial_velocity_km_s": -51.52,
+    "radial_velocity_catalog_error_km_s": 6.42,
+    "spectral_class": "STAR",
+    "spectral_subclass": "F0",
+    "snrg": 54.93,
+    "snrr": 72.37,
+    "fibermask": 192,
+    "catalog_ra_deg": 290.24989,
+    "catalog_dec_deg": 37.767575,
+    "spectrum": {
+      "arrays_file": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/expanded_fields/NGC6791/retrieved/spectrum_664016211.npz",
+      "original_fits": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/expanded_fields/data/NGC6791/lamost_664016211.fits.gz",
+      "sha256": "455c31ee251fb65833c0b1a300955f58fa57ae48458278188372c38e7483babc",
+      "sample_count": 3901,
+      "usable_sample_count": 3896,
+      "wavelength_min_angstrom": 3699.986328125,
+      "wavelength_max_angstrom": 9082.3896484375,
+      "spectrum_fibermask": 192,
+      "flux_description": "Original LAMOST catalog flux scale; no absolute calibration assumed.",
+      "download_url": "https://www.lamost.org/dr11/v2.0/spectrum/fits/664016211"
+    },
+    "quality": {
+      "fiber_mask_zero": false,
+      "snrg_above_20": true,
+      "stellar_parameters_available": true,
+      "note": "Preserved supplied association; no new position match or scientific quality certification."
+    }
+  }
+]

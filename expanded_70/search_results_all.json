@@ -1,0 +1,618 @@
+[
+  {
+    "field": "NGC2420",
+    "lamost_observations": 390,
+    "eligible_stars": 131,
+    "hsc_candidate_records": 3,
+    "stars_with_hsc_candidates": 3
+  },
+  {
+    "field": "NGC6819",
+    "lamost_observations": 373,
+    "eligible_stars": 190,
+    "hsc_candidate_records": 102,
+    "stars_with_hsc_candidates": 28
+  },
+  {
+    "field": "NGC6791",
+    "lamost_observations": 229,
+    "eligible_stars": 119,
+    "hsc_candidate_records": 414,
+    "stars_with_hsc_candidates": 9
+  },
+  {
+    "field": "NGC6633",
+    "lamost_observations": 72,
+    "eligible_stars": 34,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7789",
+    "lamost_observations": 99,
+    "eligible_stars": 62,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2158",
+    "lamost_observations": 940,
+    "eligible_stars": 172,
+    "hsc_candidate_records": 417,
+    "stars_with_hsc_candidates": 7
+  },
+  {
+    "field": "NGC752",
+    "lamost_observations": 214,
+    "eligible_stars": 94,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M13",
+    "lamost_observations": 40,
+    "eligible_stars": 4,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M92",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M3",
+    "lamost_observations": 85,
+    "eligible_stars": 33,
+    "hsc_candidate_records": 277,
+    "stars_with_hsc_candidates": 7
+  },
+  {
+    "field": "M35",
+    "lamost_observations": 1472,
+    "eligible_stars": 296,
+    "hsc_candidate_records": 197,
+    "stars_with_hsc_candidates": 77
+  },
+  {
+    "field": "M2",
+    "lamost_observations": 55,
+    "eligible_stars": 25,
+    "hsc_candidate_records": 83,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "M15",
+    "lamost_observations": 86,
+    "eligible_stars": 46,
+    "hsc_candidate_records": 152,
+    "stars_with_hsc_candidates": 3
+  },
+  {
+    "field": "NGC5466",
+    "lamost_observations": 101,
+    "eligible_stars": 32,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M53",
+    "lamost_observations": 169,
+    "eligible_stars": 65,
+    "hsc_candidate_records": 500,
+    "stars_with_hsc_candidates": 9
+  },
+  {
+    "field": "NGC5053",
+    "lamost_observations": 220,
+    "eligible_stars": 57,
+    "hsc_candidate_records": 125,
+    "stars_with_hsc_candidates": 3
+  },
+  {
+    "field": "NGC4147",
+    "lamost_observations": 180,
+    "eligible_stars": 44,
+    "hsc_candidate_records": 215,
+    "stars_with_hsc_candidates": 5
+  },
+  {
+    "field": "NGC7006",
+    "lamost_observations": 51,
+    "eligible_stars": 43,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2419",
+    "lamost_observations": 318,
+    "eligible_stars": 93,
+    "hsc_candidate_records": 157,
+    "stars_with_hsc_candidates": 9
+  },
+  {
+    "field": "NGC6229",
+    "lamost_observations": 70,
+    "eligible_stars": 37,
+    "hsc_candidate_records": 9,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "NGC2264",
+    "lamost_observations": 123,
+    "eligible_stars": 18,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "Orion",
+    "lamost_observations": 57,
+    "eligible_stars": 10,
+    "hsc_candidate_records": 11,
+    "stars_with_hsc_candidates": 7
+  },
+  {
+    "field": "Pleiades",
+    "lamost_observations": 731,
+    "eligible_stars": 84,
+    "hsc_candidate_records": 1,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "M31",
+    "lamost_observations": 361,
+    "eligible_stars": 83,
+    "hsc_candidate_records": 9567,
+    "stars_with_hsc_candidates": 69
+  },
+  {
+    "field": "M11",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M71",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M56",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M29",
+    "lamost_observations": 15,
+    "eligible_stars": 8,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC663",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC654",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6866",
+    "lamost_observations": 80,
+    "eligible_stars": 58,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC457",
+    "lamost_observations": 6,
+    "eligible_stars": 2,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M67",
+    "lamost_observations": 141,
+    "eligible_stars": 26,
+    "hsc_candidate_records": 5,
+    "stars_with_hsc_candidates": 4
+  },
+  {
+    "field": "NGC6811",
+    "lamost_observations": 121,
+    "eligible_stars": 74,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC1501",
+    "lamost_observations": 10,
+    "eligible_stars": 4,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC884",
+    "lamost_observations": 42,
+    "eligible_stars": 10,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC1502",
+    "lamost_observations": 9,
+    "eligible_stars": 7,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC869",
+    "lamost_observations": 59,
+    "eligible_stars": 16,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2099",
+    "lamost_observations": 101,
+    "eligible_stars": 48,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC1907",
+    "lamost_observations": 107,
+    "eligible_stars": 44,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC1912",
+    "lamost_observations": 120,
+    "eligible_stars": 52,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2345",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2323",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2506",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2539",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6709",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6793",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6940",
+    "lamost_observations": 7,
+    "eligible_stars": 7,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6939",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7160",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7142",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7243",
+    "lamost_observations": 6,
+    "eligible_stars": 1,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7380",
+    "lamost_observations": 13,
+    "eligible_stars": 5,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7510",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7654",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7788",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7790",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2682_east",
+    "lamost_observations": 174,
+    "eligible_stars": 23,
+    "hsc_candidate_records": 5,
+    "stars_with_hsc_candidates": 4
+  },
+  {
+    "field": "NGC559",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC225",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC1778",
+    "lamost_observations": 14,
+    "eligible_stars": 5,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC1664",
+    "lamost_observations": 55,
+    "eligible_stars": 26,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2437",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC1960",
+    "lamost_observations": 109,
+    "eligible_stars": 47,
+    "hsc_candidate_records": 2,
+    "stars_with_hsc_candidates": 2
+  },
+  {
+    "field": "NGC2168",
+    "lamost_observations": 450,
+    "eligible_stars": 84,
+    "hsc_candidate_records": 147,
+    "stars_with_hsc_candidates": 46
+  },
+  {
+    "field": "NGC2395",
+    "lamost_observations": 32,
+    "eligible_stars": 13,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2281",
+    "lamost_observations": 118,
+    "eligible_stars": 26,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2232",
+    "lamost_observations": 28,
+    "eligible_stars": 12,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2244",
+    "lamost_observations": 54,
+    "eligible_stars": 22,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2024",
+    "lamost_observations": 15,
+    "eligible_stars": 2,
+    "hsc_candidate_records": 1,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "NGC2068",
+    "lamost_observations": 8,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC2169",
+    "lamost_observations": 66,
+    "eligible_stars": 29,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7129",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC7023",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6535",
+    "lamost_observations": 7,
+    "eligible_stars": 5,
+    "hsc_candidate_records": 7,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "NGC1333",
+    "lamost_observations": 40,
+    "eligible_stars": 3,
+    "hsc_candidate_records": 2,
+    "stars_with_hsc_candidates": 2
+  },
+  {
+    "field": "NGC6712",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "Pal5",
+    "lamost_observations": 9,
+    "eligible_stars": 2,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "IC348",
+    "lamost_observations": 84,
+    "eligible_stars": 7,
+    "hsc_candidate_records": 5,
+    "stars_with_hsc_candidates": 3
+  },
+  {
+    "field": "Pal3",
+    "lamost_observations": 29,
+    "eligible_stars": 7,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "NGC6934",
+    "lamost_observations": 14,
+    "eligible_stars": 10,
+    "hsc_candidate_records": 147,
+    "stars_with_hsc_candidates": 2
+  },
+  {
+    "field": "Pal4",
+    "lamost_observations": 45,
+    "eligible_stars": 11,
+    "hsc_candidate_records": 1,
+    "stars_with_hsc_candidates": 1
+  },
+  {
+    "field": "NGC7492",
+    "lamost_observations": 0,
+    "eligible_stars": 0,
+    "hsc_candidate_records": 0,
+    "stars_with_hsc_candidates": 0
+  },
+  {
+    "field": "M33",
+    "lamost_observations": 100,
+    "eligible_stars": 18,
+    "hsc_candidate_records": 1925,
+    "stars_with_hsc_candidates": 18
+  },
+  {
+    "field": "NGC6791_outer",
+    "lamost_observations": 59,
+    "eligible_stars": 32,
+    "hsc_candidate_records": 94,
+    "stars_with_hsc_candidates": 4
+  },
+  {
+    "field": "M31_NE",
+    "lamost_observations": 306,
+    "eligible_stars": 64,
+    "hsc_candidate_records": 7602,
+    "stars_with_hsc_candidates": 60
+  },
+  {
+    "field": "M31_NE2",
+    "lamost_observations": 277,
+    "eligible_stars": 80,
+    "hsc_candidate_records": 7421,
+    "stars_with_hsc_candidates": 69
+  },
+  {
+    "field": "M31_SW",
+    "lamost_observations": 294,
+    "eligible_stars": 71,
+    "hsc_candidate_records": 1274,
+    "stars_with_hsc_candidates": 17
+  }
+]

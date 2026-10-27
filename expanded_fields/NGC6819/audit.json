@@ -1,0 +1,235 @@
+[
+  {
+    "gaia_dr3_source_id": "2076487945983698432",
+    "available_parameter_observations": 2,
+    "predicted_x": 2763.8397873486583,
+    "predicted_y": 9675.987294446975,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914036608",
+    "available_parameter_observations": 1,
+    "predicted_x": 1410.2932455914515,
+    "predicted_y": 2981.4173426151056,
+    "status": "no_image_coverage"
+  },
+  {
+    "gaia_dr3_source_id": "2076581713708054656",
+    "available_parameter_observations": 2,
+    "predicted_x": -742.3997730526385,
+    "predicted_y": 7588.23582097477,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076394448828275584",
+    "available_parameter_observations": 1,
+    "predicted_x": -4088.4280972325287,
+    "predicted_y": 3912.102095577819,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076298761268676352",
+    "available_parameter_observations": 1,
+    "predicted_x": 3781.246251831134,
+    "predicted_y": -1620.2768504784385,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076392528993233024",
+    "available_parameter_observations": 2,
+    "predicted_x": 3392.8011700635902,
+    "predicted_y": -2808.2711024108203,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393937742523904",
+    "available_parameter_observations": 1,
+    "predicted_x": -886.2806926120602,
+    "predicted_y": 4772.619969728074,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076299963859446016",
+    "available_parameter_observations": 1,
+    "predicted_x": 6085.202197376446,
+    "predicted_y": 5147.575861902738,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393010029609984",
+    "available_parameter_observations": 2,
+    "predicted_x": -1145.589048667965,
+    "predicted_y": 777.0736179383669,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393624194561152",
+    "available_parameter_observations": 1,
+    "predicted_x": 1066.9199824334737,
+    "predicted_y": 1598.6451457120231,
+    "status": "no_image_coverage"
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914035456",
+    "available_parameter_observations": 1,
+    "predicted_x": 436.7646092586724,
+    "predicted_y": 3062.5118568476587,
+    "status": "no_image_coverage"
+  },
+  {
+    "gaia_dr3_source_id": "2076299993911496320",
+    "available_parameter_observations": 1,
+    "predicted_x": 4271.3230218569515,
+    "predicted_y": 4848.841047252164,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393353627026944",
+    "available_parameter_observations": 1,
+    "predicted_x": -3472.232383007863,
+    "predicted_y": -293.1728568881849,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076488083422693888",
+    "available_parameter_observations": 1,
+    "predicted_x": -158.01818442136118,
+    "predicted_y": 8947.094556517135,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076487838597288320",
+    "available_parameter_observations": 2,
+    "predicted_x": 1816.8048784655275,
+    "predicted_y": 7426.9482174853365,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076392528993243008",
+    "available_parameter_observations": 2,
+    "predicted_x": 2645.247835246282,
+    "predicted_y": -3128.7368557262907,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393765943846656",
+    "available_parameter_observations": 1,
+    "predicted_x": -1058.6588449439714,
+    "predicted_y": 2185.7570281806006,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076299998219216256",
+    "available_parameter_observations": 1,
+    "predicted_x": 3616.71578628505,
+    "predicted_y": 5261.520753045601,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076488049062938240",
+    "available_parameter_observations": 1,
+    "predicted_x": 778.7507649080915,
+    "predicted_y": 9529.194987299175,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076392700791972992",
+    "available_parameter_observations": 1,
+    "predicted_x": -276.62858290834583,
+    "predicted_y": -3206.5907385074615,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076300066938728832",
+    "available_parameter_observations": 1,
+    "predicted_x": 2097.9188093773205,
+    "predicted_y": 3640.331224501069,
+    "nearest_separation_arcsec": 0.0025040435180958896,
+    "detections_within_0p3_arcsec": 3,
+    "second_nearest_arcsec": 0.23604645596221602,
+    "status": "rejected_offset_or_ambiguous"
+  },
+  {
+    "gaia_dr3_source_id": "2076487327508376832",
+    "available_parameter_observations": 1,
+    "predicted_x": 5873.361166565008,
+    "predicted_y": 7327.505914543194,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076581748067804288",
+    "available_parameter_observations": 1,
+    "predicted_x": -1973.976576339347,
+    "predicted_y": 8174.74934271221,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076392769511450368",
+    "available_parameter_observations": 2,
+    "predicted_x": -701.5891778468304,
+    "predicted_y": -2221.8953190156362,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076300032578973952",
+    "available_parameter_observations": 1,
+    "predicted_x": 2985.90718420476,
+    "predicted_y": 4081.875046048449,
+    "nearest_separation_arcsec": 0.0027691098683945443,
+    "detections_within_0p3_arcsec": 3,
+    "second_nearest_arcsec": 0.23160658773769324,
+    "status": "rejected_offset_or_ambiguous"
+  },
+  {
+    "gaia_dr3_source_id": "2076299207945186048",
+    "available_parameter_observations": 1,
+    "predicted_x": 9065.419349495665,
+    "predicted_y": 1868.929196835337,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076487739825262976",
+    "available_parameter_observations": 1,
+    "predicted_x": 3624.982656385032,
+    "predicted_y": 8324.708578076676,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076299895139969536",
+    "available_parameter_observations": 1,
+    "predicted_x": 6338.298720402978,
+    "predicted_y": 4310.210890034648,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076487636746036736",
+    "available_parameter_observations": 1,
+    "predicted_x": 4871.339529303225,
+    "predicted_y": 7140.955281160999,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076393731584089856",
+    "available_parameter_observations": 1,
+    "predicted_x": 157.07425417764557,
+    "predicted_y": 2546.7114674570626,
+    "nearest_separation_arcsec": 0.002231658747972081,
+    "detections_within_0p3_arcsec": 2,
+    "second_nearest_arcsec": 0.273225231647257,
+    "status": "rejected_offset_or_ambiguous"
+  },
+  {
+    "gaia_dr3_source_id": "2076393834663321344",
+    "available_parameter_observations": 1,
+    "predicted_x": -987.6977133048786,
+    "predicted_y": 2636.6624574003413,
+    "status": "outside_image"
+  },
+  {
+    "gaia_dr3_source_id": "2076394109541228672",
+    "available_parameter_observations": 1,
+    "predicted_x": -2340.141763834141,
+    "predicted_y": 6074.24235296789,
+    "status": "outside_image"
+  }
+]

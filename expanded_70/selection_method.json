@@ -1,0 +1,6 @@
+{
+  "accepted_new_matches": 145,
+  "complete_dr3_matches": 74,
+  "selected": 70,
+  "rule": "Complete Gaia DR3 FLAME R/L and zero LAMOST fiber mask; prioritize at least one zero-flag HST detection, then descending LAMOST g SNR, then Gaia ID. No host score used for selection."
+}

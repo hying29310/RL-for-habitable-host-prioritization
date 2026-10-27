@@ -1,0 +1,1287 @@
+[
+  {
+    "gaia_dr3_source_id": "2051105307736986496",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.010662954182527806,
+    "lamost_nearest_gaia_source_id": "2051105307736986496",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2051105307736986496",
+        "separation_arcsec": 0.06005645476345613,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2051105788773383424",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.006094278672691441,
+    "lamost_nearest_gaia_source_id": "2051105788773383424",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2051105788773383424",
+        "separation_arcsec": 0.023257459382342076,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2051105788768617600",
+        "separation_arcsec": 2.1037728449747917,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2051293904037696256",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.17911503811984802,
+    "lamost_nearest_gaia_source_id": "2051293904037696256",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2051293904037696256",
+        "separation_arcsec": 0.025827622387468364,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2051293908339155456",
+        "separation_arcsec": 3.895205537429013,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914036608",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.107922912530389,
+    "lamost_nearest_gaia_source_id": "2076393692914036608",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076393692914036608",
+        "separation_arcsec": 0.013307853883842228,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076393697218332032",
+        "separation_arcsec": 3.6535981371949995,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076393937742523904",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.10356950356735346,
+    "lamost_nearest_gaia_source_id": "2076393937742523904",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076393937742523904",
+        "separation_arcsec": 0.07095000704297906,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076393937742523776",
+        "separation_arcsec": 2.0061050502224713,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076299963859446016",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.0757493677414724,
+    "lamost_nearest_gaia_source_id": "2076299963859446016",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076299963859446016",
+        "separation_arcsec": 0.024350795085930004,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076299963855704704",
+        "separation_arcsec": 1.974877592427356,
+        "proper_motion_available": false
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076393624194561152",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.09692935414319855,
+    "lamost_nearest_gaia_source_id": "2076393624194561152",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076393624194561152",
+        "separation_arcsec": 0.026594278481256783,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914035456",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.03998563236529636,
+    "lamost_nearest_gaia_source_id": "2076393692914035456",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076393692914035456",
+        "separation_arcsec": 0.018382683599290153,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076393697216331776",
+        "separation_arcsec": 3.494374131383211,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076299993911496320",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.2104343331232665,
+    "lamost_nearest_gaia_source_id": "2076299993911496320",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076299993911496320",
+        "separation_arcsec": 0.018097183315950758,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076299998215370880",
+        "separation_arcsec": 4.831789783991784,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076299998219216256",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.06893083645747994,
+    "lamost_nearest_gaia_source_id": "2076299998219216256",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076299998219216256",
+        "separation_arcsec": 0.00750129633320476,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076299998215090560",
+        "separation_arcsec": 1.034726274175641,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "2076299998219214592",
+        "separation_arcsec": 4.984223291165354,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076487838597288320",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.07807466327881771,
+    "lamost_nearest_gaia_source_id": "2076487838597288320",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076487838597288320",
+        "separation_arcsec": 0.00972294805179623,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076487842904505472",
+        "separation_arcsec": 2.3248246267390904,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076300032578973952",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.12185872411195435,
+    "lamost_nearest_gaia_source_id": "2076300032578973952",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076300032578973952",
+        "separation_arcsec": 0.023802222118874658,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076300032574900480",
+        "separation_arcsec": 4.848868209890298,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076300066938728832",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.125102802951509,
+    "lamost_nearest_gaia_source_id": "2076300066938728832",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076300066938728832",
+        "separation_arcsec": 0.02748753961560959,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076487430587543168",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.23111452633393853,
+    "lamost_nearest_gaia_source_id": "2076487430587543168",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076487430587543168",
+        "separation_arcsec": 0.22884100135233088,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076487739825262976",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.18257252909811586,
+    "lamost_nearest_gaia_source_id": "2076487739825262976",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076487739825262976",
+        "separation_arcsec": 0.025843526169796127,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2051105376456445824",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.3416690160094959,
+    "lamost_nearest_gaia_source_id": "2051105376456445824",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2051105376456445824",
+        "separation_arcsec": 0.014677708283783461,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2051105376451501312",
+        "separation_arcsec": 3.9711989221724346,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2051105376451508480",
+        "separation_arcsec": 4.3677767573805815,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2051105376451505152",
+        "separation_arcsec": 4.871631587711902,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076489217294043904",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.1761587680411945,
+    "lamost_nearest_gaia_source_id": "2076489217294043904",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076489217294043904",
+        "separation_arcsec": 0.2613001234248858,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2051293083704792960",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.011750287569065557,
+    "lamost_nearest_gaia_source_id": "2051293083704792960",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2051293083704792960",
+        "separation_arcsec": 0.006847165858008441,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2051293083705434112",
+        "separation_arcsec": 3.0883092795741853,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2051293083704792576",
+        "separation_arcsec": 3.33046128439421,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2051293079414041344",
+        "separation_arcsec": 3.8775488982046493,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076299895139969536",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.029751332319610115,
+    "lamost_nearest_gaia_source_id": "2076299895139969536",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076299895139969536",
+        "separation_arcsec": 0.02097945282835777,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "2076299895135748864",
+        "separation_arcsec": 2.097422357445636,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076487636746036736",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.08807064064443419,
+    "lamost_nearest_gaia_source_id": "2076487636746036736",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076487636746036736",
+        "separation_arcsec": 0.02161643235101747,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "2076393731584089856",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.028649914321001387,
+    "lamost_nearest_gaia_source_id": "2076393731584089856",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "2076393731584089856",
+        "separation_arcsec": 0.014501065968583105,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "1454784626653819008",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.11996076301653406,
+    "lamost_nearest_gaia_source_id": "1454784626653819008",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "1454784626653819008",
+        "separation_arcsec": 0.024780040487761956,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454784626655343744",
+        "separation_arcsec": 2.4312176428963777,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626654022656",
+        "separation_arcsec": 2.7293139925605656,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626648496512",
+        "separation_arcsec": 2.780561306369582,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454784626653659264",
+        "separation_arcsec": 2.8973003823363035,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626654245248",
+        "separation_arcsec": 3.4730598031371884,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626654011648",
+        "separation_arcsec": 3.5153151167886216,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454784626648948096",
+        "separation_arcsec": 3.6099864295583663,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626654243456",
+        "separation_arcsec": 3.65972325481172,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626654233344",
+        "separation_arcsec": 3.9635906782792873,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626653816192",
+        "separation_arcsec": 4.113921503426525,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626654022784",
+        "separation_arcsec": 4.357158348941814,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626654011904",
+        "separation_arcsec": 4.444751680266444,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626655345152",
+        "separation_arcsec": 4.7002606093000345,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784626655342464",
+        "separation_arcsec": 4.820894337530082,
+        "proper_motion_available": false
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "1454878458800893440",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.1491656049395452,
+    "lamost_nearest_gaia_source_id": "1454878458800893440",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "1454878458800893440",
+        "separation_arcsec": 0.045340672784296224,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454878463093041408",
+        "separation_arcsec": 1.7947875786494698,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454878463093043712",
+        "separation_arcsec": 3.2282686121005377,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454878463094493184",
+        "separation_arcsec": 3.368967247139534,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454878463096178432",
+        "separation_arcsec": 3.6341548548269733,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454878463093041536",
+        "separation_arcsec": 3.63821912233921,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454878463093041664",
+        "separation_arcsec": 4.0256057154290135,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454878463093018496",
+        "separation_arcsec": 4.123135225230971,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454878463093063040",
+        "separation_arcsec": 4.711133051757493,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454878463095465088",
+        "separation_arcsec": 4.765754843180342,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "1454784484916761856",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.5283724635583099,
+    "lamost_nearest_gaia_source_id": "1454784484916761856",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "1454784484916761856",
+        "separation_arcsec": 0.020917165501983505,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454784489210992512",
+        "separation_arcsec": 1.3225179718350144,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784489210993408",
+        "separation_arcsec": 1.8103990786569164,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454784489210992896",
+        "separation_arcsec": 1.8864527180174981,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784489212356608",
+        "separation_arcsec": 2.0143007820777297,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784489213870592",
+        "separation_arcsec": 2.1475228811796883,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784489213870464",
+        "separation_arcsec": 2.955824287422597,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784489210995968",
+        "separation_arcsec": 3.0048809968631236,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454784489212356736",
+        "separation_arcsec": 3.189314863771046,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454784489210995840",
+        "separation_arcsec": 3.25512168493631,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784489210993536",
+        "separation_arcsec": 3.531173245616007,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454784489210993152",
+        "separation_arcsec": 3.894871128890976,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454784489210992256",
+        "separation_arcsec": 4.539197407149816,
+        "proper_motion_available": false
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "1454875233277333632",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.27859459904272177,
+    "lamost_nearest_gaia_source_id": "1454875233277333632",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "1454875233277333632",
+        "separation_arcsec": 0.029989849216751095,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454875228985471104",
+        "separation_arcsec": 0.7504287285782293,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454875233277332992",
+        "separation_arcsec": 1.1358241996829517,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454781396834642816",
+        "separation_arcsec": 1.2817889516658951,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454781396839706240",
+        "separation_arcsec": 1.402272501907724,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454875233277332352",
+        "separation_arcsec": 2.0064445267993114,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454875233277332864",
+        "separation_arcsec": 2.9722573570466526,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454781396834642432",
+        "separation_arcsec": 3.358182366980532,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454875233277332480",
+        "separation_arcsec": 3.6373122015866803,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454875233277337600",
+        "separation_arcsec": 4.128088145429053,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454875233280016512",
+        "separation_arcsec": 4.183697894950747,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454781396834642688",
+        "separation_arcsec": 4.245660398970686,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1454781396834642560",
+        "separation_arcsec": 4.327431296365062,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1454875233277332224",
+        "separation_arcsec": 4.39593188446935,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "3937271394411123968",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.09859417875278968,
+    "lamost_nearest_gaia_source_id": "3937271394411123968",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "3937271394411123968",
+        "separation_arcsec": 0.27344090769875357,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271394411124096",
+        "separation_arcsec": 1.263856305335043,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271394410264448",
+        "separation_arcsec": 2.4861639991255586,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271394411076480",
+        "separation_arcsec": 2.528890466423403,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271394411261568",
+        "separation_arcsec": 2.630668706771954,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271394410114176",
+        "separation_arcsec": 2.738739545452817,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022017256083712",
+        "separation_arcsec": 2.744280537361877,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271394411076608",
+        "separation_arcsec": 3.3055955392235323,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022017255953536",
+        "separation_arcsec": 3.443720194181914,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022017256389888",
+        "separation_arcsec": 3.7037411731941887,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271394411261440",
+        "separation_arcsec": 3.7459039163761165,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271394411073408",
+        "separation_arcsec": 4.181703119100687,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022017255953664",
+        "separation_arcsec": 4.222747018848283,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271394410054016",
+        "separation_arcsec": 4.28706122407336,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271772368372864",
+        "separation_arcsec": 4.468057533541735,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022017256390016",
+        "separation_arcsec": 4.8527530519252995,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022395212935936",
+        "separation_arcsec": 4.862430745115491,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271394411077504",
+        "separation_arcsec": 4.927397155319839,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271772368246272",
+        "separation_arcsec": 5.07018445189252,
+        "proper_motion_available": false
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "3938022395210875648",
+    "passed": false,
+    "lamost_gaia_separation_arcsec": 0.747781072130254,
+    "lamost_nearest_gaia_source_id": "3938022395210871936",
+    "lamost_position_check_passed": false,
+    "neighbors": [
+      {
+        "gaia_source_id": "3938022395210875648",
+        "separation_arcsec": 0.018887175648171255,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022395210871936",
+        "separation_arcsec": 1.3633041489937887,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022395210873216",
+        "separation_arcsec": 1.6224868475522867,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022395213526912",
+        "separation_arcsec": 2.0967762573536897,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022395210872320",
+        "separation_arcsec": 2.3144206982347404,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022395210876416",
+        "separation_arcsec": 2.392857984569215,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022395211203584",
+        "separation_arcsec": 2.4285337959004623,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022395213526784",
+        "separation_arcsec": 2.7639223407093736,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022395211203840",
+        "separation_arcsec": 2.86594791915622,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022395210864768",
+        "separation_arcsec": 2.9899313017801594,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022395210875520",
+        "separation_arcsec": 3.4045400881684635,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022395213528576",
+        "separation_arcsec": 3.82258464432344,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022395210873088",
+        "separation_arcsec": 4.106174481994902,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022395210866304",
+        "separation_arcsec": 4.163821783245115,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022395210875392",
+        "separation_arcsec": 4.5158413092643315,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022395210876672",
+        "separation_arcsec": 4.6872384697801515,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "3937271321396679936",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.05578535473672262,
+    "lamost_nearest_gaia_source_id": "3937271321396679936",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "3937271321396679936",
+        "separation_arcsec": 0.01684049016538692,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271325689012224",
+        "separation_arcsec": 1.2729060972023716,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271325689011712",
+        "separation_arcsec": 1.5649170351218902,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271325689012096",
+        "separation_arcsec": 2.370870624343543,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271325691849856",
+        "separation_arcsec": 2.452494740371795,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271325689011968",
+        "separation_arcsec": 2.4964533045896014,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271325689011840",
+        "separation_arcsec": 2.8248343507853004,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271325689193728",
+        "separation_arcsec": 3.3219945503150075,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271325689641216",
+        "separation_arcsec": 3.9419732643042367,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271325689355520",
+        "separation_arcsec": 4.022231965349459,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271325691848704",
+        "separation_arcsec": 4.168958881403271,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271325689358336",
+        "separation_arcsec": 4.431587018127224,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271325689358464",
+        "separation_arcsec": 4.749406453993613,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271325689641472",
+        "separation_arcsec": 4.777271766900707,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3937271325689355392",
+        "separation_arcsec": 4.778688572065702,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3937271321396680064",
+        "separation_arcsec": 4.888085087559995,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "3426177394363645312",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.07639701127962276,
+    "lamost_nearest_gaia_source_id": "3426177394363645312",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "3426177394363645312",
+        "separation_arcsec": 0.2925796859595221,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3426177398651196800",
+        "separation_arcsec": 1.7489890234121026,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3426177329931720576",
+        "separation_arcsec": 2.6030507748567095,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3426177329931720448",
+        "separation_arcsec": 2.7840261672673687,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3426177398652734208",
+        "separation_arcsec": 3.5977720052613344,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3426177398651203456",
+        "separation_arcsec": 4.578749178626181,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3426177329934914304",
+        "separation_arcsec": 4.666098709977359,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "3938022085973127040",
+    "passed": false,
+    "lamost_gaia_separation_arcsec": 0.5446716356988137,
+    "lamost_nearest_gaia_source_id": "3938022085974606720",
+    "lamost_position_check_passed": false,
+    "neighbors": [
+      {
+        "gaia_source_id": "3938022085973127040",
+        "separation_arcsec": 0.034757447380954,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085974606720",
+        "separation_arcsec": 0.9728973279529399,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085973126528",
+        "separation_arcsec": 1.3866571036116975,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085973126656",
+        "separation_arcsec": 1.7125136874497686,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085973126272",
+        "separation_arcsec": 2.0407688825765873,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022085974605056",
+        "separation_arcsec": 2.8226225229877695,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085973121920",
+        "separation_arcsec": 2.8573969284342597,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022085973121792",
+        "separation_arcsec": 3.5554039005982183,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085973129472",
+        "separation_arcsec": 3.6361579746536576,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085975825024",
+        "separation_arcsec": 4.249436295062306,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085974607104",
+        "separation_arcsec": 4.465678362322056,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022085973148544",
+        "separation_arcsec": 4.682178993863321,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022085973149568",
+        "separation_arcsec": 4.7931884072743625,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "3938022085973122304",
+        "separation_arcsec": 4.820837470382089,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3938022085973677056",
+        "separation_arcsec": 4.951699519732453,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "865401795220837120",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.06538720464002687,
+    "lamost_nearest_gaia_source_id": "865401795220837120",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "865401795220837120",
+        "separation_arcsec": 0.05396848542684392,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "3426165578904396672",
+    "passed": false,
+    "lamost_gaia_separation_arcsec": 2.1781955761558787,
+    "lamost_nearest_gaia_source_id": "3426165578904396800",
+    "lamost_position_check_passed": false,
+    "neighbors": [
+      {
+        "gaia_source_id": "3426165578904396672",
+        "separation_arcsec": 0.02670716908294271,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3426165578904396800",
+        "separation_arcsec": 2.1028570798690023,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "3426165574613656448",
+        "separation_arcsec": 4.497924316817018,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "865400867507937280",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.0427751020749245,
+    "lamost_nearest_gaia_source_id": "865400867507937280",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "865400867507937280",
+        "separation_arcsec": 0.023403174216816057,
+        "proper_motion_available": true
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  },
+  {
+    "gaia_dr3_source_id": "1745948323734109312",
+    "passed": true,
+    "lamost_gaia_separation_arcsec": 0.9344381818485369,
+    "lamost_nearest_gaia_source_id": "1745948323734109312",
+    "lamost_position_check_passed": true,
+    "neighbors": [
+      {
+        "gaia_source_id": "1745948323734109312",
+        "separation_arcsec": 0.003942909487459592,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1745948328028854144",
+        "separation_arcsec": 1.519800889296522,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1745948328027256064",
+        "separation_arcsec": 1.6362766838985088,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328031342336",
+        "separation_arcsec": 2.389785425948653,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328031321216",
+        "separation_arcsec": 2.541397905286182,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328025666432",
+        "separation_arcsec": 2.902765411986382,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328031342464",
+        "separation_arcsec": 3.3325730576462185,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1745948328025674752",
+        "separation_arcsec": 3.3443126142334663,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1745948328025667072",
+        "separation_arcsec": 3.557717619857935,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328025666048",
+        "separation_arcsec": 3.6572025115640177,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1745948328025689728",
+        "separation_arcsec": 3.740401280418175,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948358093849216",
+        "separation_arcsec": 3.808062895336271,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328025666816",
+        "separation_arcsec": 3.8266972282024407,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328025665024",
+        "separation_arcsec": 4.005748122616473,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1745948328025689344",
+        "separation_arcsec": 4.253237428967286,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328025658880",
+        "separation_arcsec": 4.301143267850681,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948323734109056",
+        "separation_arcsec": 4.3056307411987,
+        "proper_motion_available": true
+      },
+      {
+        "gaia_source_id": "1745948328031325952",
+        "separation_arcsec": 4.361590637952351,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328025689472",
+        "separation_arcsec": 4.518940169850546,
+        "proper_motion_available": false
+      },
+      {
+        "gaia_source_id": "1745948328029127296",
+        "separation_arcsec": 4.964777733156889,
+        "proper_motion_available": false
+      }
+    ],
+    "rule": "Selected Gaia source must be nearest; no other Gaia source within 0.6 arcsec of selected HSC detection. Missing-PM neighbors use catalog position. Gaia must also be nearest to LAMOST coordinates at its observing date and within 1.5 arcsec."
+  }
+]

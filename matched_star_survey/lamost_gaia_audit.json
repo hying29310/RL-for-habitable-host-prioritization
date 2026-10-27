@@ -1,0 +1,206 @@
+[
+  {
+    "gaia_dr3_source_id": "1745948323734109312",
+    "lamost_obsid": 592507217,
+    "separation_arcsec": 0.9344381818729478,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "1454784484916761856",
+    "lamost_obsid": 448610127,
+    "separation_arcsec": 0.5283724635313182,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "1454784626653819008",
+    "lamost_obsid": 458810127,
+    "separation_arcsec": 0.11996076301552595,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "1454875233277333632",
+    "lamost_obsid": 547210149,
+    "separation_arcsec": 0.27859459904086,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "1454878458800893440",
+    "lamost_obsid": 547210128,
+    "separation_arcsec": 0.1491656049654173,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "3937271321396679936",
+    "lamost_obsid": 401805245,
+    "separation_arcsec": 0.05578535474199434,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "3937271394411123968",
+    "lamost_obsid": 49208245,
+    "separation_arcsec": 0.09859417876346667,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "3938022085973127040",
+    "lamost_obsid": 401805243,
+    "separation_arcsec": 0.5446716356720195,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "3938022395210875648",
+    "lamost_obsid": 812705243,
+    "separation_arcsec": 0.7477810721421698,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "3426165578904396672",
+    "lamost_obsid": 696715093,
+    "separation_arcsec": 2.178195576143297,
+    "passed": false
+  },
+  {
+    "gaia_dr3_source_id": "3426177394363645312",
+    "lamost_obsid": 399915100,
+    "separation_arcsec": 0.0763970112685264,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "865400867507937280",
+    "lamost_obsid": 176216095,
+    "separation_arcsec": 0.04277510207474878,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "865401795220837120",
+    "lamost_obsid": 176316089,
+    "separation_arcsec": 0.06538720466771474,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2051105307736986496",
+    "lamost_obsid": 369805204,
+    "separation_arcsec": 0.01066295425076366,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2051105376456445824",
+    "lamost_obsid": 664016211,
+    "separation_arcsec": 0.34166901599023963,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2051105788773383424",
+    "lamost_obsid": 369805207,
+    "separation_arcsec": 0.006094278716484669,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2051293083704792960",
+    "lamost_obsid": 580505203,
+    "separation_arcsec": 0.011750287553443135,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2051293904037696256",
+    "lamost_obsid": 369805205,
+    "separation_arcsec": 0.17911503813368798,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076299895139969536",
+    "lamost_obsid": 914208028,
+    "separation_arcsec": 0.02975133226331439,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076299963859446016",
+    "lamost_obsid": 162202047,
+    "separation_arcsec": 0.07574936770646408,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076299993911496320",
+    "lamost_obsid": 162302047,
+    "separation_arcsec": 0.21043433313832977,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076299998219216256",
+    "lamost_obsid": 367702047,
+    "separation_arcsec": 0.06893083646100392,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076300032578973952",
+    "lamost_obsid": 367902046,
+    "separation_arcsec": 0.12185872410634659,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076300066938728832",
+    "lamost_obsid": 367802046,
+    "separation_arcsec": 0.12510280288627243,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076393624194561152",
+    "lamost_obsid": 162302040,
+    "separation_arcsec": 0.09692935412927921,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914035456",
+    "lamost_obsid": 162302046,
+    "separation_arcsec": 0.03998563238191372,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914036608",
+    "lamost_obsid": 52808032,
+    "separation_arcsec": 0.10792291252902014,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076393731584089856",
+    "lamost_obsid": 914208032,
+    "separation_arcsec": 0.028649914349392926,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076393937742523904",
+    "lamost_obsid": 162202046,
+    "separation_arcsec": 0.10356950355228077,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076487430587543168",
+    "lamost_obsid": 373104228,
+    "separation_arcsec": 0.23111452633682328,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076487636746036736",
+    "lamost_obsid": 914208029,
+    "separation_arcsec": 0.08807064063685867,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076487739825262976",
+    "lamost_obsid": 373108029,
+    "separation_arcsec": 0.18257252911137611,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076487838597288320",
+    "lamost_obsid": 579808029,
+    "separation_arcsec": 0.07807466327876947,
+    "passed": true
+  },
+  {
+    "gaia_dr3_source_id": "2076489217294043904",
+    "lamost_obsid": 373109010,
+    "separation_arcsec": 0.17615876803183184,
+    "passed": true
+  }
+]

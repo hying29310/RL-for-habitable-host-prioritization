@@ -1,0 +1,23 @@
+{"metadata":
+[
+{"name": "source_id", "datatype": "long", "xtype": null, "arraysize": null, "description": "Unique source identifier (unique within a particular Data Release)", "unit": null, "ucd": "meta.id", "utype": null},
+{"name": "ra", "datatype": "double", "xtype": null, "arraysize": null, "description": "Right ascension", "unit": "deg", "ucd": "pos.eq.ra;meta.main", "utype": "stc:AstroCoords.Position3D.Value3.C1"},
+{"name": "dec", "datatype": "double", "xtype": null, "arraysize": null, "description": "Declination", "unit": "deg", "ucd": "pos.eq.dec;meta.main", "utype": "stc:AstroCoords.Position3D.Value3.C2"},
+{"name": "ref_epoch", "datatype": "double", "xtype": null, "arraysize": null, "description": "Reference epoch", "unit": "yr", "ucd": "meta.ref;time.epoch", "utype": "stc:AstroCoords.Time.TimeInstant"},
+{"name": "pmra", "datatype": "double", "xtype": null, "arraysize": null, "description": "Proper motion in right ascension direction", "unit": "mas.yr**-1", "ucd": "pos.pm;pos.eq.ra", "utype": "stc:AstroCoords.Velocity3D.Value3.C1"},
+{"name": "pmdec", "datatype": "double", "xtype": null, "arraysize": null, "description": "Proper motion in declination direction", "unit": "mas.yr**-1", "ucd": "pos.pm;pos.eq.dec", "utype": "stc:AstroCoords.Velocity3D.Value3.C2"},
+{"name": "parallax", "datatype": "double", "xtype": null, "arraysize": null, "description": "Parallax", "unit": "mas", "ucd": "pos.parallax.trig", "utype": null},
+{"name": "ruwe", "datatype": "float", "xtype": null, "arraysize": null, "description": "Renormalised unit weight error", "unit": null, "ucd": "stat.error", "utype": null},
+{"name": "phot_g_mean_mag", "datatype": "float", "xtype": null, "arraysize": null, "description": "G-band mean magnitude", "unit": "mag", "ucd": "phot.mag;em.opt", "utype": null}
+],
+"data":
+[
+[3938494016978934272,199.11101863509427,17.682715070138467,2016.0,0.7020715879889059,-0.41898328757022063,0.5981473063422778,0.9076412,20.32564],
+[3938494016978448128,199.11038197599063,17.68375437905153,2016.0,null,null,null,null,20.473595],
+[3938494016978448256,199.11056338382764,17.684553038546134,2016.0,-0.6544221358056888,-0.979602151303373,0.73958094678508,0.9692813,19.879408],
+[3938494016978448000,199.11002516630782,17.68355087745286,2016.0,null,null,null,null,20.552475],
+[3938494016978448640,199.11247521396655,17.68393589740246,2016.0,-0.5892560697916466,-1.768026504079955,1.9838454230669804,1.0526305,19.868336],
+[3938494051339349760,199.11205061856714,17.68482364110848,2016.0,-1.1215063315578666,-0.8119970655450629,0.03628506580663171,0.9634479,20.031342],
+[3938494012684246016,199.1113411260091,17.68377035738341,2016.0,-0.3403564419108117,-1.2173629029952258,0.018641252301487454,0.96186763,13.634706]
+]
+}

@@ -1,0 +1,18 @@
+{
+  "run_utc": "2026-10-25T23:38:00.399452+00:00",
+  "input_file": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/expanded_fields/NGC6791/matches.json",
+  "catalog_file": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/expanded_fields/data/NGC6791/lamost.xml",
+  "catalog_sha256": "d8f72343b977d768bcffa81cfdf0fa89a9466aa2fa17985088fefa95eae11100",
+  "input_records": 1,
+  "unique_associations_requested": 1,
+  "records_without_lamost_obsid": 0,
+  "retrieved": 1,
+  "failed": [],
+  "status": "PASS",
+  "notes": [
+    "Parameters are catalog estimates, not newly fitted from spectra.",
+    "Catalog parameter errors omit some systematic uncertainty.",
+    "Spectrum flux-error array is derived as 1/sqrt(inverse variance).",
+    "Repeated observations remain distinct; no averaging or coaddition performed."
+  ]
+}

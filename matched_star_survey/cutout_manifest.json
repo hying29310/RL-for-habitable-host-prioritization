@@ -1,0 +1,405 @@
+[
+  {
+    "gaia_dr3_source_id": "1454784626653819008",
+    "hst_image": "hst_12605_01_wfc3_uvis_f275w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/1454784626653819008.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12605_01_wfc3_uvis_f275w&ra=205.54637605573836&dec=28.392734624081626&size=101&format=fits&applyomega=true",
+    "sha256": "3f78e210a7a0af9d29e755184e573dd8804cffb016324997291c6fb096b1570c",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "1745948323734109312",
+    "hst_image": "hst_13295_05_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/1745948323734109312.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_13295_05_wfc3_uvis_f814w&ra=322.4997491386223&dec=12.169921729912895&size=101&format=fits&applyomega=true",
+    "sha256": "2a2c4b41dd8a1077d6992aa6a7c85e6df8ebd192d123fe7ccc02a5a1d474ddc5",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "1454875233277333632",
+    "hst_image": "hst_10008_a1_acs_wfc_f555w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/1454875233277333632.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_10008_a1_acs_wfc_f555w&ra=205.5773765817553&dec=28.375227852716407&size=101&format=fits&applyomega=true",
+    "sha256": "2f24e246f48da2294c009ea23986b7e49240906ddcfbfb770b050fa6f4c29dd9",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "1454784484916761856",
+    "hst_image": "hst_12605_01_wfc3_uvis_f275w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/1454784484916761856.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12605_01_wfc3_uvis_f275w&ra=205.52156150044806&dec=28.384367908625844&size=101&format=fits&applyomega=true",
+    "sha256": "b15da908c7b99c8ed51c21f28f6d4634913771352761bea4504227cfe03de10c",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10152,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "3937271321396679936",
+    "hst_image": "hst_10775_50_acs_wfc_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/3937271321396679936.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_10775_50_acs_wfc_f814w&ra=198.2503209063245&dec=18.156952718231647&size=101&format=fits&applyomega=true",
+    "sha256": "2a84d87e516e7b176a0e7d8c4bbd7d6d4286effb0dead1794b5c7216b8a32c33",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "1454878458800893440",
+    "hst_image": "hst_10008_a1_acs_wfc_f435w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/1454878458800893440.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_10008_a1_acs_wfc_f435w&ra=205.54785520188898&dec=28.40814296893979&size=101&format=fits&applyomega=true",
+    "sha256": "b58add60372f1847f89fb3312312c9d24f7f7aa87cdebf5cf130639ed50afd94",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "865401795220837120",
+    "hst_image": "hst_06424_02_wfpc2_f814w_wf",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/865401795220837120.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_06424_02_wfpc2_f814w_wf&ra=114.59362498715548&dec=21.593368387590317&size=101&format=fits&applyomega=true",
+    "sha256": "faa11e6970c8e5bcdddb2a1ea64968e221c7bfa15ed5feccc9451438cfa397b9",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 7521,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "865400867507937280",
+    "hst_image": "hst_05303_01_wfpc2_f555w_wf",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/865400867507937280.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_05303_01_wfpc2_f555w_wf&ra=114.52071347127298&dec=21.556410841721743&size=101&format=fits&applyomega=true",
+    "sha256": "15b6b5923a4555d3889acecee96b1eb2526cc1e38894df44b0605a6eca10bf74",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 6993,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2051105376456445824",
+    "hst_image": "hst_13297_96_wfc3_uvis_f438w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2051105376456445824.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_13297_96_wfc3_uvis_f438w&ra=290.2497712547032&dec=37.76756744374678&size=101&format=fits&applyomega=true",
+    "sha256": "e76a7bfedc321ca6261775d8c44a1f13c757672af331b2a7c28b10358d592cc7",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2051105307736986496",
+    "hst_image": "hst_9815_01_acs_wfc_f606w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2051105307736986496.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_9815_01_acs_wfc_f606w&ra=290.27153624086134&dec=37.760708211067396&size=101&format=fits&applyomega=true",
+    "sha256": "e60c8456ae7b3aa5d479a89f06e09dc219c641e5fe4e5460bb7110414a402f41",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2051105788773383424",
+    "hst_image": "hst_13083_01_wfc3_uvis_f502n",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2051105788773383424.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_13083_01_wfc3_uvis_f502n&ra=290.28363459495733&dec=37.79705479294971&size=101&format=fits&applyomega=true",
+    "sha256": "e278cc404fd1d862f6352a2677ccbdfef0c53d506b0a9e76b9177ce3c7212b4f",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10200,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2051293083704792960",
+    "hst_image": "hst_14378_03_wfc3_uvis_f502n",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2051293083704792960.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_14378_03_wfc3_uvis_f502n&ra=290.22576810671336&dec=37.77458582592587&size=101&format=fits&applyomega=true",
+    "sha256": "9599fce8293337b527312d5bb55cb4b096c8fe916495a6ea85d644f4b09dabed",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2051293904037696256",
+    "hst_image": "hst_13566_01_wfc3_uvis_f502n",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2051293904037696256.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_13566_01_wfc3_uvis_f502n&ra=290.24548822096284&dec=37.84424268336605&size=101&format=fits&applyomega=true",
+    "sha256": "d1165ed52d028f93a6c3b5374c710a25b556cbfb594e9887e245c0091e0a1368",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10200,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076299895139969536",
+    "hst_image": "hst_12669_01_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076299895139969536.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_01_wfc3_uvis_f814w&ra=295.28521225640617&dec=40.16452047566327&size=101&format=fits&applyomega=true",
+    "sha256": "38817995a23c7b89657310c986d46fbc21363c8e2ea835c6dafa73c716f8ac80",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076299963859446016",
+    "hst_image": "hst_12669_01_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076299963859446016.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_01_wfc3_uvis_f814w&ra=295.27741985915605&dec=40.17208531370917&size=101&format=fits&applyomega=true",
+    "sha256": "dd58f0f1b1cfb7fa90c0b4ac7866b075527ee6723fca0db79d143a3971c3d902",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076299993911496320",
+    "hst_image": "hst_12669_01_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076299993911496320.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_01_wfc3_uvis_f814w&ra=295.29592999974244&dec=40.186557048308586&size=101&format=fits&applyomega=true",
+    "sha256": "3b7a03ad48ec10912877c32e0deef76c04d8a055a02cb41b92eb8469448be90b",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10200,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076299998219216256",
+    "hst_image": "hst_12669_03_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076299998219216256.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_03_wfc3_uvis_f814w&ra=295.29646445294037&dec=40.195067951439974&size=101&format=fits&applyomega=true",
+    "sha256": "4c718a899b1d2156ed4dd6f1bc356b01b6853cc07496b1e20e1abbae8b678bd3",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10200,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076300032578973952",
+    "hst_image": "hst_12669_02_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076300032578973952.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_02_wfc3_uvis_f814w&ra=295.3156009896469&dec=40.19330379089493&size=101&format=fits&applyomega=true",
+    "sha256": "4ddc136f6b8a9ed4ef965a3c3a1bad2e4d55ab01716326fbc868ae0d2f9b8e41",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076300066938728832",
+    "hst_image": "hst_12669_02_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076300066938728832.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_02_wfc3_uvis_f814w&ra=295.3281580555859&dec=40.19852079115928&size=101&format=fits&applyomega=true",
+    "sha256": "ca010d61c6aa376437960ad40bbfe110415286c89713a034496ed68f88e8a58a",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076393624194561152",
+    "hst_image": "hst_12669_02_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076393624194561152.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_02_wfc3_uvis_f814w&ra=295.3607742524298&dec=40.19491871377704&size=101&format=fits&applyomega=true",
+    "sha256": "8f83535cfc43d3510edcd998adb120fe611ce6d200b3ebde18ec06a9e7dbc950",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914035456",
+    "hst_image": "hst_12669_02_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076393692914035456.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_02_wfc3_uvis_f814w&ra=295.3487112861393&dec=40.20984708218525&size=101&format=fits&applyomega=true",
+    "sha256": "5fe2c22355e59f732d90ee4067db610c32cfee628d146e216f4d7d48da6df7eb",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076393692914036608",
+    "hst_image": "hst_12669_02_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076393692914036608.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_02_wfc3_uvis_f814w&ra=295.34161327433674&dec=40.200560934197554&size=101&format=fits&applyomega=true",
+    "sha256": "87095ccdb696a79db1bf74bf5079d250a04e8e88976a941b020ae111e6245fc9",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "3937271394411123968",
+    "hst_image": "hst_11975_23_wfpc2_f336w_wf",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/3937271394411123968.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_11975_23_wfpc2_f336w_wf&ra=198.23712313416075&dec=18.169779388854657&size=101&format=fits&applyomega=true",
+    "sha256": "13ac88b8a664e241985da2db115d95e87123f718d3fc7306ef363205503073e6",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076393731584089856",
+    "hst_image": "hst_12669_02_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076393731584089856.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_02_wfc3_uvis_f814w&ra=295.3571131032854&dec=40.20911244706076&size=101&format=fits&applyomega=true",
+    "sha256": "479889e90b72bea9bd514696f3020df0f9351fa2d2482d738128ffab1d6a8fb8",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076393937742523904",
+    "hst_image": "hst_12669_03_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076393937742523904.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_03_wfc3_uvis_f814w&ra=295.3394498560234&dec=40.23259225675859&size=101&format=fits&applyomega=true",
+    "sha256": "ad5b499a11421bb27b87bd9f46994f23605f3ab76db6e0c157b12bbebfd9a907",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10130,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076487430587543168",
+    "hst_image": "hst_11688_08_acs_wfc_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076487430587543168.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_11688_08_acs_wfc_f814w&ra=295.1916775781731&dec=40.18920908448676&size=101&format=fits&applyomega=true",
+    "sha256": "2f744faec242de8418eab16388837fec906cb9a423d504e39a9b2106170f13ba",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10148,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076487636746036736",
+    "hst_image": "hst_12669_01_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076487636746036736.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_01_wfc3_uvis_f814w&ra=295.2639078020305&dec=40.19560162650205&size=101&format=fits&applyomega=true",
+    "sha256": "6e4526535e0bfc862f79caa8d9c3df5aa19fba498d426c1c90c87ffddae274aa",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076487739825262976",
+    "hst_image": "hst_12669_03_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076487739825262976.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_03_wfc3_uvis_f814w&ra=295.2602187274629&dec=40.21431063960281&size=101&format=fits&applyomega=true",
+    "sha256": "c7eea70ea0b670c5840ebd9ac9844426d513ea48ef0b3c226ae7346a8b6fef49",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076487838597288320",
+    "hst_image": "hst_12669_03_wfc3_uvis_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076487838597288320.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_12669_03_wfc3_uvis_f814w&ra=295.2857706421493&dec=40.22496019717879&size=101&format=fits&applyomega=true",
+    "sha256": "c07ae73596f7cc9ef7ae2f2fe444fc9ff06769c482988a420178ccd3dc87db67",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "2076489217294043904",
+    "hst_image": "hst_11688_a7_acs_wfc_f814w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/2076489217294043904.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_11688_a7_acs_wfc_f814w&ra=295.2232960555964&dec=40.30142663610841&size=101&format=fits&applyomega=true",
+    "sha256": "04c7b6d20a884512dc0feec441297798897c81f3075bfa8181689b83ef659147",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10166,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  },
+  {
+    "gaia_dr3_source_id": "3426177394363645312",
+    "hst_image": "hst_10500_02_acs_wfc_f606w",
+    "path": "/Users/mac/Documents/Codex/2026-09-28/new-chat/outputs/matched_star_survey/data/hst_cutouts/3426177394363645312.fits",
+    "url": "https://hla.stsci.edu/cgi-bin/fitscut.cgi?red=hst_10500_02_acs_wfc_f606w&ra=91.86331050048302&dec=24.088053986494046&size=101&format=fits&applyomega=true",
+    "sha256": "baac5db12bdd3ac436efe7a8d7bead76a01294f21562ce56573db7a95e02eebe",
+    "shape": [
+      101,
+      101
+    ],
+    "finite_pixels": 10201,
+    "note": "Published HSC coordinates provide the measured centroid. Cutout downloaded for visual review; no new independent centroid claimed."
+  }
+]

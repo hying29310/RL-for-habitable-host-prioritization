@@ -1,0 +1,33 @@
+[
+  {
+    "_ra_": 85.4249189,
+    "_dec_": -1.8020456,
+    "_searchID_": 1,
+    "MatchID": "65457972",
+    "distanceArcMin": 0.0011451842365606864,
+    "MatchRA": 85.42491833194987,
+    "MatchDec": -1.8020646779572707,
+    "DSigma": 0.0,
+    "AbsCorr": "Y",
+    "NumFilters": 1,
+    "NumVisits": 1,
+    "NumImages": 1,
+    "StartTime": "2003-01-06 18:30:15.307000",
+    "StopTime": "2003-01-06 18:52:35.303000",
+    "StartMJD": 52645.77101045847,
+    "StopMJD": 52645.78651967365,
+    "TargetName": "ANY",
+    "CI": 2.7605813603068508,
+    "CI_Sigma": 0.0,
+    "KronRadius": 0.3499999940395355,
+    "KronRadius_Sigma": 0.0,
+    "Extinction": 41.82701110839844,
+    "W2_F656N": 13.449190139770508,
+    "W2_F656N_MAD": 0.0,
+    "W2_F656N_N": 1,
+    "W2_F814W": null,
+    "W2_F814W_MAD": null,
+    "W2_F814W_N": null,
+    "_target_index": 1
+  }
+]

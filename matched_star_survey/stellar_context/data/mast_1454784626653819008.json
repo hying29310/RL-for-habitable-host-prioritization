@@ -1,0 +1,328 @@
+{
+  "status": "COMPLETE",
+  "msg": "",
+  "data": [
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "QLP",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "Optical",
+      "target_name": "416607187",
+      "target_classification": null,
+      "obs_id": "hlsp_qlp_tess_ffi_s0023-0000000416607187_tess_v01_llc",
+      "s_ra": 205.5441,
+      "s_dec": 28.393574,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Chelsea X. Huang",
+      "calib_level": 4,
+      "t_min": 58927.61950876,
+      "t_max": 58954.36950166,
+      "t_exptime": 1800,
+      "wavelength_region": "Optical",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 59171.9378124,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 23,
+      "s_region": "CIRCLE ICRS 205.54410000 28.39357400 0.00111111",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/qlp/s0023/0000/0004/1660/7187/hlsp_qlp_tess_ffi_s0023-0000000416607187_tess_v01_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 35601179,
+      "objID": 79542781,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 79542781,
+      "distance": 3.84784423384079
+    },
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "QLP",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "Optical",
+      "target_name": "416607187",
+      "target_classification": null,
+      "obs_id": "hlsp_qlp_tess_ffi_s0050-0000000416607187_tess_v01_llc",
+      "s_ra": 205.5441,
+      "s_dec": 28.393574,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Chelsea X. Huang",
+      "calib_level": 4,
+      "t_min": 59664.77902231552,
+      "t_max": 59691.00794830872,
+      "t_exptime": 600,
+      "wavelength_region": "Optical",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 60030.68569437,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 50,
+      "s_region": "CIRCLE 205.5441 28.393574 0.0011111111111111111",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/qlp/s0050/0000/0004/1660/7187/hlsp_qlp_tess_ffi_s0050-0000000416607187_tess_v01_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 121213496,
+      "objID": 224898757,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 224898757,
+      "distance": 3.84784423384079
+    },
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "QLP",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "OPTICAL",
+      "target_name": "416607187",
+      "target_classification": null,
+      "obs_id": "hlsp_qlp_tess_ffi_s0077-0000000416607187_tess_v02_llc",
+      "s_ra": 205.5441,
+      "s_dec": 28.393574,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Chelsea X. Huang",
+      "calib_level": 4,
+      "t_min": 60394.98700362863,
+      "t_max": 60423.05246739555,
+      "t_exptime": 200,
+      "wavelength_region": "OPTICAL",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": null,
+      "t_obs_release": 60807.05215274,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 77,
+      "s_region": "CIRCLE 205.5441 28.393574 0.0011111111111111111",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/qlp/s0077/0000/0004/1660/7187/hlsp_qlp_tess_ffi_s0077-0000000416607187_tess_v02_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 264737430,
+      "objID": 798163426,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 798163426,
+      "distance": 3.84784423384079
+    },
+    {
+      "intentType": "science",
+      "obs_collection": "HLSP",
+      "provenance_name": "TEQUILA",
+      "instrument_name": "Photometer",
+      "project": "TESS",
+      "filters": "TESS",
+      "wave_region": "OPTICAL",
+      "target_name": "s0023-cam2-ccd3-x1968-y1072",
+      "target_classification": null,
+      "obs_id": "hlsp_tequila_tess_ffi_s0023-cam2-ccd3-x1968-y1072_tess",
+      "s_ra": 205.544,
+      "s_dec": 28.3922,
+      "dataproduct_type": "timeseries",
+      "proposal_pi": "Lev Tal-Or",
+      "calib_level": 4,
+      "t_min": 58927.6092,
+      "t_max": 58954.3589,
+      "t_exptime": 1800,
+      "wavelength_region": "OPTICAL",
+      "em_min": 600,
+      "em_max": 1000,
+      "obs_title": "TESS Quick-Look and Lightcurve Analysis",
+      "t_obs_release": 61022.3190625,
+      "proposal_id": "N/A",
+      "proposal_type": null,
+      "sequence_number": 23,
+      "s_region": "CIRCLE 205.544 28.3922 0.0011111111111111111",
+      "jpegURL": null,
+      "dataURL": "mast:HLSP/tequila/s0023/cam2-ccd3/hlsp_tequila_tess_ffi_s0023-cam2-ccd3-x1968-y1072_tess_v1_llc.fits",
+      "dataRights": "PUBLIC",
+      "mtFlag": false,
+      "srcDen": null,
+      "obsid": 367926264,
+      "objID": 1056010075,
+      "wave_min": 600,
+      "wave_max": 1000,
+      "objID1": 1056010075,
+      "distance": 3.8665943363542583
+    }
+  ],
+  "fields": [
+    {
+      "name": "intentType",
+      "type": "string"
+    },
+    {
+      "name": "obs_collection",
+      "type": "string"
+    },
+    {
+      "name": "provenance_name",
+      "type": "string"
+    },
+    {
+      "name": "instrument_name",
+      "type": "string"
+    },
+    {
+      "name": "project",
+      "type": "string"
+    },
+    {
+      "name": "filters",
+      "type": "string"
+    },
+    {
+      "name": "wave_region",
+      "type": "string"
+    },
+    {
+      "name": "target_name",
+      "type": "string"
+    },
+    {
+      "name": "target_classification",
+      "type": "string"
+    },
+    {
+      "name": "obs_id",
+      "type": "string"
+    },
+    {
+      "name": "s_ra",
+      "type": "float"
+    },
+    {
+      "name": "s_dec",
+      "type": "float"
+    },
+    {
+      "name": "dataproduct_type",
+      "type": "string"
+    },
+    {
+      "name": "proposal_pi",
+      "type": "string"
+    },
+    {
+      "name": "calib_level",
+      "type": "int"
+    },
+    {
+      "name": "t_min",
+      "type": "float"
+    },
+    {
+      "name": "t_max",
+      "type": "float"
+    },
+    {
+      "name": "t_exptime",
+      "type": "float"
+    },
+    {
+      "name": "wavelength_region",
+      "type": "string"
+    },
+    {
+      "name": "em_min",
+      "type": "float"
+    },
+    {
+      "name": "em_max",
+      "type": "float"
+    },
+    {
+      "name": "obs_title",
+      "type": "string"
+    },
+    {
+      "name": "t_obs_release",
+      "type": "float"
+    },
+    {
+      "name": "proposal_id",
+      "type": "string"
+    },
+    {
+      "name": "proposal_type",
+      "type": "string"
+    },
+    {
+      "name": "sequence_number",
+      "type": "int"
+    },
+    {
+      "name": "s_region",
+      "type": "string"
+    },
+    {
+      "name": "jpegURL",
+      "type": "string"
+    },
+    {
+      "name": "dataURL",
+      "type": "string"
+    },
+    {
+      "name": "dataRights",
+      "type": "string"
+    },
+    {
+      "name": "mtFlag",
+      "type": "boolean"
+    },
+    {
+      "name": "srcDen",
+      "type": "float"
+    },
+    {
+      "name": "obsid",
+      "type": "string"
+    },
+    {
+      "name": "objID",
+      "type": "string"
+    },
+    {
+      "name": "wave_min",
+      "type": "float"
+    },
+    {
+      "name": "wave_max",
+      "type": "float"
+    },
+    {
+      "name": "objID1",
+      "type": "string"
+    },
+    {
+      "name": "distance",
+      "type": "float"
+    }
+  ],
+  "paging": {
+    "page": 1,
+    "pageSize": 4,
+    "pagesFiltered": 1,
+    "rows": 4,
+    "rowsFiltered": 4,
+    "rowsTotal": 4
+  }
+}

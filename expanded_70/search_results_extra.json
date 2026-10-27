@@ -1,0 +1,23 @@
+[
+  {
+    "field": "M31_PHAT1",
+    "lamost_observations": 284,
+    "eligible_stars": 65,
+    "hsc_candidate_records": 7530,
+    "stars_with_hsc_candidates": 61
+  },
+  {
+    "field": "M31_PHAT2",
+    "lamost_observations": 261,
+    "eligible_stars": 81,
+    "hsc_candidate_records": 5569,
+    "stars_with_hsc_candidates": 57
+  },
+  {
+    "field": "M31_PHAT3",
+    "lamost_observations": 250,
+    "eligible_stars": 76,
+    "hsc_candidate_records": 2098,
+    "stars_with_hsc_candidates": 22
+  }
+]

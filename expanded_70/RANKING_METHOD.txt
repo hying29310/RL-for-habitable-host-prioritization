@@ -1,0 +1,69 @@
+STELLAR SEARCH-PRIORITY SCORE v0.1
+
+Purpose: rank targets for a search for potentially habitable planets, using only
+temperature, metallicity, the spectrum, luminosity and radius. This is an explicit
+heuristic baseline, NOT a calibrated probability of hosting a planet or life.
+No light curves, ages, radial velocities, surface gravities, masses, distances,
+activity measurements or planet labels enter the ranking formula.
+
+Formula (T in kelvin; R and L in solar units; Z = [Fe/H] in dex):
+
+  A = exp[-0.5 ((T - 5200)/1500)^2]
+  D = max( |log10(R/R_MS(T))|/0.30,
+           |log10(L/L_MS(T))|/0.60 )
+  B = exp[-0.5 D^2]
+  C = 0.9 + 0.1 tanh((Z + 0.5)/0.5)
+  Priority = 100 * A^0.4 * B^0.5 * C^0.1
+
+A: a broad preference for late-G/K-like temperatures. The center and width are
+   chosen study-design parameters, not measured habitability thresholds. Cooler
+   M stars and hotter F stars are NOT asserted to be incapable of hosting life.
+B: resemblance to the empirical dwarf/main-sequence radius and luminosity at
+   the measured temperature. It downweights inflated/evolved-star-like targets
+   for this particular long-lived-dwarf search strategy. It does not prove a
+   star's evolutionary state. Giants can have planets and habitable zones.
+C: a deliberately weak, bounded metallicity preference. It cannot force a
+   metal-poor star's score to zero. Small rocky planets occur over a broad
+   metallicity range; the strong giant-planet metallicity law is NOT used here.
+
+R_MS(T), L_MS(T) come from the saved Mamajek dwarf sequence, version 2022.04.16,
+interpolated in log temperature/log radius/log luminosity. The modern table
+includes updates beyond Pecaut & Mamajek (2013). The reference sequence is not
+metallicity-specific; applying it to very metal-poor stars is a limitation.
+The 0.30 and 0.60 dex scales are chosen tolerances, not measurement uncertainties.
+Taking the maximum avoids treating correlated radius and luminosity offsets as
+independent evidence. T, R and L themselves remain strongly dependent.
+
+HOW THE SPECTRUM IS USED
+Temperature, [Fe/H] and spectral type come from LAMOST spectral analysis. The full
+measured spectrum is preserved. We do not invent an additional independent
+"spectrum habitability" signal or double-count spectral type and temperature.
+Signal-to-noise, masks and parameter errors are reliability information reported
+separately. A poor observation does not make the physical star less habitable.
+Scores with flagged inputs remain provisional and require review.
+
+UNCERTAINTY AND ROBUSTNESS
+Missing radius/luminosity is missing, never replaced with a value that improves
+the score. Only complete inputs receive a numerical score. The output contains
+sensitivity bounds from changing temperature preference centers (4800,5200,5600 K),
+main-sequence tolerances (0.2,0.3,0.4 dex in radius; twice those in luminosity),
+and removing the metallicity preference. These are sensitivity ranges, NOT
+confidence intervals. Correlated Gaia posteriors and catalog systematic errors
+are not fully propagated. Review large disagreements with L = R^2 (T/5772)^4.
+
+INTERPRETATION
+A score of 80 means high priority under these chosen assumptions. It does NOT
+mean an 80% chance of a planet, habitability, or life. No planets were detected.
+The available features cannot establish stellar activity, binarity, age, planetary
+orbits, water or atmospheres. To turn this into a host probability would require
+appropriate labeled data, selection-function treatment, calibration, and held-out
+validation. An RL model should be evaluated on recovered signals, not rewarded
+merely for reproducing this hand-written score.
+
+REFERENCES
+Dwarf reference: https://www.pas.rochester.edu/~emamajek/EEM_dwarf_UBVIJHK_colors_Teff.txt
+Pecaut & Mamajek (2013): https://doi.org/10.1088/0067-0049/208/1/9
+K-dwarf search motivation: https://doi.org/10.3847/0004-637X/827/1/79
+Small planets across metallicities: https://pubmed.ncbi.nlm.nih.gov/22722196/
+The exact weights, offsets and tolerance scales above are our assumptions;
+these references do not validate or prescribe this formula.

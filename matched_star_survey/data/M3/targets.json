@@ -1,0 +1,233 @@
+[
+  {
+    "gaia_dr3_source_id": "1454829328669780224",
+    "lamost_obsid": 977010137,
+    "ra": 205.8306328,
+    "dec": 28.3961069,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454829053791870976",
+    "lamost_obsid": 977010139,
+    "ra": 205.7648397,
+    "dec": 28.3834578,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "1454785451286618624",
+    "lamost_obsid": 110210139,
+    "ra": 205.525657,
+    "dec": 28.412697,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "1454879322088996992",
+    "lamost_obsid": 110210143,
+    "ra": 205.550218,
+    "dec": 28.440692,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454873820233046016",
+    "lamost_obsid": 110210146,
+    "ra": 205.672917,
+    "dec": 28.318907,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454881933429165184",
+    "lamost_obsid": 110214031,
+    "ra": 205.62946,
+    "dec": 28.567919,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454878875413134080",
+    "lamost_obsid": 110310134,
+    "ra": 205.633223,
+    "dec": 28.450724,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "1454784523573545088",
+    "lamost_obsid": 110310139,
+    "ra": 205.490031,
+    "dec": 28.376418,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454892447508912512",
+    "lamost_obsid": 110314041,
+    "ra": 205.535048,
+    "dec": 28.57654,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454777892144186624",
+    "lamost_obsid": 448610113,
+    "ra": 205.516203,
+    "dec": 28.211248,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454826682969909888",
+    "lamost_obsid": 448610123,
+    "ra": 205.745823,
+    "dec": 28.289254,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454780945860901120",
+    "lamost_obsid": 448610124,
+    "ra": 205.56069,
+    "dec": 28.309892,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454784484916761856",
+    "lamost_obsid": 448610127,
+    "ra": 205.521404,
+    "dec": 28.384339,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454881314953875840",
+    "lamost_obsid": 448610130,
+    "ra": 205.687958,
+    "dec": 28.563193,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454893753179164416",
+    "lamost_obsid": 448610137,
+    "ra": 205.608557,
+    "dec": 28.584323,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "1454892172631004032",
+    "lamost_obsid": 448610150,
+    "ra": 205.550879,
+    "dec": 28.551006,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454777750405945472",
+    "lamost_obsid": 458810104,
+    "ra": 205.5577106,
+    "dec": 28.2079117,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "1454732090613000832",
+    "lamost_obsid": 458810108,
+    "ra": 205.6464228,
+    "dec": 28.1924669,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454826751689388032",
+    "lamost_obsid": 458810123,
+    "ra": 205.734943,
+    "dec": 28.302498,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454780774062209152",
+    "lamost_obsid": 458810124,
+    "ra": 205.5515318,
+    "dec": 28.3103882,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454784626653819008",
+    "lamost_obsid": 458810127,
+    "ra": 205.5463786,
+    "dec": 28.3927613,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454881589831776896",
+    "lamost_obsid": 458810137,
+    "ra": 205.61954361,
+    "dec": 28.53306389,
+    "fibermask": 128
+  },
+  {
+    "gaia_dr3_source_id": "1454892378789435392",
+    "lamost_obsid": 458810150,
+    "ra": 205.5421381,
+    "dec": 28.5681022,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454781259393870336",
+    "lamost_obsid": 547210127,
+    "ra": 205.548921,
+    "dec": 28.339796,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454878458800893440",
+    "lamost_obsid": 547210128,
+    "ra": 205.547827,
+    "dec": 28.4081557,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454880898339720064",
+    "lamost_obsid": 547210137,
+    "ra": 205.6587976,
+    "dec": 28.5377998,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "1454875233277333632",
+    "lamost_obsid": 547210149,
+    "ra": 205.577397,
+    "dec": 28.375152,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454893340862108672",
+    "lamost_obsid": 977010083,
+    "ra": 205.467888,
+    "dec": 28.588522,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454894096776357248",
+    "lamost_obsid": 977010089,
+    "ra": 205.572464,
+    "dec": 28.619974,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "1454785691804450176",
+    "lamost_obsid": 977010128,
+    "ra": 205.4846739,
+    "dec": 28.4323917,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454874099408643328",
+    "lamost_obsid": 977010136,
+    "ra": 205.6478569,
+    "dec": 28.3328686,
+    "fibermask": 0
+  },
+  {
+    "gaia_dr3_source_id": "1454875405078903808",
+    "lamost_obsid": 977010141,
+    "ra": 205.6200183,
+    "dec": 28.4046294,
+    "fibermask": 64
+  },
+  {
+    "gaia_dr3_source_id": "1454783694639968384",
+    "lamost_obsid": 977010189,
+    "ra": 205.4793042,
+    "dec": 28.3208189,
+    "fibermask": 64
+  }
+]
